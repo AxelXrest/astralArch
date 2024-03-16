@@ -1,0 +1,644 @@
+{
+	"file_history":
+	[
+		"/home/axel/.config/ags/modules/bar/normal/music.js",
+		"/home/axel/.config/ags/modules/bar/normal/workspaces_sway.js",
+		"/home/axel/.config/ags/modules/bar/main.js",
+		"/home/axel/.config/ags/modules/bar/normal/spaceleft.js",
+		"/home/axel/.config/ags/modules/bar/normal/workspaces_hyprland.js",
+		"/home/axel/.config/ags/modules/bar/normal/spaceright.js",
+		"/home/axel/.config/ags/modules/bar/normal/system.js"
+	],
+	"folder_history":
+	[
+		"/home/axel/.config/ags/modules/bar"
+	],
+	"last_version": 4169,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1710604654,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 768.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			26.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/axel/.config/ags/modules/bar/normal/spaceleft.js",
+				"/home/axel/.config/ags/modules/bar/normal/music.js",
+				"/home/axel/.config/ags/modules/bar/normal/spaceright.js",
+				"/home/axel/.config/ags/scss/_bar.scss",
+				"/home/axel/.config/ags/modules/bar/normal/workspaces_sway.js",
+				"/home/axel/.config/ags/modules/bar/main.js",
+				"/home/axel/.config/ags/modules/bar/normal/workspaces_hyprland.js",
+				"/home/axel/.config/ags/modules/bar/normal/system.js"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1366.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/axel/.config/ags/scss/_bar.scss",
+					"settings":
+					{
+						"buffer_size": 7331,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							25,
+							3,
+							"left_delete",
+							null,
+							"AwAAANkXAAAAAAAA2RcAAAAAAAABAAAAMdgXAAAAAAAA2BcAAAAAAAABAAAANNcXAAAAAAAA1xcAAAAAAAABAAAAMw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADaFwAAAAAAANoXAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAANcXAAAAAAAA2BcAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADXFwAAAAAAANcXAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AgAAADQYAAAAAAAANRgAAAAAAAAAAAAANRgAAAAAAAA1GAAAAAAAAAMAAAA2ODI",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA3GAAAAAAAADQYAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/axel/.config/ags/modules/bar/normal/spaceright.js",
+					"settings":
+					{
+						"buffer_size": 3899,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"left_delete",
+							null,
+							"AQAAABICAAAAAAAAEgIAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAgAAAAAAABMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAABICAAAAAAAAEwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAgAAAAAAABICAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/axel/.config/ags/modules/bar/normal/music.js",
+					"redo_stack":
+					[
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "nem"
+							},
+							"AwAAAOABAAAAAAAA4AEAAAAAAAABAAAAbd8BAAAAAAAA3wEAAAAAAAABAAAAZd4BAAAAAAAA3gEAAAAAAAABAAAAbg",
+							"AQAAAAAAAAABAAAA4QEAAAAAAADhAQAAAAAAAAAAAAAAAPC/"
+						]
+					],
+					"settings":
+					{
+						"buffer_size": 10178,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"contents": "import App from 'resource:///com/github/Aylur/ags/app.js';\nimport Widget from 'resource:///com/github/Aylur/ags/widget.js';\nimport Brightness from '../../../services/brightness.js';\nimport Indicator from '../../../services/indicator.js';\n\n// const WindowTitle = async () => {\n//     try {\n//         const Hyprland = (await import('resource:///com/github/Aylur/ags/service/hyprland.js')).default;\n//         return Widget.Scrollable({\n//             hexpand: true, vexpand: true,\n//             hscroll: 'automatic', vscroll: 'never',\n//             child: Widget.Box({\n//                 vertical: true,\n//                 children: [\n//                     Widget.Label({\n//                         xalign: 0,\n//                         truncate: 'end',\n//                         maxWidthChars: 10, // Doesn't matter, just needs to be non negative\n//                         className: 'txt-smaller bar-topdesc txt',\n//                         setup: (self) => self.hook(Hyprland.active.client, label => { // Hyprland.active.client\n//                             label.label = Hyprland.active.client.class.length === 0 ? 'Desktop' : Hyprland.active.client.class;\n//                         }),\n//                     }),\n//                     Widget.Label({\n//                         xalign: 0,\n//                         truncate: 'end',\n//                         maxWidthChars: 10, // Doesn't matter, just needs to be non negative\n//                         className: 'txt txt-smallie',\n//                         setup: (self) => self.hook(Hyprland.active.client, label => { // Hyprland.active.client\n//                             label.label = Hyprland.active.client.title.length === 0 ? `Workspace ${Hyprland.active.workspace.id}` : Hyprland.active.client.title;\n//                         }),\n//                     })\n//                 ]\n//             })\n//         });\n//     } catch {\n//         return null;\n//     }\n// }\n\n//const OptionalWindowTitleInstance = await WindowTitle();\nconst SystemResourcesOrCustomModule = () => {\n        // Check if ~/.cache/ags/user/scripts/custom-module-poll.sh exists\n        if (GLib.file_test(CUSTOM_MODULE_CONTENT_SCRIPT, GLib.FileTest.EXISTS)) {\n            const interval = Number(Utils.readFile(CUSTOM_MODULE_CONTENT_INTERVAL_FILE)) || 5000;\n            return BarGroup({\n                child: Button({\n                    child: Label({\n                        className: 'txt-smallie txt-onSurfaceVariant',\n                        useMarkup: true,\n                        setup: (self) => Utils.timeout(1, () => {\n                            self.label = exec(CUSTOM_MODULE_CONTENT_SCRIPT);\n                            self.poll(interval, (self) => {\n                                const content = exec(CUSTOM_MODULE_CONTENT_SCRIPT);\n                                self.label = content;\n                            })\n                        })\n                    }),\n                    onPrimaryClickRelease: () => execAsync(CUSTOM_MODULE_LEFTCLICK_SCRIPT).catch(print),\n                    onSecondaryClickRelease: () => execAsync(CUSTOM_MODULE_RIGHTCLICK_SCRIPT).catch(print),\n                    onMiddleClickRelease: () => execAsync(CUSTOM_MODULE_MIDDLECLICK_SCRIPT).catch(print),\n                    onScrollUp: () => execAsync(CUSTOM_MODULE_SCROLLUP_SCRIPT).catch(print),\n                    onScrollDown: () => execAsync(CUSTOM_MODULE_SCROLLDOWN_SCRIPT).catch(print),\n                })\n            });\n        } else return BarGroup({\n            child: Box({\n                children: [\n                    BarResource('RAM Usage', 'memory', `LANG=C free | awk '/^Mem/ {printf(\"%.2f\\\\n\", ($3/$2) * 100)}'`,\n                        'bar-ram-circprog', 'bar-ram-txt', 'bar-ram-icon'),\n                    Revealer({\n                        revealChild: true,\n                        transition: 'slide_left',\n                        transitionDuration: userOptions.animations.durationLarge,\n                        child: Box({\n                            className: 'spacing-h-10 margin-left-10',\n                            children: [\n                                // BarResource('Swap Usage', 'swap_horiz', `LANG=C free | awk '/^Swap/ {if ($2 > 0) printf(\"%.2f\\\\n\", ($3/$2) * 100); else print \"0\";}'`,\n                                //     'bar-swap-circprog', 'bar-swap-txt', 'bar-swap-icon'),\n                                BarResource('CPU Usage', 'settings_motion_mode', `LANG=C top -bn1 | grep Cpu | sed 's/\\\\,/\\\\./g' | awk '{print $2}'`,\n                                    'bar-cpu-circprog', 'bar-cpu-txt', 'bar-cpu-icon'),\n                            ]\n                        }),\n                        setup: (self) => self.hook(Mpris, label => {\n                            const mpris = Mpris.getPlayer('');\n                            self.revealChild = (!mpris);\n                        }),\n                    })\n                ],\n            })\n        });\n    }\n\nexport default () => Widget.EventBox({\n    onScrollUp: () => {\n        Indicator.popup(1); // Since the brightness and speaker are both on the same window\n        Brightness.screen_value += 0.05;\n    },\n    onScrollDown: () => {\n        Indicator.popup(1); // Since the brightness and speaker are both on the same window\n        Brightness.screen_value -= 0.05;\n    },\n    onPrimaryClick: () => {\n        App.toggleWindow('sideleft');\n    },\n    child: Widget.Box({\n        homogeneous: false,\n        children: [\n            Widget.Box({ className: 'bar-corner-spacing' }),\n            Widget.Overlay({\n                overlays: [\n                    Widget.Box({ hexpand: true }),\n                    Widget.Box({\n                        className: 'bar-sidemodule', hexpand: true,\n                        children: [Widget.Box({\n                            vertical: true,\n                            className: 'bar-space-button',\n                            children: [\n                                //OptionalWindowTitleInstance,\n                            ]\n                        })]\n                    }),\n                ]\n            })\n        ]\n    })\n});",
+					"file": "/home/axel/.config/ags/modules/bar/normal/spaceleft.js",
+					"file_size": 3176,
+					"file_write_time": 133549992834020853,
+					"settings":
+					{
+						"buffer_size": 6140,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAOALAAAAAAAA4QsAAAAAAAAAAAAA4QsAAAAAAAABDAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADgCwAAAAAAAOALAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							15,
+							1,
+							"",
+							null,
+							"AQAAAAEMAAAAAAAA8gwAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOALAAAAAAAA4AsAAAAAAAASAQAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2lkZ2V0LkxhYmVsKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeGFsaWduOiAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbDogJ1x1MjM4NycsIC8vIFVuaWNvZGUgZm9yIEFyY2ggbG9nbwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU6ICd0eHQgdHh0LXNtYWxsaWUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLA",
+							"AQAAAAAAAAABAAAA8gwAAAAAAADgCwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAANEHAAAAAAAA0gcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0QcAAAAAAADRBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"paste",
+							null,
+							"AQAAANIHAAAAAAAAZRMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0gcAAAAAAADSBwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/axel/.config/ags/modules/bar",
+				"/home/axel/.config/ags/modules/bar/focus",
+				"/home/axel/.config/ags/modules/bar/normal"
+			],
+			"file_history":
+			[
+				"/home/axel/.config/ags/modules/bar/normal/music.js",
+				"/home/axel/.config/ags/modules/bar/normal/workspaces_sway.js",
+				"/home/axel/.config/ags/modules/bar/main.js",
+				"/home/axel/.config/ags/modules/bar/normal/spaceleft.js",
+				"/home/axel/.config/ags/modules/bar/normal/workspaces_hyprland.js",
+				"/home/axel/.config/ags/modules/bar/normal/spaceright.js",
+				"/home/axel/.config/ags/modules/bar/normal/system.js"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/axel/.config/ags/modules/bar"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/axel/.config/ags/scss/_bar.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7331,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6197,
+										6197
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5995.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/axel/.config/ags/modules/bar/normal/spaceright.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3899,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1017,
+										1017
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 177.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/axel/.config/ags/modules/bar/normal/music.js",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6290,
+										9253
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1290.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/axel/.config/ags/modules/bar/normal/spaceleft.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6140,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4965,
+										4965
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1371.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1177,716,1366,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

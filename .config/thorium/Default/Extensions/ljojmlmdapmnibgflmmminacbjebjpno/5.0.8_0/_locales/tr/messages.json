@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Etkinleştir"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "veya Lisansı Etkinleştir"
+   },
+   "activeTabDesc": {
+      "message": "Etkin Meet sekmesini bulmak için uzantı simgesini tıklayın"
+   },
+   "activeTabLabel": {
+      "message": "Aktif Meet Sekmesini Bul"
+   },
+   "alwaysShowLabel": {
+      "message": "Her zaman katılımcı adlarını göster"
+   },
+   "attendanceDesc": {
+      "message": "Toplantıya katılımı yakalayın ve bir CSV&#39;ye aktarın"
+   },
+   "attendanceLabel": {
+      "message": "Yoklama almak"
+   },
+   "autoAdmitDesc": {
+      "message": "Meet&#39;e yeni katılanları otomatik olarak kabul eder"
+   },
+   "autoAdmitLabel": {
+      "message": "Yeni Girenleri Otomatik Olarak Kabul Et"
+   },
+   "autoFullScreenDesc": {
+      "message": "Biri sunum yaparken otomatik olarak tam ekrana geç"
+   },
+   "autoFullScreenLabel": {
+      "message": "Otomatik Tam Ekran"
+   },
+   "autoJoinDesc": {
+      "message": "Toplantıya otomatik olarak katıl"
+   },
+   "autoJoinDescOption": {
+      "message": "Toplantıya yalnızca katılımcılar hazır olduğunda katıl"
+   },
+   "autoJoinLabel": {
+      "message": "Otomatik Katılma"
+   },
+   "autoMinimizeDesc": {
+      "message": "Bir toplantıya katıldığınızda videonuzu otomatik olarak küçültün"
+   },
+   "autoMinimizeLabel": {
+      "message": "Videoyu Otomatik Küçült"
+   },
+   "autoMuteDesc": {
+      "message": "Katılırken mikrofonu otomatik sessize alma"
+   },
+   "autoMuteLabel": {
+      "message": "Otomatik Sessiz"
+   },
+   "autoRecordDesc": {
+      "message": "Meet kaydını otomatik olarak başlat (Google Workspace gereklidir)"
+   },
+   "autoRecordDescOne": {
+      "message": "Kaydı otomatik olarak başlat"
+   },
+   "autoRecordDescThree": {
+      "message": "Transkripsiyonu otomatik olarak başlat"
+   },
+   "autoRecordDescTwo": {
+      "message": "Kaydı manuel olarak başlat"
+   },
+   "autoRecordLabel": {
+      "message": "Otomatik Kayıt"
+   },
+   "autoRejectDesc": {
+      "message": "Meet&#39;e yeni katılanları otomatik olarak reddeder"
+   },
+   "autoRejectLabel": {
+      "message": "Yeni Girenleri Otomatik Olarak Reddet"
+   },
+   "autoUnmuteDesc": {
+      "message": "Başkalarının mikrofonunuzun sesini kapatmasını önleyin"
+   },
+   "autoUnmuteLabel": {
+      "message": "Sesi Otomatik Aç"
+   },
+   "autoVideoDesc": {
+      "message": "Videoyu, katıldığınızda kapanacak şekilde ayarlayın"
+   },
+   "autoVideoLabel": {
+      "message": "Otomatik Video Kapatma"
+   },
+   "basicFeatures": {
+      "message": "Temel özellikler"
+   },
+   "bgColorDesc": {
+      "message": "Meet&#39;te özel arka plan rengi ayarlama"
+   },
+   "bgColorLabel": {
+      "message": "Arka Plan Rengini Ayarla"
+   },
+   "captionsDesc": {
+      "message": "Altyazıları otomatik aç"
+   },
+   "captionsLabel": {
+      "message": "Otomatik Altyazılar"
+   },
+   "chimesDesc": {
+      "message": "Katılımcılar katıldığında ve ayrıldığında veya yeni bir sohbet mesajı alındığında her zaman zil sesi duy"
+   },
+   "chimesLabel": {
+      "message": "Daima Çan Çal"
+   },
+   "copyUrlDesc": {
+      "message": "Meet URL&#39;sini otomatik olarak panoya kopyala"
+   },
+   "copyUrlLabel": {
+      "message": "Meet URL&#39;sini Otomatik Kopyala"
+   },
+   "darkModeDesc": {
+      "message": "Google Meet&#39;i karanlık mod yapar"
+   },
+   "darkModeLabel": {
+      "message": "Karanlık Mod"
+   },
+   "desktopApp": {
+      "message": "masaüstü uygulaması"
+   },
+   "desktopDesc": {
+      "message": "Tüm Google Cal bağlantılarının açık olmasını sağlayın."
+   },
+   "desktopLabel": {
+      "message": "Meet bağlantılarını masaüstü uygulamasında açın"
+   },
+   "displayClockDesc": {
+      "message": "Tam ekranda olmasa bile saati görüntüleyin"
+   },
+   "displayClockLabel": {
+      "message": "Saati Görüntüle"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Yorum bildirimi balonunu gizle"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Yorumları ve kullanıcı katılım açılır pencerelerini gizleyin"
+   },
+   "doNotDisturbDesc": {
+      "message": "Yeni yorumu gizle"
+   },
+   "doNotDisturbLabel": {
+      "message": "Rahatsız etmeyin"
+   },
+   "emojiToolTipDesc": {
+      "message": "Bu özellik varsayılan olarak açıktır ve bu özelliğe Google Meet&#39;teki sohbet penceresinden erişebilirsiniz."
+   },
+   "extDesc": {
+      "message": "Tümünü sessize alma, tümünü kaldırma, otomatik kabul etme, emoji&#39;ler, ayna videoları, arka plan rengi ve bas-konuş gibi Google Meet için 40 yeni özellik!"
+   },
+   "extName": {
+      "message": "Google Meet Geliştirme Paketi"
+   },
+   "generalToolTipDesc": {
+      "message": "Bu özellik varsayılan olarak açıktır ve buna Google Meet&#39;teki katılımcılar menüsünden erişebilirsiniz."
+   },
+   "hideAddOthersDesc": {
+      "message": "Bir Meet&#39;e katılırken &quot;Başkalarını Ekle&quot; açılır penceresini gizler"
+   },
+   "hideAddOthersLabel": {
+      "message": "&#39;Başkalarını Ekle&#39; açılır penceresini gizle"
+   },
+   "hidePartNames": {
+      "message": "Katılımcı adlarını gizle"
+   },
+   "hideSpeakingIcons": {
+      "message": "Katılımcı konuşma simgelerini gizle"
+   },
+   "hideTopBarDesc": {
+      "message": "Alt çubuk kaybolduğunda üst çubuğu gizle"
+   },
+   "hideTopBarLabel": {
+      "message": "Üst Çubuğu Otomatik Gizle"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Sunum yaparken &#39;sonsuz ayna&#39; uyarısını otomatik gizle"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Sunum Yer Paylaşımını Otomatik Yoksay"
+   },
+   "leaveConfirmDesc": {
+      "message": "Bir toplantıdan ayrıldığınızda onaylamak için sor"
+   },
+   "leaveConfirmLabel": {
+      "message": "Ayrılma Onayı"
+   },
+   "meetProButtonLabel": {
+      "message": "7 günlük ücretsiz denemeyi başlat"
+   },
+   "meetProSectionDesc": {
+      "message": "Meet Pro&#39;ya yükselterek, Google Meet&#39;i bir üst düzeye taşıyan 25&#39;in üzerinde yeni özelliğe erişim elde edersiniz."
+   },
+   "meetProSectionLabel": {
+      "message": "Meet Pro&#39;yu edinin"
+   },
+   "meetVolumeDesc": {
+      "message": "Meet&#39;in ses düzeyini ayarlayın"
+   },
+   "meetVolumeLabel": {
+      "message": "Meet Hacmini Ayarlayın"
+   },
+   "mirrorVideosDesc": {
+      "message": "Meet&#39;teki tüm videoları yansıtır"
+   },
+   "mirrorVideosLabel": {
+      "message": "Ayna Videoları"
+   },
+   "muchMore": {
+      "message": "Çok daha fazlası gelecek!"
+   },
+   "muteAllDesc": {
+      "message": "Katılımcılar menüsü aracılığıyla tüm katılımcıların sesini kapatın"
+   },
+   "muteAllLabel": {
+      "message": "Tümünü Sessize Al"
+   },
+   "mutePopupDesc": {
+      "message": "&#39;Konuşuyor musun?&#39; sessize alındığında açılır pencere"
+   },
+   "mutePopupLabel": {
+      "message": "Sessiz Açılır Pencereyi Gizle"
+   },
+   "partVidStyleLabel": {
+      "message": "Katılımcı Video Stili"
+   },
+   "pinBarDesc": {
+      "message": "Kontrol çubuğunu ekranın altına sabitler"
+   },
+   "pinBarLabel": {
+      "message": "Alt Çubuğu Sabitle"
+   },
+   "pinChatDesc": {
+      "message": "Meet&#39;e katılırken sohbet görünümünü otomatik olarak sabitler"
+   },
+   "pinChatLabel": {
+      "message": "Sohbeti Otomatik Sabitle"
+   },
+   "pipDesc": {
+      "message": "Bir katılımcının videosunu resim içinde resim olarak görüntüleyin"
+   },
+   "pipLabel": {
+      "message": "Fotoğraf içinde fotoğraf"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Profesyonel Özellikler"
+   },
+   "pttDesc": {
+      "message": "Sesi açmak için kısayol tuşunu basılı tutun"
+   },
+   "pttLabel": {
+      "message": "Konuşmak için bas"
+   },
+   "pttUpgrade": {
+      "message": "Kendi anahtar bağlamanızı ayarlamak için Pro&#39;ya yükseltin"
+   },
+   "quickEmojiDesc": {
+      "message": "Sohbet penceresine hızlı emoji kısayolları ekler"
+   },
+   "quickEmojiLabel": {
+      "message": "Hızlı Emoji Tepkileri"
+   },
+   "quickLeaveDesc": {
+      "message": "Çağrı bırakmak için kısayol tuşunu kullanın"
+   },
+   "quickLeaveLabel": {
+      "message": "Hızlı Ayrılma"
+   },
+   "removeAllDesc": {
+      "message": "Katılımcılar menüsü aracılığıyla tüm katılımcıları kaldırın"
+   },
+   "removeAllLabel": {
+      "message": "Hepsini kaldır"
+   },
+   "returnHomeDesc": {
+      "message": "Bir Meet&#39;ten ayrıldıktan sonra Meet ana ekranına döner"
+   },
+   "returnHomeLabel": {
+      "message": "Kapatmada ana ekrana dön"
+   },
+   "seeFeatures": {
+      "message": "planladığımız tüm özellikleri görmek için"
+   },
+   "sortParticipantsDesc": {
+      "message": "Soyadına göre sıralamak için katılımcı listesine geçiş ekler"
+   },
+   "sortParticipantsLabel": {
+      "message": "Katılımcı Listesini Sırala"
+   },
+   "speakerBorderDesc": {
+      "message": "Konuşan katılımcıların çevresine bir kenarlık ekler"
+   },
+   "speakerBorderLabel": {
+      "message": "Konuşmacı Vurgusu"
+   },
+   "startMeet": {
+      "message": "Bir Buluşma Başlat"
+   },
+   "timerDesc": {
+      "message": "Alt sekme çubuğunda bir toplantı zamanlayıcısı görüntüler"
+   },
+   "timerLabel": {
+      "message": "Toplantı Zamanlayıcısı"
+   },
+   "title": {
+      "message": "Enhancement Suite ile tanışın"
+   },
+   "toggleBarDesc": {
+      "message": "Görünmesi için alt kontrol çubuğunu değiştirin"
+   },
+   "toggleBarLabel": {
+      "message": "Alt Çubuğu Değiştir"
+   },
+   "transBarDesc": {
+      "message": "Alt çubuğu şeffaf yap"
+   },
+   "transBarLabel": {
+      "message": "Şeffaf Çubuk"
+   },
+   "viewRoadmap": {
+      "message": "Yol haritamızı görüntüleyin"
+   }
+}

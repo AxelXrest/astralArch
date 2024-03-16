@@ -1,0 +1,27 @@
+{
+   "action": {
+      "default_icon": "images/icon128.png",
+      "default_popup": "popup.html"
+   },
+   "author": "Corey Pollock & Keyfer Mathewson",
+   "background": {
+      "service_worker": "service_worker.js"
+   },
+   "content_scripts": [ {
+      "js": [ "extension.js" ],
+      "matches": [ "*://meet.google.com/*", "*://meetenhancementsuite.com/" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo9e+jG9W5nHDQFx3lCQB8Gu6ToZ+a+nIrQ/3zxhMzETMvWL1CP2viAwWPG8GiKGcb3ZYLGNPPI6Ru9P8JmptjWYUFkob/cuxDvVg0BtQfnv6RjmFwOzRLnzbwmRVXjCBs5CYdsADX2eBQOyLMVOwvCbbuwYdvMjkcEt0kwI1fZjXayj6ZOtzNPiq8iRpPgMzQmwox2ZdnZvmH1mJ7oo0RtQezbGhFwzUwoiwFkKFZ3cqdg1SWerMFZwN3rOSDHGO1IPIKvbEsXHhvmTshshY5bwKZfX6w3YdEDk7pQpob5FK2KrtiB6V4Sv7nfroDHyZNpPjxFf4Xyn1Toh8PKKxEQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.0.8"
+}

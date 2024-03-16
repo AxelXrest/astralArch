@@ -1,0 +1,242 @@
+{
+   "app_description": {
+      "message": "Strictly block all popup requests from any website"
+   },
+   "bg_msg_reg": {
+      "message": "Registering blocking filter failed due to an improperly formatted rule. Use the options page to fix it."
+   },
+   "bg_msg_state_1": {
+      "message": "Popup Blocker (strict) is globally enabled and protects this tab"
+   },
+   "bg_msg_state_2": {
+      "message": "Popup Blocker (strict) is globally enabled but does not protect this tab"
+   },
+   "bg_msg_state_3": {
+      "message": "Popup Blocker (strict) is globally disabled and does not protect this tab"
+   },
+   "bg_msg_state_4": {
+      "message": "Popup Blocker (strict) is globally disabled but protects this tab"
+   },
+   "context_item2": {
+      "message": "Allow the last popup request"
+   },
+   "context_item3": {
+      "message": "Deny the last popup request"
+   },
+   "context_item4": {
+      "message": "Open the last popup request in a background tab"
+   },
+   "context_item5": {
+      "message": "Redirect the current tab to the last popup request"
+   },
+   "options_export": {
+      "message": "Export Preferences"
+   },
+   "options_import": {
+      "message": "Import Preferences"
+   },
+   "options_item1": {
+      "message": "Maximum number of popup requests for a single page"
+   },
+   "options_item10": {
+      "message": "Use zero number to disable the countdown to perform the previous action."
+   },
+   "options_item13": {
+      "message": "Blacklist sources (reverse operation mode):"
+   },
+   "options_item15": {
+      "message": "Prevent page redirection for 2 seconds after a popup is requested"
+   },
+   "options_item17": {
+      "message": "Default action when a popup is requested"
+   },
+   "options_item18": {
+      "message": "Do nothing"
+   },
+   "options_item19": {
+      "message": "Deny request"
+   },
+   "options_item2": {
+      "message": "Timeout for displaying each popup (in seconds)"
+   },
+   "options_item20": {
+      "message": "Open in background"
+   },
+   "options_item21": {
+      "message": "Redirect page"
+   },
+   "options_item22": {
+      "message": "Badge background-color"
+   },
+   "options_item23": {
+      "message": "Ignore popup notification when possible (not recommended)"
+   },
+   "options_item25": {
+      "message": "Descriptions"
+   },
+   "options_item26": {
+      "message": "Display FAQs page on updates"
+   },
+   "options_item27": {
+      "message": "Do not block these protocols:"
+   },
+   "options_item28": {
+      "message": "Allow page redirection to the following origins:"
+   },
+   "options_item29": {
+      "message": "Allow page redirection to the same origin"
+   },
+   "options_item3": {
+      "message": "Do not block popup requests from same origin"
+   },
+   "options_item30": {
+      "message": "Simulate the 'allow' button to prevent your browser's internal popup blocker from blocking these requests"
+   },
+   "options_item31": {
+      "message": "When \"trust\" button is pressed:"
+   },
+   "options_item32": {
+      "message": "Do not block the popup origin anymore"
+   },
+   "options_item33": {
+      "message": "Allow the top-level page to show any popups"
+   },
+   "options_item34": {
+      "message": "Mute notifications on these hostnames:"
+   },
+   "options_item36": {
+      "message": "Enable aggressive static IFrame detection"
+   },
+   "options_item37": {
+      "message": "When this mode is enabled, the extension installs a mutation observer to monitor static IFrames with 'JavaScript:' src attributes. This enhances the blocking power but has performance drawbacks."
+   },
+   "options_item38": {
+      "message": "Page Redirection"
+   },
+   "options_item39": {
+      "message": "Misc"
+   },
+   "options_item40": {
+      "message": "Focus the newly generated popup interface. You can then use shortcuts or the Escape key to hide"
+   },
+   "options_item41": {
+      "message": "Action on a new popup request"
+   },
+   "options_item5": {
+      "message": "Display the total number of blocked requests in the toolbar icon"
+   },
+   "options_item6": {
+      "message": "Do not block popups of these origins:"
+   },
+   "options_item7": {
+      "message": "Do not block any popup on these pages:"
+   },
+   "options_item8": {
+      "message": "For this change to take effect, refresh the tab."
+   },
+   "options_item9": {
+      "message": "Countdown for performing the last action (in seconds)"
+   },
+   "options_msg": {
+      "message": "Options are saved"
+   },
+   "options_page": {
+      "message": "FAQs Page"
+   },
+   "options_reset": {
+      "message": "Reset to Defaults"
+   },
+   "options_review": {
+      "message": "YouTube Review"
+   },
+   "options_save": {
+      "message": "Save Options"
+   },
+   "options_support": {
+      "message": "Support Development"
+   },
+   "options_t_1": {
+      "message": "comma-separated list of hostnames (e.g.: www.google.com, www.yahoo.com)"
+   },
+   "options_t_2": {
+      "message": "comma-separated list of domains (e.g.: google.com, yahoo.com)"
+   },
+   "options_t_3": {
+      "message": "A JSON object that guides the extension in executing a specific action in response to a popup request, determined by its URL. Read the FAQs page for examples."
+   },
+   "pp_allow": {
+      "message": "Allow"
+   },
+   "pp_block": {
+      "message": "Block"
+   },
+   "pp_enabled_c": {
+      "message": "Enabled (This Domain)"
+   },
+   "pp_enabled_g": {
+      "message": "Enabled (Globally)"
+   },
+   "pp_health": {
+      "message": "The background script seems to be unresponsive. Do you want to try restarting the extension?"
+   },
+   "pp_homepage": {
+      "message": "Homepage"
+   },
+   "pp_ignore": {
+      "message": "Run Action when Possible"
+   },
+   "pp_last_request": {
+      "message": "Last Request"
+   },
+   "pp_options": {
+      "message": "Options"
+   },
+   "pp_redirect": {
+      "message": "Block Page Redirection"
+   },
+   "pp_shadow": {
+      "message": "Use Shadow"
+   },
+   "pp_silent": {
+      "message": "Display Notifications"
+   },
+   "pp_test": {
+      "message": "Test Blocker"
+   },
+   "ui_button_allow": {
+      "message": "Allow this popup (Alt + Shift + A or Control + Option + A)"
+   },
+   "ui_button_allow_value": {
+      "message": "allow"
+   },
+   "ui_button_background": {
+      "message": "Open the link in a background tab (Alt + Shift + B or Control + Option + B)"
+   },
+   "ui_button_background_value": {
+      "message": "background"
+   },
+   "ui_button_deny": {
+      "message": "Decline the popup or tab opening (Alt + Shift + D or Control + Option + D)"
+   },
+   "ui_button_deny_value": {
+      "message": "deny"
+   },
+   "ui_button_redirect": {
+      "message": "Redirect current page to the new destination instead of opening it in a new tab or popup (Alt + Shift + R or Control + Option + R)"
+   },
+   "ui_button_redirect_value": {
+      "message": "redirect"
+   },
+   "ui_button_trust": {
+      "message": "White-list this domain to open popups (Alt + Shift + T or Control + Option + T)"
+   },
+   "ui_button_trust_confirm": {
+      "message": "Click to Confirm"
+   },
+   "ui_button_trust_value": {
+      "message": "trust"
+   },
+   "ui_msg": {
+      "message": "Popup is requested for"
+   }
+}

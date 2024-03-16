@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>__MSG_title__</title>
+    <link rel="stylesheet" type="text/css" href="/styles/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/styles/popup.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <header>
+      <a target="_blank" class="startMeetButton" href="https://meet.new"
+        >__MSG_startMeet__</a
+      >
+      <div class="headerLogo">
+        <a target="_blank" href="https://www.meetenhancementsuite.com">
+          <img src="images/headerLogo.svg" />
+        </a>
+      </div>
+    </header>
+
+    <div id="featureList">
+      <div id="basicFeatures">
+        <h5 class="subHeading" id="basicFeatureHeader">__MSG_basicFeatues__</h5>
+        <div class="container">
+          <div class="item">
+            <img src="images/pushToTalk.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_pttLabel__</label>
+            <small>__MSG_pttDesc__</small>
+          </div>
+          <div class="item">
+            <div class="tooltip">
+              <button
+                id="hotkey_edit"
+                disabled
+                data-active="false"
+                class="tooltip keyBinding"
+              ></button>
+              <a class="hotkeyButton" id="editHotkey">&#x270E;</a>
+              <a class="hotkeyButton" id="saveHotkey">&#10003;</a>
+              <span id="hotkeyTooltip" class="tooltiptext"
+                >__MSG_pttUpgrade__</span
+              >
+            </div>
+            <input type="checkbox" id="smartUnmute" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/autoJoinIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_autoJoinLabel__</label>
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_autoJoinDesc__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="autoJoin" />
+              </div>
+            </div>
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_autoJoinDescOption__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="autoJoinParticipants" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/quickLeave.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_quickLeaveLabel__</label>
+            <small>__MSG_quickLeaveDesc__</small>
+          </div>
+          <div class="item">
+            <div class="tooltip">
+              <button disabled class="tooltip keyBinding" style="cursor: auto">
+                shift + k
+              </button>
+              <!-- <span class="tooltiptext">Upgrade to Pro to set your own key binding</span> -->
+            </div>
+            <input type="checkbox" id="quickLeave" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/leavePromptIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_leaveConfirmLabel__</label>
+            <small>__MSG_leaveConfirmDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="leavePrompt" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/returnHomeOnHangup.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_returnHomeLabel__</label>
+            <small>__MSG_returnHomeDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="homeOnLeave" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/hidePresModal.svg" />
+          </div>
+          <div class="item">
+            <!-- <div class="newFeature">NEW</div> -->
+            <label>__MSG_ignorePresentationModalLabel__</label>
+            <small>__MSG_ignorePresentationModalDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="ignorePresentationModal" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/autoChime.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_chimesLabel__</label>
+            <small>__MSG_chimesDesc__ </small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="addChimes" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/captionsIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_CaptionsLabel__</label>
+            <small>__MSG_CaptionsDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="autoCaptions" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/microphone.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_autoMuteLabel__</label>
+            <small>__MSG_autoMuteDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="muteMicrophone" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/video.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_autoVideoLabel__</label>
+            <small>__MSG_autoVideoDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="muteVideo" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/hideNamesIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_partVidStyleLabel__</label>
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_alwaysShowLabel__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="showNames" />
+              </div>
+            </div>
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_hidePartNames__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="hideNames" />
+              </div>
+            </div>
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_hideSpeakingIcons__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="hideTalkIcons" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/backgroundIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_bgColorLabel__</label>
+            <small>__MSG_bgColorDesc__</small>
+          </div>
+          <div class="item">
+            <input id="backgroundColorPicker" type="color" value="#111111" />
+            <input type="checkbox" id="setBackgroundColor" />
+          </div>
+        </div>
+
+        <div class="rateUsContainer">
+          <div class="rateUsInput">
+            <div class="rateContent">
+              <div class="rateInputStep">
+                <h1 style="font-size: 1.2em">
+                  Enjoying Meet Enhancement Suite?
+                </h1>
+                <h4 style="font-weight: 100; margin-top: 2px">
+                  Tap a face to rate us
+                </h4>
+                <div class="ratingFaces">
+                  <a
+                    class="ratingFace"
+                    href="https://www.meetenhancementsuite.com/feedback/"
+                    target="_blank"
+                    ><img src="images/sadFace.svg"
+                  /></a>
+                  <a
+                    class="ratingFace"
+                    href="https://www.meetenhancementsuite.com/feedback/"
+                    target="_blank"
+                    ><img src="images/neutralFace.svg"
+                  /></a>
+                  <a id="positiveRating"><img src="images/happyFace.svg" /></a>
+                </div>
+              </div>
+              <div class="rateUsAccept" style="display: none">
+                <h1>Woohoo!</h1>
+                <p>Help us out by leaving a review on the Chrome Store?</p>
+                <a class="goProButton" id="leaveReviewButton"
+                  >Leave a review &rarr;</a
+                >
+              </div>
+            </div>
+            <span class="rateUsDismiss">Dismiss</span>
+          </div>
+        </div>
+
+      </div>
+
+      <div id="proFeatures">
+        <h5 class="subHeading">__MSG_proFeaturesSubHeading__</h5>
+        <div class="container">
+          <div class="item">
+            <img src="images/autoMinimizeIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_autoMinimizeLabel__</label>
+            <small>__MSG_autoMinimizeDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="minimizeVideo" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/adjustVolumeIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_meetVolumeLabel__</label>
+            <small>__MSG_meetVolumeDesc__</small>
+          </div>
+          <div class="item">
+            <input
+              type="number"
+              step="1"
+              min="0"
+              max="10"
+              value="10"
+              id="adjustVolume"
+            />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/autoRecordIcon.svg" />
+          </div>
+          <div class="item">
+            <label
+              >__MSG_autoRecordLabel__
+              <span
+                style="
+                  display: inherit;
+                  font-size: 11px;
+                  color: grey;
+                  font-style: italic;
+                "
+                >(<a
+                  target="_blank"
+                  style="text-decoration: underline; color: grey"
+                  href="https://support.google.com/meet/answer/9308681?hl=en"
+                  >Google Workspace plan</a
+                >
+                required)</span
+              ></label
+            >
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_autoRecordDescOne__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="autoRecord" />
+              </div>
+            </div>
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_autoRecordDescThree__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="autoTranscribe" />
+              </div>
+            </div>
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_autoRecordDescTwo__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="manualRecord" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/doNotDisturbIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_doNotDisturbLabel__</label>
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_doNotDisturbCommentsDesc__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="hideComments" />
+              </div>
+            </div>
+            <div class="multiItemContainer">
+              <div>
+                <small>__MSG_doNotDisturbCommentsBubbleDesc__</small>
+              </div>
+              <div class="right">
+                <input type="checkbox" id="hideCommentBubble" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/copyURLIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_copyUrlLabel__</label>
+            <small>__MSG_copyUrlDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="autoCopyURL" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/autoUnmuteIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_autoUnmuteLabel__</label>
+            <small>__MSG_autoUnmuteDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="autoUnmute" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/speakerBorderIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_speakerBorderLabel__</label>
+            <small>__MSG_speakerBorderDesc__</small>
+          </div>
+          <div class="item">
+            <input id="borderColor" type="color" value="#64ffda" />
+            <input type="checkbox" id="speakerBorder" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/pipIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_pipLabel__</label>
+            <small>__MSG_pipDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="pictureInPicture" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/transBarIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_transBarLabel__</label>
+            <small>__MSG_transBarDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="transBar" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/darkmode.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_darkModeLabel__</label>
+            <small>__MSG_darkModeDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="darkMode" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/toggleBottomBarIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_toggleBarLabel__</label>
+            <small>__MSG_toggleBarDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="toggleBottomBar" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/meetTimerIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_timerLabel__</label>
+            <small>__MSG_timerDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="meetingTimer" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/hideMutePopup.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_mutePopupLabel__</label>
+            <small>__MSG_mutePopupDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="mutePopup" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/autoChat.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_pinChatLabel__</label>
+            <small>__MSG_pinChatDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="autoChat" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/autoAdmit.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_autoAdmitLabel__</label>
+            <small>__MSG_autoAdmitDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="autoAdmit" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/autoRejectIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_autoRejectLabel__</label>
+            <small>__MSG_autoRejectDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="autoReject" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/mirrorVideoIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_mirrorVideosLabel__</label>
+            <small>__MSG_mirrorVideosDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="mirrorVideos" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/enableclock.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_displayClockLabel__</label>
+            <small>__MSG_displayClockDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="displayClock" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/addOthersIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_hideAddOthersLabel__</label>
+            <small>__MSG_hideAddOthersDesc__</small>
+          </div>
+          <div class="item">
+            <input type="checkbox" id="noAddOthers" />
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/iconSortParticipants.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_sortParticipantsLabel__</label>
+            <small>__MSG_sortParticipantsDesc__</small>
+          </div>
+          <div class="item tooltip">
+            <input class="disabledCheckbox" type="checkbox" checked />
+            <span class="tooltiptext disableTooltip"
+              >__MSG_generalToolTipDesc__</span
+            >
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/attendanceIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_attendanceLabel__</label>
+            <small>__MSG_attendanceDesc__</small>
+          </div>
+          <div class="item tooltip">
+            <input class="disabledCheckbox" type="checkbox" checked />
+            <span class="tooltiptext disableTooltip"
+              >__MSG_generalToolTipDesc__</span
+            >
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/muteAll.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_muteAllLabel__</label>
+            <small>__MSG_muteAllDesc__</small>
+          </div>
+          <div class="item tooltip">
+            <input class="disabledCheckbox" type="checkbox" checked />
+            <span class="tooltiptext disableTooltip"
+              >__MSG_generalToolTipDesc__</span
+            >
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/removeAllIcon.svg" />
+          </div>
+          <div class="item">
+            <label>__MSG_removeAllLabel__</label>
+            <small>__MSG_removeAllDesc__</small>
+          </div>
+          <div class="item tooltip">
+            <input class="disabledCheckbox" type="checkbox" checked />
+            <span class="tooltiptext disableTooltip"
+              >__MSG_generalToolTipDesc__</span
+            >
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <img src="images/quickEmojiIcon.svg" />
+          </div>
+          <div class="item tooltip">
+            <label>__MSG_quickEmojiLabel__</label>
+            <small>__MSG_quickEmojiDesc__</small>
+          </div>
+          <div class="item tooltip">
+            <input class="disabledCheckbox" type="checkbox" checked />
+            <span class="tooltiptext disableTooltip"
+              >__MSG_emojiToolTipDesc__</span
+            >
+          </div>
+        </div>
+      </div>
+
+      <div id="proUpgrade" class="upgradeContainer">
+        <h1>__MSG_meetProSectionLabel__ &#9889;</h1>
+        <p>__MSG_meetProSectionDesc__</p>
+
+        <div id="proLinks">
+          <a
+            class="goProButton"
+            id="purchaseLinkWithVersion"
+            target="_blank"
+            href="https://www.meetenhancementsuite.com/meetpro/?utm_source=extension&utm_medium=pro_button&utm_campaign=extension_button/#pricingSection"
+            >__MSG_meetProButtonLabel__ &rarr;</a
+          >
+          <span id="activateLink">__MSG_activateLicenseButtonLabel__</span>
+        </div>
+
+        <form id="activationForm">
+          <input
+            type="text"
+            id="licenseKey"
+            name="licenseKey"
+            placeholder="Enter license key"
+          />
+          <button id="submitButton" type="submit">__MSG_activateLabel__</button>
+        </form>
+
+        <div class="proFeatures">
+          <div class="container">
+            <div class="item">
+              <img src="images/autoMinimizeIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_autoMinimizeLabel__</label>
+              <small>__MSG_autoMinimizeDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/adjustVolumeIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_meetVolumeLabel__</label>
+              <small>__MSG_meetVolumeDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/autoRecordIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_autoRecordLabel__</label>
+              <small>__MSG_autoRecordDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/iconSortParticipants.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_sortParticipantsLabel__</label>
+              <small>__MSG_sortParticipantsDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/doNotDisturbIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_doNotDisturbLabel__</label>
+              <div style="margin-top: 3px">
+                <div style="display: inline">
+                  <small>__MSG_doNotDisturbDesc__ </small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/attendanceIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_attendanceLabel__</label>
+              <small>__MSG_attendanceDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/muteAll.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_muteAllLabel__</label>
+              <small>__MSG_muteAllDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/removeAllIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_removeAllLabel__</label>
+              <small>__MSG_removeAllDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/autoUnmuteIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_autoUnmuteLabel__</label>
+              <small>__MSG_autoUnmuteDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/autoAdmit.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_autoAdmitLabel__</label>
+              <small>__MSG_autoAdmitDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/autoRejectIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_autoRejectLabel__</label>
+              <small>__MSG_autoRejectDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/speakerBorderIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_speakerBorderLabel__</label>
+              <small>__MSG_speakerBorderDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/toggleBottomBarIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_toggleBarLabel__</label>
+              <small>__MSG_toggleBarDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/meetTimerIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_timerLabel__</label>
+              <small>__MSG_timerDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/quickEmojiIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_quickEmojiLabel__</label>
+              <small>__MSG_quickEmojiDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/mirrorVideoIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_mirrorVideosLabel__</label>
+              <small>__MSG_mirrorVideosDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/pipIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_pipLabel__</label>
+              <small>__MSG_pipDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/darkmode.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_darkModeLabel__</label>
+              <small>__MSG_darkModeDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/copyURLIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_copyUrlLabel__</label>
+              <small>__MSG_copyUrlDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/autoChat.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_pinChatLabel__</label>
+              <small>__MSG_pinChatDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/transBarIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_transBarLabel__</label>
+              <small>__MSG_transBarDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/enableclock.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_displayClockLabel__</label>
+              <small>__MSG_displayClockDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/addOthersIcon.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_hideAddOthersLabel__</label>
+              <small>__MSG_hideAddOthersDesc__</small>
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="item">
+              <img src="images/hideMute.svg" />
+            </div>
+            <div class="proItems">
+              <label>__MSG_mutePopupLabel__</label>
+              <small>__MSG_mutePopupDesc__</small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="popup.js"></script>
+</html>

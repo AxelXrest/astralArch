@@ -1,0 +1,59 @@
+{
+   "applications": {
+      "gecko": {
+         "id": "fdm_ffext2@freedownloadmanager.org",
+         "strict_min_version": "52.0"
+      }
+   },
+   "author": "FreeDownloadManager.ORG",
+   "background": {
+      "persistent": true,
+      "scripts": [ "webextension.js", "utils.js", "misc.js", "RequestsManager.js", "cookiemgr.js", "fdmbhtasks.js", "nativehostmgr.js", "fdmbhutils.js", "contextmenumgr.js", "fdmcontextmenumgr.js", "dldsinterceptmgr.js", "fdmdldsinterceptmgr.js", "netwrkmon.js", "fdmnetwrkmon.js", "settingsbghlpr.js", "tabsmanager.js", "installationmgr.js", "fdmscheme.js", "fdmextension.js", "main.js" ]
+   },
+   "browser_action": {
+      "default_icon": "fdm16.png",
+      "default_popup": "settings.html",
+      "default_title": "Free Download Manager extension"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "webextension.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "fdmschemecatch.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "contextmenuhlpr.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "youtubeutils.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "externally_connectable": {
+      "matches": [ "*://*.freedownloadmanager.org/*" ]
+   },
+   "homepage_url": "https://www.freedownloadmanager.org",
+   "icons": {
+      "128": "fdm128.png",
+      "16": "fdm16.png",
+      "48": "fdm48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3FFXooWCPMvTKo562woacuDlVc276QNTbmL59WZ3BNgEOizIHQ7B8WkzMbxlW2pN8vk58JP2/rSwqYmUAjYoel3Wi74nXIzJ/vm86CejdKGwqdK2LvBiKJa7sz79eDT7Hnut/Mht0qtDD562EU4Gvwbq2TJHmGFKN19779guNr7x5uBx653vYN1kqFrx069CtLIbSwfYWUJjJYeWMAW4QTSuBSUNn9MYp5TLW1Hp+j1tAvXc7f/U5FYNdA8HYZC83ZUbhX5V1tEmaXpjF15s5FGgUjYm2d6Qxg9qWvt8LbvULN6/vA5VxV18ii97lol986+IvZXGthS972DvGp0QXwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "32",
+   "name": "__MSG_appName__",
+   "permissions": [ "cookies", "webRequest", "webRequestBlocking", "*://*/*", "downloads", "nativeMessaging", "contextMenus", "activeTab", "storage", "history", "tabs", "notifications" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.57"
+}

@@ -1,0 +1,70 @@
+{
+   "addingAfterCancelFailed": {
+      "description": "Message to dislpay if user hit Cancel in FDM and adding to browser is failed",
+      "message": "Browser rejected the download. You can retry downloading with the browser by clicking the download link again"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Free Download Manager integration with browser"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Free Download Manager"
+   },
+   "appShortName": {
+      "description": "Short name of the application, displayed in appropriate contexts.",
+      "message": "FDM"
+   },
+   "dlbyfdm": {
+      "description": "Download button for video",
+      "message": "Download with FDM"
+   },
+   "installCorrupted": {
+      "description": "Message on corrupted FDM installation.",
+      "message": "Free Download Manager installation is corrupted. Please reinstall it."
+   },
+   "installMissing": {
+      "description": "Message on missing FDM installation.",
+      "message": "Free Download Manager installation not found. Please install it."
+   },
+   "installUnknownError": {
+      "description": "Message on unknown error with FDM installation.",
+      "message": "Unknown error. Please reinstall Free Download Manager."
+   },
+   "menuAll": {
+      "description": "Context menu item for pages",
+      "message": "Download all with Free Download Manager"
+   },
+   "menuChannelVideos": {
+      "description": "Context menu item for channel videos",
+      "message": "Download channel videos with Free Download Manager"
+   },
+   "menuChannelVideosShort": {
+      "description": "Context menu item for channel videos",
+      "message": "Download channel videos"
+   },
+   "menuPlaylistVideosShort": {
+      "description": "Context menu item for playlist videos",
+      "message": "Download playlist videos"
+   },
+   "menuSelected": {
+      "description": "Context menu item for selection",
+      "message": "Download selected with Free Download Manager"
+   },
+   "menuSite": {
+      "description": "Context menu item for site",
+      "message": "Download web site with Free Download Manager"
+   },
+   "menuThis": {
+      "description": "Context menu item for links and images",
+      "message": "Download with Free Download Manager"
+   },
+   "menuVideo": {
+      "description": "Context menu item for videos",
+      "message": "Download video with Free Download Manager"
+   },
+   "menuVideoShort": {
+      "description": "Context menu item for videos",
+      "message": "Download video"
+   }
+}

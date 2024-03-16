@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Aktiveerige"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "või Aktiveeri litsents"
+   },
+   "activeTabDesc": {
+      "message": "Aktiivse Meeti vahekaardi leidmiseks klõpsake laienduse ikoonil"
+   },
+   "activeTabLabel": {
+      "message": "Otsige üles vahekaart Active Meet"
+   },
+   "alwaysShowLabel": {
+      "message": "Näidake alati osalejate nimesid"
+   },
+   "attendanceDesc": {
+      "message": "Jäädvustage koosolekul osalemine ja eksportige CSV-faili"
+   },
+   "attendanceLabel": {
+      "message": "Osalege"
+   },
+   "autoAdmitDesc": {
+      "message": "Lubab Meetile automaatselt uusi tulijaid"
+   },
+   "autoAdmitLabel": {
+      "message": "Uute osalejate automaatne vastuvõtmine"
+   },
+   "autoFullScreenDesc": {
+      "message": "Mine automaatselt täisekraanile, kui keegi esitleb"
+   },
+   "autoFullScreenLabel": {
+      "message": "Automaatne täisekraan"
+   },
+   "autoJoinDesc": {
+      "message": "Liituge koosolekuga automaatselt"
+   },
+   "autoJoinDescOption": {
+      "message": "Liituge koosolekuga ainult siis, kui osalejad on kohal"
+   },
+   "autoJoinLabel": {
+      "message": "Automaatne liitumine"
+   },
+   "autoMinimizeDesc": {
+      "message": "Minimeerige video automaatselt, kui liitute koosolekuga"
+   },
+   "autoMinimizeLabel": {
+      "message": "Video automaatne minimeerimine"
+   },
+   "autoMuteDesc": {
+      "message": "Mikrofoni automaatne vaigistamine liitumisel"
+   },
+   "autoMuteLabel": {
+      "message": "Automaatne vaigistus"
+   },
+   "autoRecordDesc": {
+      "message": "Alusta Meeti salvestamist automaatselt (vajalik on Google Workspace)"
+   },
+   "autoRecordDescOne": {
+      "message": "Alustage salvestamist automaatselt"
+   },
+   "autoRecordDescThree": {
+      "message": "Käivitage automaatselt transkriptsioon"
+   },
+   "autoRecordDescTwo": {
+      "message": "Alustage salvestamist käsitsi"
+   },
+   "autoRecordLabel": {
+      "message": "Automaatne salvestamine"
+   },
+   "autoRejectDesc": {
+      "message": "Keelab automaatselt Meeti uued osalejad"
+   },
+   "autoRejectLabel": {
+      "message": "Automaatne uute osalejate keelamine"
+   },
+   "autoUnmuteDesc": {
+      "message": "Ärge lubage teistel teie mikrofoni vaigistada"
+   },
+   "autoUnmuteLabel": {
+      "message": "Automaatne vaigistuse tühistamine"
+   },
+   "autoVideoDesc": {
+      "message": "Seadke video liitumisel välja lülitama"
+   },
+   "autoVideoLabel": {
+      "message": "Automaatne video väljalülitamine"
+   },
+   "basicFeatures": {
+      "message": "Põhifunktsioonid"
+   },
+   "bgColorDesc": {
+      "message": "Määrake Meetis kohandatud taustavärv"
+   },
+   "bgColorLabel": {
+      "message": "Taustavärvi määramine"
+   },
+   "captionsDesc": {
+      "message": "Lülitage subtiitrid automaatselt sisse"
+   },
+   "captionsLabel": {
+      "message": "Automaatsed subtiitrid"
+   },
+   "chimesDesc": {
+      "message": "Kuulake alati kellahelinaid, kui osalejad liituvad ja lahkuvad või kui uus vestlussõnum saabub"
+   },
+   "chimesLabel": {
+      "message": "Mängi alati kellamänge"
+   },
+   "copyUrlDesc": {
+      "message": "Kopeeri Meeti URL automaatselt lõikelauale"
+   },
+   "copyUrlLabel": {
+      "message": "Kopeeri Meeti URL automaatselt"
+   },
+   "darkModeDesc": {
+      "message": "Muudab Google Meeti tumedaks režiimiks"
+   },
+   "darkModeLabel": {
+      "message": "Tume režiim"
+   },
+   "desktopApp": {
+      "message": "töölauarakendus"
+   },
+   "desktopDesc": {
+      "message": "Avage kõik Google Cali lingid rakenduses"
+   },
+   "desktopLabel": {
+      "message": "Avage töölauarakenduses Meeti lingid"
+   },
+   "displayClockDesc": {
+      "message": "Kuva kella ka siis, kui see pole täisekraanil"
+   },
+   "displayClockLabel": {
+      "message": "Kuva Kell"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Peida kommentaari teavitusmull"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Peida kommentaarid ja kasutajate liitumisaknad"
+   },
+   "doNotDisturbDesc": {
+      "message": "Peida uus kommentaar"
+   },
+   "doNotDisturbLabel": {
+      "message": "Ära sega"
+   },
+   "emojiToolTipDesc": {
+      "message": "See funktsioon on vaikimisi sisse lülitatud ja pääsete sellele juurde Google Meeti vestlusaknast"
+   },
+   "extDesc": {
+      "message": "Google Meeti 40 uut funktsiooni, nagu vaigista kõik, eemalda kõik, automaatne luba, emotikonid, peegelvideod, taustavärv ja raadiosaatja!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "See funktsioon on vaikimisi sisse lülitatud ja pääsete sellele juurde Google Meeti osalejate menüüst"
+   },
+   "hideAddOthersDesc": {
+      "message": "Peidab koosolekuga liitumisel hüpikakna „Lisa teisi”."
+   },
+   "hideAddOthersLabel": {
+      "message": "Peida hüpikaken „Lisa teisi”."
+   },
+   "hidePartNames": {
+      "message": "Peida osalejate nimed"
+   },
+   "hideSpeakingIcons": {
+      "message": "Peida osalejate kõnelemise ikoonid"
+   },
+   "hideTopBarDesc": {
+      "message": "Peida ülemine riba, kui alumine riba kaob"
+   },
+   "hideTopBarLabel": {
+      "message": "Peida ülemine riba automaatselt"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Peida esitlemisel automaatselt &quot;lõpmatuse peegli&quot; hoiatus"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Esitluse katte automaatne ignoreerimine"
+   },
+   "leaveConfirmDesc": {
+      "message": "Küsige koosolekult lahkumisel kinnitust"
+   },
+   "leaveConfirmLabel": {
+      "message": "Lahku kinnitusest"
+   },
+   "meetProButtonLabel": {
+      "message": "Alustage 7-päevast tasuta prooviperioodi"
+   },
+   "meetProSectionDesc": {
+      "message": "Meet Pro versioonile üleminekul saate juurdepääsu enam kui 25 uuele funktsioonile, mis viivad Google Meeti järgmisele tasemele."
+   },
+   "meetProSectionLabel": {
+      "message": "Hankige Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Reguleerige Meeti helitugevust"
+   },
+   "meetVolumeLabel": {
+      "message": "Reguleerige Meet&#39;i helitugevust"
+   },
+   "mirrorVideosDesc": {
+      "message": "Peegeldab kõiki Meeti videoid"
+   },
+   "mirrorVideosLabel": {
+      "message": "Peegelvideod"
+   },
+   "muchMore": {
+      "message": "Palju veel tulemas!"
+   },
+   "muteAllDesc": {
+      "message": "Vaigista kõik osalejad osalejate menüü kaudu"
+   },
+   "muteAllLabel": {
+      "message": "Vaigista kõik"
+   },
+   "mutePopupDesc": {
+      "message": "Peidab &quot;Kas sa räägid?&quot; vaigistatud hüpikaken"
+   },
+   "mutePopupLabel": {
+      "message": "Peida vaigista hüpikaken"
+   },
+   "partVidStyleLabel": {
+      "message": "Osaleja video stiil"
+   },
+   "pinBarDesc": {
+      "message": "Kinnitab juhtriba ekraani allossa"
+   },
+   "pinBarLabel": {
+      "message": "Pin Alumine riba"
+   },
+   "pinChatDesc": {
+      "message": "Kinnitab Meetiga liitumisel vestlusvaate automaatselt"
+   },
+   "pinChatLabel": {
+      "message": "Vestluse automaatne kinnitamine"
+   },
+   "pipDesc": {
+      "message": "Vaadake osalejate videot pilt-pildis"
+   },
+   "pipLabel": {
+      "message": "Pilt-pildis"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Pro funktsioonid"
+   },
+   "pttDesc": {
+      "message": "Vaigistuse tühistamiseks hoidke kiirklahvi all"
+   },
+   "pttLabel": {
+      "message": "Push to Talk"
+   },
+   "pttUpgrade": {
+      "message": "Minge üle Pro versioonile, et määrata oma võtme sidumine"
+   },
+   "quickEmojiDesc": {
+      "message": "Lisab vestlusaknasse kiired emotikonide otseteed"
+   },
+   "quickEmojiLabel": {
+      "message": "Emotikonide kiired reaktsioonid"
+   },
+   "quickLeaveDesc": {
+      "message": "Kasutage kõnest lahkumiseks kiirklahvi"
+   },
+   "quickLeaveLabel": {
+      "message": "Kiire lahkumine"
+   },
+   "removeAllDesc": {
+      "message": "Eemaldage kõik osalejad osalejate menüü kaudu"
+   },
+   "removeAllLabel": {
+      "message": "Eemalda kõik"
+   },
+   "returnHomeDesc": {
+      "message": "Naaseb pärast Meetist lahkumist Meeti avakuvale"
+   },
+   "returnHomeLabel": {
+      "message": "Naaske kõne katkestamisel avakuvale"
+   },
+   "seeFeatures": {
+      "message": "et näha kõiki kavandatud funktsioone"
+   },
+   "sortParticipantsDesc": {
+      "message": "Lisab lüliti osalejate loendisse perekonnanime järgi sortimiseks"
+   },
+   "sortParticipantsLabel": {
+      "message": "Sorteeri osalejate loend"
+   },
+   "speakerBorderDesc": {
+      "message": "Lisab kõnelevate osalejate ümber äärise"
+   },
+   "speakerBorderLabel": {
+      "message": "Kõlari esiletõst"
+   },
+   "startMeet": {
+      "message": "Alustage kohtumist"
+   },
+   "timerDesc": {
+      "message": "Kuvab alumisel vahekaardiribal koosolekutaimeri"
+   },
+   "timerLabel": {
+      "message": "Koosoleku taimer"
+   },
+   "title": {
+      "message": "Tutvuge Enhancement Suite&#39;iga"
+   },
+   "toggleBarDesc": {
+      "message": "Kuvamiseks lülitage alumine juhtriba sisse"
+   },
+   "toggleBarLabel": {
+      "message": "Lülitage alumine riba sisse"
+   },
+   "transBarDesc": {
+      "message": "Muutke alumine riba läbipaistvaks"
+   },
+   "transBarLabel": {
+      "message": "Läbipaistev riba"
+   },
+   "viewRoadmap": {
+      "message": "Vaadake meie teekaarti"
+   }
+}

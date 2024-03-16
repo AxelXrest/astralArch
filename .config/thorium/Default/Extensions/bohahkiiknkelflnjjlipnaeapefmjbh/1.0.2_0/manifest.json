@@ -1,0 +1,54 @@
+{
+   "action": {
+      "chrome_style": false,
+      "default_icon": {
+         "128": "assets/icons/note_sticky_icon_128.png",
+         "16": "assets/icons/note_sticky_icon_16.png",
+         "32": "assets/icons/note_sticky_icon_32.png",
+         "48": "assets/icons/note_sticky_icon_48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Note AnyWhere"
+   },
+   "author": "William",
+   "background": {
+      "service_worker": "js/background.bundle.js"
+   },
+   "content_scripts": [ {
+      "js": [ "js/contentScript.bundle.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "description": "Make notes on any web page, any position.",
+   "externally_connectable": {
+      "matches": [ "https://*.myatoms.io/*", "http://localhost:9000/*" ]
+   },
+   "homepage_url": "https://myatoms.io",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "assets/icons/note_sticky_icon_128.png",
+      "16": "assets/icons/note_sticky_icon_16.png",
+      "32": "assets/icons/note_sticky_icon_32.png",
+      "48": "assets/icons/note_sticky_icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDPbEuvgJoShOyZYrsPQaahVj8O7R6mq3B8HOmYJW14C0PklzPEf2UssB4Jepk6Sy5pKvvNE3eE4x+7LXFsuHKDUGPfKkXTngJY9PFGNAl0SL7uJWtx6EmtpzMAFnOcL2lpm7WPJPbQ1S14IFBiyp/ewt5iF+xmVWkv0Mq3Nr44EwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "88",
+   "name": "Note Anywhere",
+   "options_page": "options.html",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "tabs", "contextMenus", "alarms", "storage" ],
+   "short_name": "Note Anywhere",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2",
+   "web_accessible_resources": [ {
+      "matches": [ "http://*/*", "https://*/*" ],
+      "resources": [ "assets/css/sticky.css", "assets/icons/note_sticky_icon_48.png" ]
+   } ]
+}

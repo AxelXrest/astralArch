@@ -1,0 +1,6 @@
+Release Version: 1.8.29
+Build Version: 1.8.29.209
+Build Time: 2024-02-21 07:38:45Z
+Branch: release
+Commit SHA:
+web/extension: 58e868a2d0c4365f4757b7bdc444cdad1ee3a713

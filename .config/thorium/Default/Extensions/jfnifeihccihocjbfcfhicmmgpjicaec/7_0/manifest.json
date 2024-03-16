@@ -1,0 +1,38 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "images/gsconnect-128.png",
+         "16": "images/gsconnect-16.png",
+         "22": "images/gsconnect-22.png",
+         "24": "images/gsconnect-24.png",
+         "256": "images/gsconnect-256.png",
+         "32": "images/gsconnect-32.png",
+         "48": "images/gsconnect-48.png",
+         "64": "images/gsconnect-64.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "homepage_url": "https://github.com/andyholmes/gnome-shell-extension-gsconnect/wiki",
+   "icons": {
+      "128": "images/gsconnect-128.png",
+      "16": "images/gsconnect-16.png",
+      "22": "images/gsconnect-22.png",
+      "24": "images/gsconnect-24.png",
+      "256": "images/gsconnect-256.png",
+      "32": "images/gsconnect-32.png",
+      "48": "images/gsconnect-48.png",
+      "64": "images/gsconnect-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmLfT/oME4DlqGa1xQ9FV4C7wtU0/kFwunLu/UT3DE4ar5iys3Jv5zfo8wjBkjiBGLKdLjKaEQ6YzVGhDbBMsdVr45zjIzNvwmfYo7KmRrHK+SOHwO5hksgrTla4UYjQ04cFLowvhXhogpL4IzXjydXf+rzEb1N7w397HJT8K83tieYJKCrXL4lNJvyKwWNx6JCABSxcXkFCKUx+b0GOIYA2BQylQShU4jlvhGTOxIE84U/o+qiDFdfylF6hd5SGefw3OJ5N8fxlq3m9VhUYItRGm3faPNe86Vi5M7vSmmsYSDTNe06vk74nDn6X+7XWuxEGwlKzKLH5nUuYJfl4WxQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extensionName__",
+   "permissions": [ "nativeMessaging", "tabs", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7"
+}

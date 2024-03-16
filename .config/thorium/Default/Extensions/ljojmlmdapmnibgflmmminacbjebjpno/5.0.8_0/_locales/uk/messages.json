@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "активувати"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "або Активувати ліцензію"
+   },
+   "activeTabDesc": {
+      "message": "Натисніть значок розширення, щоб знайти активну вкладку Meet"
+   },
+   "activeTabLabel": {
+      "message": "Знайти вкладку Active Meet"
+   },
+   "alwaysShowLabel": {
+      "message": "Завжди показуйте імена учасників"
+   },
+   "attendanceDesc": {
+      "message": "Зафіксуйте відвідуваність зустрічі та експортуйте її у файл CSV"
+   },
+   "attendanceLabel": {
+      "message": "Візьміть участь"
+   },
+   "autoAdmitDesc": {
+      "message": "Автоматично допускає нових учасників до Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Автоматичний прийом нових учасників"
+   },
+   "autoFullScreenDesc": {
+      "message": "Автоматичний перехід на весь екран, коли хтось виступає"
+   },
+   "autoFullScreenLabel": {
+      "message": "Автоматичний повний екран"
+   },
+   "autoJoinDesc": {
+      "message": "Автоматично приєднуйтеся до зустрічі"
+   },
+   "autoJoinDescOption": {
+      "message": "Приєднуйтесь до наради, лише якщо учасники присутні"
+   },
+   "autoJoinLabel": {
+      "message": "Автоматичне приєднання"
+   },
+   "autoMinimizeDesc": {
+      "message": "Автоматично згортайте ваше відео, коли ви приєднуєтеся до зустрічі"
+   },
+   "autoMinimizeLabel": {
+      "message": "Автоматичне згортання відео"
+   },
+   "autoMuteDesc": {
+      "message": "Автоматичне вимкнення мікрофона під час приєднання"
+   },
+   "autoMuteLabel": {
+      "message": "Автоматичне вимкнення звуку"
+   },
+   "autoRecordDesc": {
+      "message": "Автоматично почати запис Meet (потрібен Google Workspace)"
+   },
+   "autoRecordDescOne": {
+      "message": "Автоматичний початок запису"
+   },
+   "autoRecordDescThree": {
+      "message": "Автоматично починати транскрипцію"
+   },
+   "autoRecordDescTwo": {
+      "message": "Почніть запис вручну"
+   },
+   "autoRecordLabel": {
+      "message": "Автоматичний запис"
+   },
+   "autoRejectDesc": {
+      "message": "Автоматично відмовляє новим учасникам у зустрічі"
+   },
+   "autoRejectLabel": {
+      "message": "Автоматична заборона нових учасників"
+   },
+   "autoUnmuteDesc": {
+      "message": "Не дозволяйте іншим вимикати ваш мікрофон"
+   },
+   "autoUnmuteLabel": {
+      "message": "Автоматичне ввімкнення звуку"
+   },
+   "autoVideoDesc": {
+      "message": "Вимкніть відео під час приєднання"
+   },
+   "autoVideoLabel": {
+      "message": "Автоматичне вимкнення відео"
+   },
+   "basicFeatures": {
+      "message": "Основні характеристики"
+   },
+   "bgColorDesc": {
+      "message": "Установіть спеціальний колір фону в Meet"
+   },
+   "bgColorLabel": {
+      "message": "Установити колір фону"
+   },
+   "captionsDesc": {
+      "message": "Автоматичне ввімкнення субтитрів"
+   },
+   "captionsLabel": {
+      "message": "Автоматичні субтитри"
+   },
+   "chimesDesc": {
+      "message": "Завжди чути звуки дзвінків, коли учасники приєднуються та виходять, або коли надходить нове повідомлення чату"
+   },
+   "chimesLabel": {
+      "message": "Завжди грати куранти"
+   },
+   "copyUrlDesc": {
+      "message": "Автоматично копіювати URL-адресу Meet у буфер обміну"
+   },
+   "copyUrlLabel": {
+      "message": "Автоматичне копіювання URL-адреси Meet"
+   },
+   "darkModeDesc": {
+      "message": "Вмикає темний режим Google Meet"
+   },
+   "darkModeLabel": {
+      "message": "Темний режим"
+   },
+   "desktopApp": {
+      "message": "настільна програма"
+   },
+   "desktopDesc": {
+      "message": "Відкрийте всі посилання Google Cal у"
+   },
+   "desktopLabel": {
+      "message": "Відкрийте посилання Meet у додатку для комп’ютера"
+   },
+   "displayClockDesc": {
+      "message": "Відображати годинник, навіть якщо не в повноекранному режимі"
+   },
+   "displayClockLabel": {
+      "message": "Відображення годинника"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Сховати підказку сповіщень про коментарі"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Приховати коментарі та спливаючі вікна для приєднання користувачів"
+   },
+   "doNotDisturbDesc": {
+      "message": "Сховати новий коментар"
+   },
+   "doNotDisturbLabel": {
+      "message": "Не турбувати"
+   },
+   "emojiToolTipDesc": {
+      "message": "Ця функція ввімкнена за умовчанням, і ви можете отримати до неї доступ із вікна чату в Google Meet"
+   },
+   "extDesc": {
+      "message": "40 нових функцій для Google Meet, таких як вимкнення звуку для всіх, видалення всіх, автоматичний прийом, емодзі, дзеркальні відео, колір фону та «Натисни і говори»!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "Ця функція ввімкнена за умовчанням, і ви можете отримати до неї доступ із меню учасників у Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "Приховує спливаюче вікно «Додати інших» під час приєднання до Meet"
+   },
+   "hideAddOthersLabel": {
+      "message": "Сховати спливаюче вікно «Додати інших»."
+   },
+   "hidePartNames": {
+      "message": "Приховати імена учасників"
+   },
+   "hideSpeakingIcons": {
+      "message": "Приховати піктограми учасників, які говорять"
+   },
+   "hideTopBarDesc": {
+      "message": "Приховати верхню панель, коли зникне нижня панель"
+   },
+   "hideTopBarLabel": {
+      "message": "Автоматичне приховування верхньої панелі"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Автоматично приховувати сповіщення «нескінченного дзеркала» під час презентації"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Автоматичне ігнорування накладання презентації"
+   },
+   "leaveConfirmDesc": {
+      "message": "Попросіть підтвердження, коли ви залишаєте зустріч"
+   },
+   "leaveConfirmLabel": {
+      "message": "Залишити підтвердження"
+   },
+   "meetProButtonLabel": {
+      "message": "Почніть 7-денну безкоштовну пробну версію"
+   },
+   "meetProSectionDesc": {
+      "message": "Оновивши до Meet Pro, ви отримаєте доступ до понад 25 нових функцій, які виводять Google Meet на новий рівень."
+   },
+   "meetProSectionLabel": {
+      "message": "Отримайте Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Налаштуйте рівень гучності Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "Відрегулюйте гучність Meet"
+   },
+   "mirrorVideosDesc": {
+      "message": "Дзеркалює всі відео в Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "Дзеркальні відео"
+   },
+   "muchMore": {
+      "message": "Попереду ще багато!"
+   },
+   "muteAllDesc": {
+      "message": "Вимкніть звук усіх учасників через меню учасників"
+   },
+   "muteAllLabel": {
+      "message": "Вимкнути всі"
+   },
+   "mutePopupDesc": {
+      "message": "Приховує &quot;Ви говорите?&quot; спливаюче вікно при вимкненому звуку"
+   },
+   "mutePopupLabel": {
+      "message": "Приховати спливаюче вікно без звуку"
+   },
+   "partVidStyleLabel": {
+      "message": "Стиль відео учасника"
+   },
+   "pinBarDesc": {
+      "message": "Прикріплює панель керування внизу екрана"
+   },
+   "pinBarLabel": {
+      "message": "Закріпити нижню панель"
+   },
+   "pinChatDesc": {
+      "message": "Автоматично закріплює перегляд чату під час приєднання до Meet"
+   },
+   "pinChatLabel": {
+      "message": "Автоматичне закріплення чату"
+   },
+   "pipDesc": {
+      "message": "Перегляньте відео учасників у режимі «картинка в картинці»."
+   },
+   "pipLabel": {
+      "message": "Картинка в картинці"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Професійні функції"
+   },
+   "pttDesc": {
+      "message": "Утримуйте гарячу клавішу, щоб увімкнути звук"
+   },
+   "pttLabel": {
+      "message": "Натисніть щоб говорити"
+   },
+   "pttUpgrade": {
+      "message": "Оновіть до Pro, щоб налаштувати власну прив’язку клавіш"
+   },
+   "quickEmojiDesc": {
+      "message": "Додає швидкі ярлики емодзі у вікно чату"
+   },
+   "quickEmojiLabel": {
+      "message": "Швидкі реакції Emoji"
+   },
+   "quickLeaveDesc": {
+      "message": "Використовуйте гарячу клавішу, щоб залишити виклик"
+   },
+   "quickLeaveLabel": {
+      "message": "Швидкий вихід"
+   },
+   "removeAllDesc": {
+      "message": "Видалити всіх учасників через меню учасників"
+   },
+   "removeAllLabel": {
+      "message": "Видалити всі"
+   },
+   "returnHomeDesc": {
+      "message": "Повернення на головний екран Meet після виходу з Meet"
+   },
+   "returnHomeLabel": {
+      "message": "Повернутися на головний екран після завершення розмови"
+   },
+   "seeFeatures": {
+      "message": "щоб побачити всі функції, які ми запланували"
+   },
+   "sortParticipantsDesc": {
+      "message": "Додає перемикач до списку учасників для сортування за прізвищем"
+   },
+   "sortParticipantsLabel": {
+      "message": "Сортувати список учасників"
+   },
+   "speakerBorderDesc": {
+      "message": "Додає рамку навколо учасників, які говорять"
+   },
+   "speakerBorderLabel": {
+      "message": "Виділення спікера"
+   },
+   "startMeet": {
+      "message": "Почніть зустріч"
+   },
+   "timerDesc": {
+      "message": "Відображає таймер зустрічі на нижній панелі вкладок"
+   },
+   "timerLabel": {
+      "message": "Таймер зустрічі"
+   },
+   "title": {
+      "message": "Meet Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "Перемкніть нижню панель керування"
+   },
+   "toggleBarLabel": {
+      "message": "Перемкнути нижню панель"
+   },
+   "transBarDesc": {
+      "message": "Зробіть нижню панель прозорою"
+   },
+   "transBarLabel": {
+      "message": "Прозорий бар"
+   },
+   "viewRoadmap": {
+      "message": "Перегляньте нашу дорожню карту"
+   }
+}

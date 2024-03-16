@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Aktiválja"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "vagy Aktiválja a licencet"
+   },
+   "activeTabDesc": {
+      "message": "Kattintson a bővítmény ikonjára az aktív Meet lap megkereséséhez"
+   },
+   "activeTabLabel": {
+      "message": "Keresse meg az Active Meet lapot"
+   },
+   "alwaysShowLabel": {
+      "message": "Mindig mutasd meg a résztvevők nevét"
+   },
+   "attendanceDesc": {
+      "message": "Rögzítse a találkozón való részvételt, és exportálja CSV-fájlba"
+   },
+   "attendanceLabel": {
+      "message": "Vegyen részt"
+   },
+   "autoAdmitDesc": {
+      "message": "Automatikusan felveszi az új belépőket a Meetbe"
+   },
+   "autoAdmitLabel": {
+      "message": "Új belépők automatikus felvétele"
+   },
+   "autoFullScreenDesc": {
+      "message": "Automatikus teljes képernyő váltás, amikor valaki prezentációt tart"
+   },
+   "autoFullScreenLabel": {
+      "message": "Automatikus teljes képernyő"
+   },
+   "autoJoinDesc": {
+      "message": "Automatikusan csatlakozzon az értekezlethez"
+   },
+   "autoJoinDescOption": {
+      "message": "Csak akkor csatlakozzon az üléshez, ha a résztvevők jelen vannak"
+   },
+   "autoJoinLabel": {
+      "message": "Automatikus csatlakozás"
+   },
+   "autoMinimizeDesc": {
+      "message": "Minimalizálja automatikusan a videót, amikor csatlakozik egy találkozóhoz"
+   },
+   "autoMinimizeLabel": {
+      "message": "Videó automatikus kicsinyítése"
+   },
+   "autoMuteDesc": {
+      "message": "Mikrofon automatikus némítása csatlakozáskor"
+   },
+   "autoMuteLabel": {
+      "message": "Automatikus némítás"
+   },
+   "autoRecordDesc": {
+      "message": "A Meet rögzítésének automatikus indítása (Google Workspace szükséges)"
+   },
+   "autoRecordDescOne": {
+      "message": "A felvétel automatikus indítása"
+   },
+   "autoRecordDescThree": {
+      "message": "Az átírás automatikus indítása"
+   },
+   "autoRecordDescTwo": {
+      "message": "Indítsa el manuálisan a felvételt"
+   },
+   "autoRecordLabel": {
+      "message": "Automatikus rögzítés"
+   },
+   "autoRejectDesc": {
+      "message": "Automatikusan megtagadja a Meet új belépőit"
+   },
+   "autoRejectLabel": {
+      "message": "Új belépők automatikus megtagadása"
+   },
+   "autoUnmuteDesc": {
+      "message": "Megakadályozza, hogy mások elnémítsák a mikrofont"
+   },
+   "autoUnmuteLabel": {
+      "message": "Automatikus némítás feloldása"
+   },
+   "autoVideoDesc": {
+      "message": "Állítsa be a videót, hogy kapcsolja ki a csatlakozást"
+   },
+   "autoVideoLabel": {
+      "message": "Auto Video Off"
+   },
+   "basicFeatures": {
+      "message": "Alapvető funkciók"
+   },
+   "bgColorDesc": {
+      "message": "Állítson be egyéni háttérszínt a Meetben"
+   },
+   "bgColorLabel": {
+      "message": "Állítsa be a háttérszínt"
+   },
+   "captionsDesc": {
+      "message": "Feliratok automatikus bekapcsolása"
+   },
+   "captionsLabel": {
+      "message": "Automatikus feliratok"
+   },
+   "chimesDesc": {
+      "message": "Mindig halljon csengő hangokat, amikor a résztvevők csatlakoznak és kilépnek, vagy ha új csevegési üzenet érkezik"
+   },
+   "chimesLabel": {
+      "message": "Mindig játsszon harangjátékot"
+   },
+   "copyUrlDesc": {
+      "message": "A Meet URL-jének automatikus másolása a vágólapra"
+   },
+   "copyUrlLabel": {
+      "message": "A Meet URL automatikus másolása"
+   },
+   "darkModeDesc": {
+      "message": "Sötét módba állítja a Google Meetet"
+   },
+   "darkModeLabel": {
+      "message": "Sötét mód"
+   },
+   "desktopApp": {
+      "message": "asztali alkalmazás"
+   },
+   "desktopDesc": {
+      "message": "Nyissa meg az összes Google Cal hivatkozást a"
+   },
+   "desktopLabel": {
+      "message": "Nyissa meg a Meet-hivatkozásokat az asztali alkalmazásban"
+   },
+   "displayClockDesc": {
+      "message": "Az óra megjelenítése akkor is, ha nem teljes képernyőn"
+   },
+   "displayClockLabel": {
+      "message": "Kijelző óra"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Megjegyzésértesítési buborék elrejtése"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Megjegyzések elrejtése és felhasználói csatlakozási előugró ablakok"
+   },
+   "doNotDisturbDesc": {
+      "message": "Új megjegyzés elrejtése"
+   },
+   "doNotDisturbLabel": {
+      "message": "Ne zavarj"
+   },
+   "emojiToolTipDesc": {
+      "message": "Ez a funkció alapértelmezés szerint be van kapcsolva, és a Google Meet csevegőablakából érheti el"
+   },
+   "extDesc": {
+      "message": "40 új funkció a Google Meethez, mint például az összes némítása, az összes eltávolítása, az automatikus engedélyezés, a hangulatjelek, a videók tükrözése, a háttérszín és az adó-vevő!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "Ez a funkció alapértelmezés szerint be van kapcsolva, és a Google Meet résztvevői menüjéből érheti el"
+   },
+   "hideAddOthersDesc": {
+      "message": "Elrejti a „Mások hozzáadása” előugró ablakot, amikor csatlakozik egy Meethez"
+   },
+   "hideAddOthersLabel": {
+      "message": "A &quot;Mások hozzáadása&quot; előugró ablak elrejtése"
+   },
+   "hidePartNames": {
+      "message": "A résztvevők nevének elrejtése"
+   },
+   "hideSpeakingIcons": {
+      "message": "A résztvevők beszélő ikonjainak elrejtése"
+   },
+   "hideTopBarDesc": {
+      "message": "A felső sáv elrejtése, amikor az alsó sáv eltűnik"
+   },
+   "hideTopBarLabel": {
+      "message": "Felső sáv automatikus elrejtése"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "A „végtelen tükör” figyelmeztetés automatikus elrejtése prezentációkor"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "A prezentációfedvény automatikus figyelmen kívül hagyása"
+   },
+   "leaveConfirmDesc": {
+      "message": "Kérjen megerősítést, amikor elhagyja a megbeszélést"
+   },
+   "leaveConfirmLabel": {
+      "message": "Megerősítés elhagyása"
+   },
+   "meetProButtonLabel": {
+      "message": "Kezdje el a 7 napos ingyenes próbaverziót"
+   },
+   "meetProSectionDesc": {
+      "message": "A Meet Pro verzióra való frissítéssel több mint 25 új funkcióhoz férhet hozzá, amelyek a Google Meetet a következő szintre emelik."
+   },
+   "meetProSectionLabel": {
+      "message": "Szerezze be a Meet Pro-t"
+   },
+   "meetVolumeDesc": {
+      "message": "Állítsa be a Meet hangerejét"
+   },
+   "meetVolumeLabel": {
+      "message": "Állítsa be a Meet hangerejét"
+   },
+   "mirrorVideosDesc": {
+      "message": "A Meet összes videóját tükrözi"
+   },
+   "mirrorVideosLabel": {
+      "message": "Tükör videók"
+   },
+   "muchMore": {
+      "message": "Még sok minden jön!"
+   },
+   "muteAllDesc": {
+      "message": "Az összes résztvevő némítása a résztvevők menüben"
+   },
+   "muteAllLabel": {
+      "message": "Összes némítása"
+   },
+   "mutePopupDesc": {
+      "message": "Elrejti a &#39;Te beszélsz?&#39; felugró ablak némításkor"
+   },
+   "mutePopupLabel": {
+      "message": "Előugró ablak elrejtése"
+   },
+   "partVidStyleLabel": {
+      "message": "Résztvevő videóstílus"
+   },
+   "pinBarDesc": {
+      "message": "A vezérlősávot a képernyő aljára rögzíti"
+   },
+   "pinBarLabel": {
+      "message": "Pin alsó sáv"
+   },
+   "pinChatDesc": {
+      "message": "A Meethez való csatlakozáskor automatikusan rögzíti a csevegési nézetet"
+   },
+   "pinChatLabel": {
+      "message": "A Chat automatikus rögzítése"
+   },
+   "pipDesc": {
+      "message": "Tekintse meg a résztvevők videóját kép a képben módban"
+   },
+   "pipLabel": {
+      "message": "Kép a képben"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Pro jellemzők"
+   },
+   "pttDesc": {
+      "message": "A némítás feloldásához tartsa lenyomva a gyorsbillentyűt"
+   },
+   "pttLabel": {
+      "message": "Push to Talk"
+   },
+   "pttUpgrade": {
+      "message": "Frissítsen Pro-ra, hogy beállítsa saját kulcskötését"
+   },
+   "quickEmojiDesc": {
+      "message": "Gyors emoji-parancsikonokat ad a csevegőablakhoz"
+   },
+   "quickEmojiLabel": {
+      "message": "Gyors Emoji reakciók"
+   },
+   "quickLeaveDesc": {
+      "message": "Használja a gyorsbillentyűket a hívás elhagyásához"
+   },
+   "quickLeaveLabel": {
+      "message": "Gyors távozás"
+   },
+   "removeAllDesc": {
+      "message": "Távolítsa el az összes résztvevőt a résztvevők menüből"
+   },
+   "removeAllLabel": {
+      "message": "Összes eltávolítása"
+   },
+   "returnHomeDesc": {
+      "message": "A Meet elhagyása után visszatér a Meet kezdőképernyőjére"
+   },
+   "returnHomeLabel": {
+      "message": "Visszatérés a kezdőképernyőre a telefon bontása után"
+   },
+   "seeFeatures": {
+      "message": "hogy megtekinthesse az általunk tervezett összes funkciót"
+   },
+   "sortParticipantsDesc": {
+      "message": "Hozzáadja a kapcsolót a résztvevők listájához a vezetéknév szerinti rendezéshez"
+   },
+   "sortParticipantsLabel": {
+      "message": "Résztvevőlista rendezése"
+   },
+   "speakerBorderDesc": {
+      "message": "Szegélyt ad a beszélő résztvevők köré"
+   },
+   "speakerBorderLabel": {
+      "message": "Hangszóró kiemelése"
+   },
+   "startMeet": {
+      "message": "Indítson el egy találkozót"
+   },
+   "timerDesc": {
+      "message": "Megjeleníti az értekezlet időzítőjét az alsó lapsávban"
+   },
+   "timerLabel": {
+      "message": "Találkozó időzítő"
+   },
+   "title": {
+      "message": "Ismerje meg az Enhancement Suite-ot"
+   },
+   "toggleBarDesc": {
+      "message": "Kapcsolja be az alsó vezérlősávot, hogy megjelenjen"
+   },
+   "toggleBarLabel": {
+      "message": "Az alsó sáv váltása"
+   },
+   "transBarDesc": {
+      "message": "Tegye átlátszóvá az alsó sávot"
+   },
+   "transBarLabel": {
+      "message": "Átlátszó rúd"
+   },
+   "viewRoadmap": {
+      "message": "Tekintse meg útitervünket"
+   }
+}

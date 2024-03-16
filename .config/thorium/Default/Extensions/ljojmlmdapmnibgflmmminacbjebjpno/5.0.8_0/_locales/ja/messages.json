@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "活性化"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "またはライセンスを有効にする"
+   },
+   "activeTabDesc": {
+      "message": "拡張機能のアイコンをクリックして、アクティブな [Meet] タブを見つけます"
+   },
+   "activeTabLabel": {
+      "message": "アクティブな Meet タブを探す"
+   },
+   "alwaysShowLabel": {
+      "message": "参加者名を常に表示"
+   },
+   "attendanceDesc": {
+      "message": "会議の出席を取得し、CSV にエクスポートします"
+   },
+   "attendanceLabel": {
+      "message": "出席を取る"
+   },
+   "autoAdmitDesc": {
+      "message": "Meet への新規参加者を自動的に許可します"
+   },
+   "autoAdmitLabel": {
+      "message": "新規参加者の自動承認"
+   },
+   "autoFullScreenDesc": {
+      "message": "誰かがプレゼンテーションを行っているときに自動的に全画面表示にする"
+   },
+   "autoFullScreenLabel": {
+      "message": "自動フルスクリーン"
+   },
+   "autoJoinDesc": {
+      "message": "会議に自動的に参加する"
+   },
+   "autoJoinDescOption": {
+      "message": "参加者がいる場合にのみ会議に参加する"
+   },
+   "autoJoinLabel": {
+      "message": "自動参加"
+   },
+   "autoMinimizeDesc": {
+      "message": "ミーティングに参加するときにビデオを自動的に最小化する"
+   },
+   "autoMinimizeLabel": {
+      "message": "ビデオの自動最小化"
+   },
+   "autoMuteDesc": {
+      "message": "参加時にマイクを自動ミュート"
+   },
+   "autoMuteLabel": {
+      "message": "自動ミュート"
+   },
+   "autoRecordDesc": {
+      "message": "Meet の録画を自動的に開始する（Google Workspace が必要）"
+   },
+   "autoRecordDescOne": {
+      "message": "自動で録音開始"
+   },
+   "autoRecordDescThree": {
+      "message": "文字起こしを自動的に開始"
+   },
+   "autoRecordDescTwo": {
+      "message": "手動で録音を開始する"
+   },
+   "autoRecordLabel": {
+      "message": "自動記録"
+   },
+   "autoRejectDesc": {
+      "message": "Meet への新規参加者を自動的に拒否します"
+   },
+   "autoRejectLabel": {
+      "message": "新規参加者の自動拒否"
+   },
+   "autoUnmuteDesc": {
+      "message": "他の人があなたのマイクをミュートできないようにする"
+   },
+   "autoUnmuteLabel": {
+      "message": "自動ミュート解除"
+   },
+   "autoVideoDesc": {
+      "message": "参加時にビデオをオフにするように設定する"
+   },
+   "autoVideoLabel": {
+      "message": "自動ビデオオフ"
+   },
+   "basicFeatures": {
+      "message": "基本的な機能"
+   },
+   "bgColorDesc": {
+      "message": "Meet でカスタムの背景色を設定する"
+   },
+   "bgColorLabel": {
+      "message": "背景色の設定"
+   },
+   "captionsDesc": {
+      "message": "キャプションを自動的にオンにする"
+   },
+   "captionsLabel": {
+      "message": "自動キャプション"
+   },
+   "chimesDesc": {
+      "message": "参加者が参加および退出するとき、または新しいチャット メッセージを受信したときに、常にチャイムが鳴ります。"
+   },
+   "chimesLabel": {
+      "message": "常にチャイムを鳴らす"
+   },
+   "copyUrlDesc": {
+      "message": "Meet の URL をクリップボードに自動的にコピーする"
+   },
+   "copyUrlLabel": {
+      "message": "会議 URL の自動コピー"
+   },
+   "darkModeDesc": {
+      "message": "Google Meet をダークモードにする"
+   },
+   "darkModeLabel": {
+      "message": "ダークモード"
+   },
+   "desktopApp": {
+      "message": "デスクトップ アプリ"
+   },
+   "desktopDesc": {
+      "message": "すべての Google Cal リンクを"
+   },
+   "desktopLabel": {
+      "message": "デスクトップ アプリで Meet のリンクを開く"
+   },
+   "displayClockDesc": {
+      "message": "フルスクリーンでなくても時計を表示する"
+   },
+   "displayClockLabel": {
+      "message": "時計を表示"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "コメント通知バブルを非表示"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "コメントとユーザー参加のポップアップを非表示にする"
+   },
+   "doNotDisturbDesc": {
+      "message": "新しいコメントを非表示"
+   },
+   "doNotDisturbLabel": {
+      "message": "邪魔しないでください"
+   },
+   "emojiToolTipDesc": {
+      "message": "この機能はデフォルトでオンになっており、Google Meet のチャット ウィンドウからアクセスできます。"
+   },
+   "extDesc": {
+      "message": "全員ミュート、全員削除、自動許可、絵文字、ビデオのミラーリング、背景色、プッシュ トゥ トークなど、Google Meet の 40 の新機能"
+   },
+   "extName": {
+      "message": "Google Meet 拡張スイート"
+   },
+   "generalToolTipDesc": {
+      "message": "この機能はデフォルトでオンになっており、Google Meet の参加者メニューからアクセスできます"
+   },
+   "hideAddOthersDesc": {
+      "message": "Meet に参加するときに [他のユーザーを追加] ポップアップを非表示にします"
+   },
+   "hideAddOthersLabel": {
+      "message": "[その他を追加] ポップアップを非表示にする"
+   },
+   "hidePartNames": {
+      "message": "参加者名を非表示"
+   },
+   "hideSpeakingIcons": {
+      "message": "参加者の発言アイコンを非表示"
+   },
+   "hideTopBarDesc": {
+      "message": "ボトムバーが消えたらトップバーを隠す"
+   },
+   "hideTopBarLabel": {
+      "message": "トップバーを自動的に隠す"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "表示時に「インフィニティ ミラー」アラートを自動的に非表示"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "プレゼンテーション オーバーレイの自動無視"
+   },
+   "leaveConfirmDesc": {
+      "message": "会議を退出するときに確認を求める"
+   },
+   "leaveConfirmLabel": {
+      "message": "休暇の確認"
+   },
+   "meetProButtonLabel": {
+      "message": "7日間の無料トライアルを開始"
+   },
+   "meetProSectionDesc": {
+      "message": "Meet Pro にアップグレードすると、Google Meet を次のレベルに引き上げる 25 を超える新機能にアクセスできます。"
+   },
+   "meetProSectionLabel": {
+      "message": "Meet Pro を入手"
+   },
+   "meetVolumeDesc": {
+      "message": "Meet の音量レベルを調整する"
+   },
+   "meetVolumeLabel": {
+      "message": "ミートボリュームの調整"
+   },
+   "mirrorVideosDesc": {
+      "message": "Meet のすべてのビデオをミラーリングします"
+   },
+   "mirrorVideosLabel": {
+      "message": "ビデオのミラーリング"
+   },
+   "muchMore": {
+      "message": "まだまだ続きます！"
+   },
+   "muteAllDesc": {
+      "message": "参加者メニューからすべての参加者をミュートする"
+   },
+   "muteAllLabel": {
+      "message": "すべてミュート"
+   },
+   "mutePopupDesc": {
+      "message": "「しゃべっていますか？」を非表示にします。ミュート時のポップアップ"
+   },
+   "mutePopupLabel": {
+      "message": "ミュート ポップアップを非表示"
+   },
+   "partVidStyleLabel": {
+      "message": "参加者のビデオ スタイル"
+   },
+   "pinBarDesc": {
+      "message": "コントロールバーを画面の下部に固定します"
+   },
+   "pinBarLabel": {
+      "message": "ピンボトムバー"
+   },
+   "pinChatDesc": {
+      "message": "Meet への参加時にチャット ビューを自動的にピン留めする"
+   },
+   "pinChatLabel": {
+      "message": "自動固定チャット"
+   },
+   "pipDesc": {
+      "message": "ピクチャー イン ピクチャーで参加者のビデオを表示する"
+   },
+   "pipLabel": {
+      "message": "ピクチャー・イン・ピクチャー"
+   },
+   "proFeaturesSubHeading": {
+      "message": "プロの機能"
+   },
+   "pttDesc": {
+      "message": "ホットキーを長押ししてミュートを解除します"
+   },
+   "pttLabel": {
+      "message": "プッシュツートーク"
+   },
+   "pttUpgrade": {
+      "message": "Pro にアップグレードして、独自のキー バインドを設定する"
+   },
+   "quickEmojiDesc": {
+      "message": "チャット ウィンドウにクイック絵文字ショートカットを追加します"
+   },
+   "quickEmojiLabel": {
+      "message": "クイック絵文字リアクション"
+   },
+   "quickLeaveDesc": {
+      "message": "ホットキーを使用して通話を終了する"
+   },
+   "quickLeaveLabel": {
+      "message": "クイック リーブ"
+   },
+   "removeAllDesc": {
+      "message": "参加者メニューからすべての参加者を削除します"
+   },
+   "removeAllLabel": {
+      "message": "すべて削除する"
+   },
+   "returnHomeDesc": {
+      "message": "Meet から退出した後、Meet のホーム画面に戻る"
+   },
+   "returnHomeLabel": {
+      "message": "ハングアップ時にホーム画面に戻る"
+   },
+   "seeFeatures": {
+      "message": "私たちが計画しているすべての機能を見るために"
+   },
+   "sortParticipantsDesc": {
+      "message": "姓でソートするトグルを参加者リストに追加します"
+   },
+   "sortParticipantsLabel": {
+      "message": "参加者リストの並べ替え"
+   },
+   "speakerBorderDesc": {
+      "message": "発言する参加者の周囲に境界線を追加します"
+   },
+   "speakerBorderLabel": {
+      "message": "スピーカーのハイライト"
+   },
+   "startMeet": {
+      "message": "ミーティングを開始する"
+   },
+   "timerDesc": {
+      "message": "下部のタブ バーにミーティング タイマーを表示します"
+   },
+   "timerLabel": {
+      "message": "ミーティングタイマー"
+   },
+   "title": {
+      "message": "ミート強化スイート"
+   },
+   "toggleBarDesc": {
+      "message": "下部のコントロール バーを切り替えて表示する"
+   },
+   "toggleBarLabel": {
+      "message": "ボトムバーの切り替え"
+   },
+   "transBarDesc": {
+      "message": "ボトムバーを透明にする"
+   },
+   "transBarLabel": {
+      "message": "透明バー"
+   },
+   "viewRoadmap": {
+      "message": "ロードマップを見る"
+   }
+}

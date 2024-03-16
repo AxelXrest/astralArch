@@ -1,0 +1,83 @@
+{
+   "action": {
+      "default_icon": "assets/icons/icon38.png",
+      "default_popup": "popup.html",
+      "default_title": "Streamkeys"
+   },
+   "background": {
+      "service_worker": "js/background.bundle.js"
+   },
+   "commands": {
+      "dislike": {
+         "description": "Toggle dislike",
+         "global": true
+      },
+      "like": {
+         "description": "Toggle like",
+         "global": true
+      },
+      "mute": {
+         "description": "Toggle mute",
+         "global": true,
+         "suggested_key": {
+            "default": "Ctrl+Shift+2",
+            "mac": "MacCtrl+Shift+2"
+         }
+      },
+      "playNext": {
+         "description": "Play next track",
+         "global": true,
+         "suggested_key": {
+            "default": "MediaNextTrack"
+         }
+      },
+      "playPause": {
+         "description": "Toggle play/pause",
+         "global": true,
+         "suggested_key": {
+            "default": "MediaPlayPause"
+         }
+      },
+      "playPrev": {
+         "description": "Play previous track",
+         "global": true,
+         "suggested_key": {
+            "default": "MediaPrevTrack"
+         }
+      },
+      "playerStateNotify": {
+         "description": "Send notification of player(s) state",
+         "global": true
+      },
+      "stop": {
+         "description": "Stop all players",
+         "global": true,
+         "suggested_key": {
+            "default": "MediaStop"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "js/contentscript.js", "js/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "Global hotkeys for online music players including support for media keys.",
+   "host_permissions": [ "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "assets/icons/icon128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCNbjYBFhICyQewzxN7JIg6ziE7UQ14gnULafHwUYpCUouWxPqVa6hOGDVjOwF42COA9Cxm58QBo2k1taN1mKbVEsdQ1yBaRnnBKCFikbHbVqss9soT439HZw1y4YxyrH56hJ+5arlIeQKlntSz9Cliw+q/9KFnXkf9pHB0F5wREwIDAQAB",
+   "manifest_version": 3,
+   "name": "Streamkeys",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "tabs", "storage", "declarativeNetRequest", "scripting", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.5",
+   "web_accessible_resources": [ {
+      "matches": [ "http://*/*", "https://*/*" ],
+      "resources": [ "js/inject/hoopla_inject.js", "js/inject/musickit_inject.js", "js/inject/palcomp3_inject.js", "js/inject/seesu_inject.js", "js/controllers/*" ]
+   } ]
+}

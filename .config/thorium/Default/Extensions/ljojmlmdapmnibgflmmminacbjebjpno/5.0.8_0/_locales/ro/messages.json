@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Activati"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "sau Activați licența"
+   },
+   "activeTabDesc": {
+      "message": "Faceți clic pe pictograma extensiei pentru a găsi fila Meet activă"
+   },
+   "activeTabLabel": {
+      "message": "Găsiți fila Active Meet"
+   },
+   "alwaysShowLabel": {
+      "message": "Afișați întotdeauna numele participanților"
+   },
+   "attendanceDesc": {
+      "message": "Capturați prezența la întâlnire și exportați într-un CSV"
+   },
+   "attendanceLabel": {
+      "message": "Luați prezență"
+   },
+   "autoAdmitDesc": {
+      "message": "Admite automat noii participanți la Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Admitere automată a noilor participanți"
+   },
+   "autoFullScreenDesc": {
+      "message": "Accesați automat ecranul complet atunci când cineva se prezintă"
+   },
+   "autoFullScreenLabel": {
+      "message": "Ecran complet automat"
+   },
+   "autoJoinDesc": {
+      "message": "Alăturați-vă automat la întâlnire"
+   },
+   "autoJoinDescOption": {
+      "message": "Participați la întâlnire numai atunci când participanții sunt prezenți"
+   },
+   "autoJoinLabel": {
+      "message": "Alăturare automată"
+   },
+   "autoMinimizeDesc": {
+      "message": "Minimizați automat videoclipul atunci când vă înscrieți la o întâlnire"
+   },
+   "autoMinimizeLabel": {
+      "message": "Minimizați automat videoclipul"
+   },
+   "autoMuteDesc": {
+      "message": "Dezactivați automat microfonul la alăturare"
+   },
+   "autoMuteLabel": {
+      "message": "Dezactivare automată"
+   },
+   "autoRecordDesc": {
+      "message": "Începe automat înregistrarea Meet (este necesar Google Workspace)"
+   },
+   "autoRecordDescOne": {
+      "message": "Începe automat înregistrarea"
+   },
+   "autoRecordDescThree": {
+      "message": "Porniți automat transcrierea"
+   },
+   "autoRecordDescTwo": {
+      "message": "Începeți manual înregistrarea"
+   },
+   "autoRecordLabel": {
+      "message": "Înregistrare automată"
+   },
+   "autoRejectDesc": {
+      "message": "Respinge automat noii participanți la Meet"
+   },
+   "autoRejectLabel": {
+      "message": "Respingerea automată a noilor participanți"
+   },
+   "autoUnmuteDesc": {
+      "message": "Oprește-i pe ceilalți să-ți dezactiveze microfonul"
+   },
+   "autoUnmuteLabel": {
+      "message": "Activare automată"
+   },
+   "autoVideoDesc": {
+      "message": "Setați videoclipul să dezactiveze la înscriere"
+   },
+   "autoVideoLabel": {
+      "message": "Oprire video automată"
+   },
+   "basicFeatures": {
+      "message": "Caracteristici de bază"
+   },
+   "bgColorDesc": {
+      "message": "Setați culoarea de fundal personalizată în Meet"
+   },
+   "bgColorLabel": {
+      "message": "Setați culoarea de fundal"
+   },
+   "captionsDesc": {
+      "message": "Activare automată a subtitrărilor"
+   },
+   "captionsLabel": {
+      "message": "Subtitrări automate"
+   },
+   "chimesDesc": {
+      "message": "Auzi întotdeauna sunetele clopoțel atunci când participanții se alătură și pleacă sau când se primește un nou mesaj de chat"
+   },
+   "chimesLabel": {
+      "message": "Joacă întotdeauna Chimes"
+   },
+   "copyUrlDesc": {
+      "message": "Copiați automat adresa URL Meet în clipboard"
+   },
+   "copyUrlLabel": {
+      "message": "Copiere automată URL Meet"
+   },
+   "darkModeDesc": {
+      "message": "Face Google Meet modul întunecat"
+   },
+   "darkModeLabel": {
+      "message": "Modul întunecat"
+   },
+   "desktopApp": {
+      "message": "aplicație desktop"
+   },
+   "desktopDesc": {
+      "message": "Faceți toate linkurile Google Cal deschise în"
+   },
+   "desktopLabel": {
+      "message": "Deschideți linkurile Meet în aplicația desktop"
+   },
+   "displayClockDesc": {
+      "message": "Afișează ceasul chiar și atunci când nu este pe ecran complet"
+   },
+   "displayClockLabel": {
+      "message": "Afișează ceasul"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Ascunde balonul de notificare pentru comentarii"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Ascunde comentariile și ferestrele pop-up pentru alăturarea utilizatorilor"
+   },
+   "doNotDisturbDesc": {
+      "message": "Ascunde noul comentariu"
+   },
+   "doNotDisturbLabel": {
+      "message": "Nu deranja"
+   },
+   "emojiToolTipDesc": {
+      "message": "Această funcție este activată în mod implicit și o puteți accesa din fereastra de chat din Google Meet"
+   },
+   "extDesc": {
+      "message": "40 de funcții noi pentru Google Meet, cum ar fi dezactivarea sunetului, eliminarea tuturor, admiterea automată, emoji-urile, videoclipurile în oglindă, culoarea de fundal și apăsați pentru a vorbi!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "Această funcție este activată în mod implicit și o puteți accesa din meniul participanților din Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "Ascunde fereastra pop-up „Adăugați alții” atunci când vă alăturați unei întâlniri"
+   },
+   "hideAddOthersLabel": {
+      "message": "Ascundeți fereastra pop-up „Adăugați alții”."
+   },
+   "hidePartNames": {
+      "message": "Ascundeți numele participanților"
+   },
+   "hideSpeakingIcons": {
+      "message": "Ascunde pictogramele participante care vorbesc"
+   },
+   "hideTopBarDesc": {
+      "message": "Ascundeți bara de sus când bara de jos dispare"
+   },
+   "hideTopBarLabel": {
+      "message": "Ascundere automată bara de sus"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Ascundeți automat alerta „oglindă infinită” când prezentați"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Ignorare automată suprapunere prezentare"
+   },
+   "leaveConfirmDesc": {
+      "message": "Solicitați confirmarea când părăsiți o întâlnire"
+   },
+   "leaveConfirmLabel": {
+      "message": "Lăsați Confirmarea"
+   },
+   "meetProButtonLabel": {
+      "message": "Începeți o încercare gratuită de 7 zile"
+   },
+   "meetProSectionDesc": {
+      "message": "Trecând la Meet Pro, ai acces la peste 25 de funcții noi care duc Google Meet la nivelul următor."
+   },
+   "meetProSectionLabel": {
+      "message": "Obțineți Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Reglați nivelul volumului Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "Reglați volumul Meet"
+   },
+   "mirrorVideosDesc": {
+      "message": "Oglindește toate videoclipurile din Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "Videoclipuri în oglindă"
+   },
+   "muchMore": {
+      "message": "Urmează mult mai multe!"
+   },
+   "muteAllDesc": {
+      "message": "Dezactivați sunetul tuturor participanților prin meniul pentru participanți"
+   },
+   "muteAllLabel": {
+      "message": "Dezactivați toate"
+   },
+   "mutePopupDesc": {
+      "message": "Ascunde „Vorbiți?” pop-up atunci când este dezactivat"
+   },
+   "mutePopupLabel": {
+      "message": "Ascunde Mute Popup"
+   },
+   "partVidStyleLabel": {
+      "message": "Stil video participant"
+   },
+   "pinBarDesc": {
+      "message": "Fixează bara de control în partea de jos a ecranului"
+   },
+   "pinBarLabel": {
+      "message": "Pin Bara de jos"
+   },
+   "pinChatDesc": {
+      "message": "Fixează automat vizualizarea chat când te înscrii în Meet"
+   },
+   "pinChatLabel": {
+      "message": "Fixează automat chatul"
+   },
+   "pipDesc": {
+      "message": "Vizualizați un videoclip al participanților în imagine în imagine"
+   },
+   "pipLabel": {
+      "message": "Imagine în imagine"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Caracteristici Pro"
+   },
+   "pttDesc": {
+      "message": "Țineți apăsată tasta rapidă pentru a activa sunetul"
+   },
+   "pttLabel": {
+      "message": "Apăsați pentru a vorbi"
+   },
+   "pttUpgrade": {
+      "message": "Faceți upgrade la Pro pentru a vă configura propria cheie"
+   },
+   "quickEmojiDesc": {
+      "message": "Adaugă comenzi rapide rapide pentru emoji în fereastra de chat"
+   },
+   "quickEmojiLabel": {
+      "message": "Reacții rapide la Emoji"
+   },
+   "quickLeaveDesc": {
+      "message": "Utilizați tasta rapidă pentru a lăsa un apel"
+   },
+   "quickLeaveLabel": {
+      "message": "Plecare rapidă"
+   },
+   "removeAllDesc": {
+      "message": "Eliminați toți participanții prin meniul de participanți"
+   },
+   "removeAllLabel": {
+      "message": "Inlătură tot"
+   },
+   "returnHomeDesc": {
+      "message": "Revine la ecranul de pornire Meet după ce părăsiți un Meet"
+   },
+   "returnHomeLabel": {
+      "message": "Reveniți la ecranul de pornire la închidere"
+   },
+   "seeFeatures": {
+      "message": "pentru a vedea toate caracteristicile pe care le-am planificat"
+   },
+   "sortParticipantsDesc": {
+      "message": "Adaugă comutator la lista de participanți pentru a sorta după nume de familie"
+   },
+   "sortParticipantsLabel": {
+      "message": "Sortați lista de participanți"
+   },
+   "speakerBorderDesc": {
+      "message": "Adaugă o chenar în jurul participanților care vorbesc"
+   },
+   "speakerBorderLabel": {
+      "message": "Evidențierea difuzorului"
+   },
+   "startMeet": {
+      "message": "Începeți o întâlnire"
+   },
+   "timerDesc": {
+      "message": "Afișează un temporizator de întâlnire în bara de file de jos"
+   },
+   "timerLabel": {
+      "message": "Cronometru întâlnire"
+   },
+   "title": {
+      "message": "Faceți cunoștință cu Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "Comutați bara de control de jos pentru a apărea"
+   },
+   "toggleBarLabel": {
+      "message": "Comutați bara de jos"
+   },
+   "transBarDesc": {
+      "message": "Faceți bara de jos transparentă"
+   },
+   "transBarLabel": {
+      "message": "Bar transparent"
+   },
+   "viewRoadmap": {
+      "message": "Vezi foaia noastră de parcurs"
+   }
+}

@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Activate"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "or Activate License"
+   },
+   "activeTabDesc": {
+      "message": "Click the extension icon to find the active Meet tab"
+   },
+   "activeTabLabel": {
+      "message": "Find Active Meet Tab"
+   },
+   "alwaysShowLabel": {
+      "message": "Always show participant names"
+   },
+   "attendanceDesc": {
+      "message": "Capture the attendance of the meet and export to a CSV"
+   },
+   "attendanceLabel": {
+      "message": "Take Attendance"
+   },
+   "autoAdmitDesc": {
+      "message": "Automatically admits new entrants to the Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Auto Admit New Entrants"
+   },
+   "autoFullScreenDesc": {
+      "message": "Auto go full screen when someone is presenting"
+   },
+   "autoFullScreenLabel": {
+      "message": "Auto Full Screen"
+   },
+   "autoJoinDesc": {
+      "message": "Join the meeting automatically"
+   },
+   "autoJoinDescOption": {
+      "message": "Join meeting only when participants are present"
+   },
+   "autoJoinLabel": {
+      "message": "Auto Join"
+   },
+   "autoMinimizeDesc": {
+      "message": "Auto-minimize your video when you join a meet"
+   },
+   "autoMinimizeLabel": {
+      "message": "Auto-Minimize video"
+   },
+   "autoMuteDesc": {
+      "message": "Auto mute microphone on join"
+   },
+   "autoMuteLabel": {
+      "message": "Auto Mute"
+   },
+   "autoRecordDesc": {
+      "message": "Automatically start recording the Meet (Google Workspace required)"
+   },
+   "autoRecordDescOne": {
+      "message": "Automatically start recording"
+   },
+   "autoRecordDescThree": {
+      "message": "Automatically start transcription"
+   },
+   "autoRecordDescTwo": {
+      "message": "Manually start recording"
+   },
+   "autoRecordLabel": {
+      "message": "Auto Record & Transcribe"
+   },
+   "autoRejectDesc": {
+      "message": "Automatically denies new entrants to the Meet"
+   },
+   "autoRejectLabel": {
+      "message": "Auto Deny New Entrants"
+   },
+   "autoUnmuteDesc": {
+      "message": "Stop others from muting your mic"
+   },
+   "autoUnmuteLabel": {
+      "message": "Auto Unmute"
+   },
+   "autoVideoDesc": {
+      "message": "Set video to turn off on join"
+   },
+   "autoVideoLabel": {
+      "message": "Auto Video Off"
+   },
+   "basicFeatures": {
+      "message": "Basic Features"
+   },
+   "bgColorDesc": {
+      "message": "Set custom background color in the Meet"
+   },
+   "bgColorLabel": {
+      "message": "Set Background Color"
+   },
+   "captionsDesc": {
+      "message": "Auto turn on captions"
+   },
+   "captionsLabel": {
+      "message": "Auto Captions"
+   },
+   "chimesDesc": {
+      "message": "Always hear chime sounds when participants join and leave, or a when a new chat message is received"
+   },
+   "chimesLabel": {
+      "message": "Always Play Chimes"
+   },
+   "copyUrlDesc": {
+      "message": "Automatically copy Meet URL to clipboard"
+   },
+   "copyUrlLabel": {
+      "message": "Auto Copy Meet URL"
+   },
+   "darkModeDesc": {
+      "message": "Makes Google Meet dark mode"
+   },
+   "darkModeLabel": {
+      "message": "Dark Mode"
+   },
+   "desktopApp": {
+      "message": "desktop app"
+   },
+   "desktopDesc": {
+      "message": "Make all Google Cal links open in the "
+   },
+   "desktopLabel": {
+      "message": "Open Meet links in desktop app"
+   },
+   "displayClockDesc": {
+      "message": "Display the clock even when not in fullscreen"
+   },
+   "displayClockLabel": {
+      "message": "Display Clock"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Hide comment notification bubble"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Hide comments and user join pop-ups"
+   },
+   "doNotDisturbDesc": {
+      "message": "Hide new comment & new participant join popups"
+   },
+   "doNotDisturbLabel": {
+      "message": "Do Not Disturb"
+   },
+   "emojiToolTipDesc": {
+      "message": "This feature is on by default and you can access it from the chat window in Google Meet"
+   },
+   "extDesc": {
+      "message": "40 new features for Google Meet such as mute all, remove all, auto admit, emojis, mirror videos, background color, and push to talk!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "This feature is on by default and you can access it from the participants menu in Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "Hides the 'Add Others' pop-up when joining a Meet"
+   },
+   "hideAddOthersLabel": {
+      "message": "Hide 'Add Others' pop-up"
+   },
+   "hidePartNames": {
+      "message": "Hide participant names"
+   },
+   "hideSpeakingIcons": {
+      "message": "Hide participant speaking icons"
+   },
+   "hideTopBarDesc": {
+      "message": "Hide the top bar when the bottom bar disappears"
+   },
+   "hideTopBarLabel": {
+      "message": "Auto Hide Top Bar"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Auto hide `infinity mirror' alert when presenting"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Auto Ignore Presentation Overlay"
+   },
+   "leaveConfirmDesc": {
+      "message": "Ask to confirm when you leave a meeting"
+   },
+   "leaveConfirmLabel": {
+      "message": "Leave Confirmation"
+   },
+   "meetProButtonLabel": {
+      "message": "Start 7-day free trial"
+   },
+   "meetProSectionDesc": {
+      "message": "By upgrading to Meet Pro you get access to over 25 new features that take Google Meet to the next level."
+   },
+   "meetProSectionLabel": {
+      "message": "Get Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Adjust the volume level of the Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "Adjust Meet Volume"
+   },
+   "mirrorVideosDesc": {
+      "message": "Mirrors all videos in the Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "Mirror Videos"
+   },
+   "muchMore": {
+      "message": "Much more to come!"
+   },
+   "muteAllDesc": {
+      "message": "Mute all participants via the participants menu"
+   },
+   "muteAllLabel": {
+      "message": "Mute All"
+   },
+   "mutePopupDesc": {
+      "message": "Hides 'Are you speaking?' popup when muted"
+   },
+   "mutePopupLabel": {
+      "message": "Hide Mute Popup"
+   },
+   "partVidStyleLabel": {
+      "message": "Participant Video Style"
+   },
+   "pinBarDesc": {
+      "message": "Pins the control bar to the bottom of the screen"
+   },
+   "pinBarLabel": {
+      "message": "Pin Bottom Bar"
+   },
+   "pinChatDesc": {
+      "message": "Automatically pins chat view when joining Meet"
+   },
+   "pinChatLabel": {
+      "message": "Auto-pin Chat"
+   },
+   "pipDesc": {
+      "message": "View a participants video in picture-in-picture"
+   },
+   "pipLabel": {
+      "message": "Picture-in-picture"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Pro Features"
+   },
+   "pttDesc": {
+      "message": "Hold hotkey to unmute"
+   },
+   "pttLabel": {
+      "message": "Push to Talk"
+   },
+   "pttUpgrade": {
+      "message": "Upgrade to Pro to set your own key binding"
+   },
+   "quickEmojiDesc": {
+      "message": "Adds quick emoji shortcuts to the chat window"
+   },
+   "quickEmojiLabel": {
+      "message": "Quick Emoji Reactions"
+   },
+   "quickLeaveDesc": {
+      "message": "Use hotkey to leave a call"
+   },
+   "quickLeaveLabel": {
+      "message": "Quick Leave"
+   },
+   "removeAllDesc": {
+      "message": "Remove all participants via the participants menu"
+   },
+   "removeAllLabel": {
+      "message": "Remove All"
+   },
+   "returnHomeDesc": {
+      "message": "Returns to Meet home screen after leaving a Meet"
+   },
+   "returnHomeLabel": {
+      "message": "Return to home screen on hangup"
+   },
+   "seeFeatures": {
+      "message": "to see all the features we have planned"
+   },
+   "sortParticipantsDesc": {
+      "message": "Adds toggle to the participant list to sort by last name"
+   },
+   "sortParticipantsLabel": {
+      "message": "Sort Participant List"
+   },
+   "speakerBorderDesc": {
+      "message": "Adds a border around speaking participants"
+   },
+   "speakerBorderLabel": {
+      "message": "Speaker Highlight"
+   },
+   "startMeet": {
+      "message": "Start a Meet"
+   },
+   "timerDesc": {
+      "message": "Displays a meeting timer in bottom tab bar"
+   },
+   "timerLabel": {
+      "message": "Meeting Timer"
+   },
+   "title": {
+      "message": "Meet Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "Toggle the bottom control bar to appear"
+   },
+   "toggleBarLabel": {
+      "message": "Toggle Bottom Bar"
+   },
+   "transBarDesc": {
+      "message": "Make the bottom bar transparent"
+   },
+   "transBarLabel": {
+      "message": "Transparent Bar"
+   },
+   "viewRoadmap": {
+      "message": "View our roadmap"
+   }
+}

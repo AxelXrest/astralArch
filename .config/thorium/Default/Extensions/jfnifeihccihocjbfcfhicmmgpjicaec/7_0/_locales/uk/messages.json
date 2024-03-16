@@ -1,0 +1,44 @@
+{
+   "contextMenuMultipleDevices": {
+      "description": "Top-level Context Menu label when multiple devices are available",
+      "message": "Відправити до мобільного пристрою"
+   },
+   "contextMenuSinglePlugin": {
+      "description": "Context Menu label for devices that only support a single plugin",
+      "message": "$NAME$ ($PLUGIN$)",
+      "placeholders": {
+         "name": {
+            "content": "$1",
+            "example": "Nexus 4"
+         },
+         "plugin": {
+            "content": "$2",
+            "example": "Open in Browser"
+         }
+      }
+   },
+   "extensionDescription": {
+      "description": "The extension description",
+      "message": "Поширюйте посилання за допомогою GSConnect, напряму до браузера або через SMS."
+   },
+   "extensionName": {
+      "description": "The extension name",
+      "message": "GSConnect"
+   },
+   "popupMenuDisconnected": {
+      "description": "Popup Menu label when disconnected from the GNOME Shell extension",
+      "message": "Сервіс недоступний"
+   },
+   "popupMenuNoDevices": {
+      "description": "Popup Menu label when no devices are connected or have supported plugins enabled",
+      "message": "Пристроїв не знайдено"
+   },
+   "shareMessage": {
+      "description": "Context Menu label for opening a link in the device's web browser",
+      "message": "Відкрити у браузері"
+   },
+   "smsMessage": {
+      "description": "Context Menu label for sharing a link in an SMS message",
+      "message": "Відправити SMS"
+   }
+}

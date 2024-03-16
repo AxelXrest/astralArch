@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Activar"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "o Activar la llicència"
+   },
+   "activeTabDesc": {
+      "message": "Feu clic a la icona de l&#39;extensió per trobar la pestanya de Meet activa"
+   },
+   "activeTabLabel": {
+      "message": "Trobeu la pestanya Active Meet"
+   },
+   "alwaysShowLabel": {
+      "message": "Mostra sempre els noms dels participants"
+   },
+   "attendanceDesc": {
+      "message": "Captura l&#39;assistència a la reunió i exporta a un CSV"
+   },
+   "attendanceLabel": {
+      "message": "Pren Assistència"
+   },
+   "autoAdmitDesc": {
+      "message": "Admet automàticament nous participants al Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Admissió automàtica de nous participants"
+   },
+   "autoFullScreenDesc": {
+      "message": "Passa automàticament a pantalla completa quan algú es presenta"
+   },
+   "autoFullScreenLabel": {
+      "message": "Pantalla completa automàtica"
+   },
+   "autoJoinDesc": {
+      "message": "Uneix-te a la reunió automàticament"
+   },
+   "autoJoinDescOption": {
+      "message": "Uniu-vos a la reunió només quan hi hagi participants presents"
+   },
+   "autoJoinLabel": {
+      "message": "Unió automàtica"
+   },
+   "autoMinimizeDesc": {
+      "message": "Minimitzeu automàticament el vostre vídeo quan us uniu a una reunió"
+   },
+   "autoMinimizeLabel": {
+      "message": "Minimitza automàticament el vídeo"
+   },
+   "autoMuteDesc": {
+      "message": "Silencia automàticament el micròfon en unir-se"
+   },
+   "autoMuteLabel": {
+      "message": "Silència automàtica"
+   },
+   "autoRecordDesc": {
+      "message": "Comença automàticament a gravar el Meet (cal Google Workspace)"
+   },
+   "autoRecordDescOne": {
+      "message": "Inicia la gravació automàticament"
+   },
+   "autoRecordDescThree": {
+      "message": "Inicia la transcripció automàticament"
+   },
+   "autoRecordDescTwo": {
+      "message": "Inicia la gravació manualment"
+   },
+   "autoRecordLabel": {
+      "message": "Enregistrament automàtic"
+   },
+   "autoRejectDesc": {
+      "message": "Denega automàticament nous participants al Meet"
+   },
+   "autoRejectLabel": {
+      "message": "Denegació automàtica de nous participants"
+   },
+   "autoUnmuteDesc": {
+      "message": "Eviteu que altres persones silenciin el vostre micròfon"
+   },
+   "autoUnmuteLabel": {
+      "message": "Activació automàtica del so"
+   },
+   "autoVideoDesc": {
+      "message": "Estableix el vídeo per desactivar-se en unir-se"
+   },
+   "autoVideoLabel": {
+      "message": "Vídeo apagat automàticament"
+   },
+   "basicFeatures": {
+      "message": "Característiques bàsiques"
+   },
+   "bgColorDesc": {
+      "message": "Estableix el color de fons personalitzat al Meet"
+   },
+   "bgColorLabel": {
+      "message": "Estableix el color de fons"
+   },
+   "captionsDesc": {
+      "message": "Activació automàtica dels subtítols"
+   },
+   "captionsLabel": {
+      "message": "Subtítols automàtics"
+   },
+   "chimesDesc": {
+      "message": "Escolteu sempre els sons de campana quan els participants s&#39;uneixen i surten, o quan es rep un missatge de xat nou"
+   },
+   "chimesLabel": {
+      "message": "Toca sempre Chimes"
+   },
+   "copyUrlDesc": {
+      "message": "Copia automàticament l&#39;URL de Meet al porta-retalls"
+   },
+   "copyUrlLabel": {
+      "message": "Copia automàticament l&#39;URL de Meet"
+   },
+   "darkModeDesc": {
+      "message": "Fa Google Meet en mode fosc"
+   },
+   "darkModeLabel": {
+      "message": "Mode fosc"
+   },
+   "desktopApp": {
+      "message": "aplicació d&#39;escriptori"
+   },
+   "desktopDesc": {
+      "message": "Feu que tots els enllaços de Google Cal s&#39;obrin al"
+   },
+   "desktopLabel": {
+      "message": "Obriu els enllaços de Meet a l&#39;aplicació d&#39;escriptori"
+   },
+   "displayClockDesc": {
+      "message": "Mostra el rellotge encara que no estigui a pantalla completa"
+   },
+   "displayClockLabel": {
+      "message": "Mostra el rellotge"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Amaga la bombolla de notificació de comentaris"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Amaga els comentaris i les finestres emergents d&#39;unió dels usuaris"
+   },
+   "doNotDisturbDesc": {
+      "message": "Amaga el comentari nou"
+   },
+   "doNotDisturbLabel": {
+      "message": "No molestar"
+   },
+   "emojiToolTipDesc": {
+      "message": "Aquesta funció està activada de manera predeterminada i hi podeu accedir des de la finestra de xat de Google Meet"
+   },
+   "extDesc": {
+      "message": "40 funcions noves per a Google Meet, com ara silenciar-ho tot, eliminar-ho tot, admetre automàticament, emojis, vídeos mirall, color de fons i pressionar per parlar!"
+   },
+   "extName": {
+      "message": "Suite de millora de Google Meet"
+   },
+   "generalToolTipDesc": {
+      "message": "Aquesta funció està activada de manera predeterminada i hi podeu accedir des del menú de participants de Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "Amaga la finestra emergent &quot;Afegeix altres&quot; quan us uniu a una reunió"
+   },
+   "hideAddOthersLabel": {
+      "message": "Amaga la finestra emergent &quot;Afegeix altres&quot;."
+   },
+   "hidePartNames": {
+      "message": "Amaga els noms dels participants"
+   },
+   "hideSpeakingIcons": {
+      "message": "Amaga les icones de parlant dels participants"
+   },
+   "hideTopBarDesc": {
+      "message": "Amaga la barra superior quan desaparegui la barra inferior"
+   },
+   "hideTopBarLabel": {
+      "message": "Oculta automàticament la barra superior"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Amaga automàticament l&#39;alerta &quot;mirall infinit&quot; quan es presenta"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Ignora automàticament la superposició de presentació"
+   },
+   "leaveConfirmDesc": {
+      "message": "Demaneu confirmació quan sortiu d&#39;una reunió"
+   },
+   "leaveConfirmLabel": {
+      "message": "Deixa la confirmació"
+   },
+   "meetProButtonLabel": {
+      "message": "Inicieu la prova gratuïta de 7 dies"
+   },
+   "meetProSectionDesc": {
+      "message": "Si actualitzeu a Meet Pro, teniu accés a més de 25 funcions noves que porten Google Meet al següent nivell."
+   },
+   "meetProSectionLabel": {
+      "message": "Aconsegueix Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Ajusteu el nivell de volum del Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "Ajusta el volum de Meet"
+   },
+   "mirrorVideosDesc": {
+      "message": "Reflecteix tots els vídeos del Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "Vídeos miralls"
+   },
+   "muchMore": {
+      "message": "Molt més per venir!"
+   },
+   "muteAllDesc": {
+      "message": "Silencia tots els participants mitjançant el menú de participants"
+   },
+   "muteAllLabel": {
+      "message": "Silencia tot"
+   },
+   "mutePopupDesc": {
+      "message": "Amaga &#39;Estàs parlant?&#39; emergent quan està silenciat"
+   },
+   "mutePopupLabel": {
+      "message": "Amaga la finestra emergent Mute"
+   },
+   "partVidStyleLabel": {
+      "message": "Estil de vídeo del participant"
+   },
+   "pinBarDesc": {
+      "message": "Fixa la barra de control a la part inferior de la pantalla"
+   },
+   "pinBarLabel": {
+      "message": "Pin Barra inferior"
+   },
+   "pinChatDesc": {
+      "message": "Fixa automàticament la vista de xat quan us uniu a Meet"
+   },
+   "pinChatLabel": {
+      "message": "Fixa automàticament el xat"
+   },
+   "pipDesc": {
+      "message": "Veure un vídeo dels participants en imatge en imatge"
+   },
+   "pipLabel": {
+      "message": "Imatge en imatge"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Característiques Pro"
+   },
+   "pttDesc": {
+      "message": "Mantén premuda la tecla d&#39;accés ràpid per activar el so"
+   },
+   "pttLabel": {
+      "message": "Premeu per parlar"
+   },
+   "pttUpgrade": {
+      "message": "Actualitza a Pro per configurar la teva pròpia vinculació de claus"
+   },
+   "quickEmojiDesc": {
+      "message": "Afegeix dreceres ràpides d&#39;emojis a la finestra de xat"
+   },
+   "quickEmojiLabel": {
+      "message": "Reaccions ràpides amb emoji"
+   },
+   "quickLeaveDesc": {
+      "message": "Utilitzeu la tecla d&#39;accés ràpid per deixar una trucada"
+   },
+   "quickLeaveLabel": {
+      "message": "Excedència ràpida"
+   },
+   "removeAllDesc": {
+      "message": "Elimina tots els participants mitjançant el menú de participants"
+   },
+   "removeAllLabel": {
+      "message": "Esborra-ho tot"
+   },
+   "returnHomeDesc": {
+      "message": "Torna a la pantalla d&#39;inici de Meet després de sortir d&#39;un Meet"
+   },
+   "returnHomeLabel": {
+      "message": "Torna a la pantalla d&#39;inici en penjar"
+   },
+   "seeFeatures": {
+      "message": "per veure totes les funcions que tenim previstes"
+   },
+   "sortParticipantsDesc": {
+      "message": "Afegeix un commutador a la llista de participants per ordenar-los per cognom"
+   },
+   "sortParticipantsLabel": {
+      "message": "Ordena la llista de participants"
+   },
+   "speakerBorderDesc": {
+      "message": "Afegeix una vora al voltant dels participants que parlen"
+   },
+   "speakerBorderLabel": {
+      "message": "Destacat de l&#39;altaveu"
+   },
+   "startMeet": {
+      "message": "Comença una trobada"
+   },
+   "timerDesc": {
+      "message": "Mostra un temporitzador de reunió a la barra de pestanyes inferior"
+   },
+   "timerLabel": {
+      "message": "Temporitzador de reunions"
+   },
+   "title": {
+      "message": "Coneix Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "Commuta la barra de control inferior perquè aparegui"
+   },
+   "toggleBarLabel": {
+      "message": "Alterna la barra inferior"
+   },
+   "transBarDesc": {
+      "message": "Feu que la barra inferior sigui transparent"
+   },
+   "transBarLabel": {
+      "message": "Barra transparent"
+   },
+   "viewRoadmap": {
+      "message": "Consulta el nostre full de ruta"
+   }
+}

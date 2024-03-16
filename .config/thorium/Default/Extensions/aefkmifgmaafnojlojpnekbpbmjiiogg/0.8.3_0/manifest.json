@@ -1,0 +1,51 @@
+{
+   "action": {
+      "default_popup": "/data/popup/index.html"
+   },
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "commands": {
+      "_execute_action": {
+      },
+      "allow-last-request": {
+         "description": "__MSG_context_item2__"
+      },
+      "background-last-request": {
+         "description": "__MSG_context_item4__"
+      },
+      "deny-last-request": {
+         "description": "__MSG_context_item3__"
+      },
+      "redirect-last-request": {
+         "description": "__MSG_context_item5__"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_app_description__",
+   "homepage_url": "https://webextension.org/listing/popup-blocker.html",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "/data/icons/128.png",
+      "16": "/data/icons/16.png",
+      "256": "/data/icons/256.png",
+      "32": "/data/icons/32.png",
+      "48": "/data/icons/48.png",
+      "512": "/data/icons/512.png",
+      "64": "/data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt7OX0w0jsA3Xg89mPyZeyfZqztiJfFzQ2ZDNY1gBW20sF04dcSv01PG857MelSuQrOs9QAhgaMoqh+ZAyLsVoeLqktsdl6nG/3CJp+RdFlvANv4iCnEqX4FIidfxeK4rV+5rglR7nL5VtALRSe5Vlky9ssZytgTy6PHrklyBKv1BfSZkqdlY0VMgVHfur/j/5qK9u0IDO0hSoPucXLzVpW/N5B7RCj7hBB4U3aems9HqD9z3a6VHEihHe/bK9t/aIiDaPv1jtbFSxUOHC936VMyVOreWgtGdE+Bt7WnkhYkPQMYMxq8gsHENnP2nQJCucZTZT/IrZYtbcuhRkkU+GwIDAQAB",
+   "manifest_version": 3,
+   "name": "Popup Blocker (strict)",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "/data/options/index.html"
+   },
+   "permissions": [ "storage", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.8.3",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "/data/ui/index.html" ]
+   } ]
+}

@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Активирати"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "или Активирајте лиценцу"
+   },
+   "activeTabDesc": {
+      "message": "Кликните на икону проширења да бисте пронашли активну картицу Меет"
+   },
+   "activeTabLabel": {
+      "message": "Пронађите картицу Ацтиве Меет"
+   },
+   "alwaysShowLabel": {
+      "message": "Увек прикажите имена учесника"
+   },
+   "attendanceDesc": {
+      "message": "Снимите присуство састанка и извезите у ЦСВ"
+   },
+   "attendanceLabel": {
+      "message": "Таке Аттенданце"
+   },
+   "autoAdmitDesc": {
+      "message": "Аутоматски прима нове учеснике на Меет"
+   },
+   "autoAdmitLabel": {
+      "message": "Аутоматски пријем нових учесника"
+   },
+   "autoFullScreenDesc": {
+      "message": "Аутоматски пређите преко целог екрана када неко презентује"
+   },
+   "autoFullScreenLabel": {
+      "message": "Ауто преко целог екрана"
+   },
+   "autoJoinDesc": {
+      "message": "Аутоматски се придружите састанку"
+   },
+   "autoJoinDescOption": {
+      "message": "Придружите се састанку само када су присутни учесници"
+   },
+   "autoJoinLabel": {
+      "message": "Ауто Јоин"
+   },
+   "autoMinimizeDesc": {
+      "message": "Аутоматски минимизирајте видео када се придружите састанку"
+   },
+   "autoMinimizeLabel": {
+      "message": "Аутоматско минимизирање видеа"
+   },
+   "autoMuteDesc": {
+      "message": "Аутоматско искључивање микрофона при придруживању"
+   },
+   "autoMuteLabel": {
+      "message": "Ауто Муте"
+   },
+   "autoRecordDesc": {
+      "message": "Аутоматски почни да снимаш Меет (потребан је Гоогле Воркспаце)"
+   },
+   "autoRecordDescOne": {
+      "message": "Аутоматски започните снимање"
+   },
+   "autoRecordDescThree": {
+      "message": "Аутоматски започните транскрипцију"
+   },
+   "autoRecordDescTwo": {
+      "message": "Ручно започните снимање"
+   },
+   "autoRecordLabel": {
+      "message": "Ауто Рецорд"
+   },
+   "autoRejectDesc": {
+      "message": "Аутоматски одбија нове учеснике на Меет-у"
+   },
+   "autoRejectLabel": {
+      "message": "Аутоматски забрани нове учеснике"
+   },
+   "autoUnmuteDesc": {
+      "message": "Спречите друге да утишају ваш микрофон"
+   },
+   "autoUnmuteLabel": {
+      "message": "Ауто Унмуте"
+   },
+   "autoVideoDesc": {
+      "message": "Подесите видео да искључите при придруживању"
+   },
+   "autoVideoLabel": {
+      "message": "Ауто Видео Офф"
+   },
+   "basicFeatures": {
+      "message": "Основне карактеристике"
+   },
+   "bgColorDesc": {
+      "message": "Подесите прилагођену боју позадине у Меет-у"
+   },
+   "bgColorLabel": {
+      "message": "Подесите боју позадине"
+   },
+   "captionsDesc": {
+      "message": "Аутоматско укључивање титлова"
+   },
+   "captionsLabel": {
+      "message": "Аутоматски титлови"
+   },
+   "chimesDesc": {
+      "message": "Увек чујете звук звона када се учесници придруже и оду, или а када се прими нова порука за ћаскање"
+   },
+   "chimesLabel": {
+      "message": "Увек свирај звона"
+   },
+   "copyUrlDesc": {
+      "message": "Аутоматски копирајте Меет УРЛ у међумеморију"
+   },
+   "copyUrlLabel": {
+      "message": "Ауто Цопи Меет УРЛ"
+   },
+   "darkModeDesc": {
+      "message": "Прави тамни режим Гоогле Меет-а"
+   },
+   "darkModeLabel": {
+      "message": "Дарк Моде"
+   },
+   "desktopApp": {
+      "message": "десктоп апликација"
+   },
+   "desktopDesc": {
+      "message": "Отварање свих линкова за Гоогле Цал у"
+   },
+   "desktopLabel": {
+      "message": "Отворите Меет везе у апликацији за рачунар"
+   },
+   "displayClockDesc": {
+      "message": "Прикажите сат чак и када није на целом екрану"
+   },
+   "displayClockLabel": {
+      "message": "Дисплаи Цлоцк"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Сакриј облачић са обавештењима о коментарима"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Сакриј коментаре и искачуће прозоре за придруживање корисника"
+   },
+   "doNotDisturbDesc": {
+      "message": "Сакриј нови коментар"
+   },
+   "doNotDisturbLabel": {
+      "message": "Не узнемиравају"
+   },
+   "emojiToolTipDesc": {
+      "message": "Ова функција је подразумевано укључена и можете јој приступити из прозора за ћаскање у Гоогле Меет-у"
+   },
+   "extDesc": {
+      "message": "40 нових функција за Гоогле Меет, попут искључивања звука свих, уклањања свих, аутоматског признања, емоџија, огледа видео снимака, боје позадине и воки за разговор!"
+   },
+   "extName": {
+      "message": "Гоогле Меет Енханцемент Суите"
+   },
+   "generalToolTipDesc": {
+      "message": "Ова функција је подразумевано укључена и можете јој приступити из менија учесника у Гоогле Меет-у"
+   },
+   "hideAddOthersDesc": {
+      "message": "Сакрива искачући прозор „Додај друге“ када се придружите Меет-у"
+   },
+   "hideAddOthersLabel": {
+      "message": "Сакриј искачући прозор „Додај друге“."
+   },
+   "hidePartNames": {
+      "message": "Сакриј имена учесника"
+   },
+   "hideSpeakingIcons": {
+      "message": "Сакриј иконе говора учесника"
+   },
+   "hideTopBarDesc": {
+      "message": "Сакријте горњу траку када доња трака нестане"
+   },
+   "hideTopBarLabel": {
+      "message": "Ауто Сакриј горњу траку"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Аутоматски сакријте упозорење „бесконачно огледало“ приликом представљања"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Аутоматско игнорисање преклапања презентације"
+   },
+   "leaveConfirmDesc": {
+      "message": "Затражите потврду када напустите састанак"
+   },
+   "leaveConfirmLabel": {
+      "message": "Оставите потврду"
+   },
+   "meetProButtonLabel": {
+      "message": "Започните 7-дневну бесплатну пробну верзију"
+   },
+   "meetProSectionDesc": {
+      "message": "Надоградњом на Меет Про добијате приступ преко 25 нових функција које подижу Гоогле Меет на виши ниво."
+   },
+   "meetProSectionLabel": {
+      "message": "Набавите Меет Про"
+   },
+   "meetVolumeDesc": {
+      "message": "Подесите ниво јачине звука Меет-а"
+   },
+   "meetVolumeLabel": {
+      "message": "Подесите јачину звука у Меет-у"
+   },
+   "mirrorVideosDesc": {
+      "message": "Пресликава све видео снимке у Меет-у"
+   },
+   "mirrorVideosLabel": {
+      "message": "Миррор Видеос"
+   },
+   "muchMore": {
+      "message": "Још много тога долази!"
+   },
+   "muteAllDesc": {
+      "message": "Искључите звук свих учесника преко менија учесника"
+   },
+   "muteAllLabel": {
+      "message": "Искључи све"
+   },
+   "mutePopupDesc": {
+      "message": "Сакрива &#39;Да ли говорите?&#39; искачући прозор када је искључен звук"
+   },
+   "mutePopupLabel": {
+      "message": "Сакриј искачући прозор за искључивање звука"
+   },
+   "partVidStyleLabel": {
+      "message": "Видео стил учесника"
+   },
+   "pinBarDesc": {
+      "message": "Закачи контролну траку на дно екрана"
+   },
+   "pinBarLabel": {
+      "message": "Пин Боттом Бар"
+   },
+   "pinChatDesc": {
+      "message": "Аутоматски качи приказ ћаскања када се придружите Меет-у"
+   },
+   "pinChatLabel": {
+      "message": "Ауто-пин Цхат"
+   },
+   "pipDesc": {
+      "message": "Погледајте видео учесника у слици у слици"
+   },
+   "pipLabel": {
+      "message": "Слика у слици"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Про Феатурес"
+   },
+   "pttDesc": {
+      "message": "Држите интервентни тастер да укључите звук"
+   },
+   "pttLabel": {
+      "message": "Воки-токи"
+   },
+   "pttUpgrade": {
+      "message": "Надоградите на Про да бисте поставили сопствено повезивање кључа"
+   },
+   "quickEmojiDesc": {
+      "message": "Додаје брзе пречице за емоџије у прозор за ћаскање"
+   },
+   "quickEmojiLabel": {
+      "message": "Брзе емоџи реакције"
+   },
+   "quickLeaveDesc": {
+      "message": "Користите интервентни тастер да напустите позив"
+   },
+   "quickLeaveLabel": {
+      "message": "Куицк Леаве"
+   },
+   "removeAllDesc": {
+      "message": "Уклоните све учеснике преко менија учесника"
+   },
+   "removeAllLabel": {
+      "message": "Уклони све"
+   },
+   "returnHomeDesc": {
+      "message": "Враћа се на почетни екран Меета након што напустите Меет"
+   },
+   "returnHomeLabel": {
+      "message": "Вратите се на почетни екран када прекинете везу"
+   },
+   "seeFeatures": {
+      "message": "да видите све функције које смо планирали"
+   },
+   "sortParticipantsDesc": {
+      "message": "Додаје прекидач на листу учесника за сортирање по презимену"
+   },
+   "sortParticipantsLabel": {
+      "message": "Сортирај листу учесника"
+   },
+   "speakerBorderDesc": {
+      "message": "Додаје ивицу око учесника који говоре"
+   },
+   "speakerBorderLabel": {
+      "message": "Спеакер Хигхлигхт"
+   },
+   "startMeet": {
+      "message": "Започните Меет"
+   },
+   "timerDesc": {
+      "message": "Приказује тајмер састанка на доњој траци картица"
+   },
+   "timerLabel": {
+      "message": "Меетинг Тимер"
+   },
+   "title": {
+      "message": "Упознајте Енханцемент Суите"
+   },
+   "toggleBarDesc": {
+      "message": "Укључите доњу контролну траку да се појави"
+   },
+   "toggleBarLabel": {
+      "message": "Укључите доњу траку"
+   },
+   "transBarDesc": {
+      "message": "Учините доњу траку провидном"
+   },
+   "transBarLabel": {
+      "message": "Транспарент Бар"
+   },
+   "viewRoadmap": {
+      "message": "Погледајте нашу мапу пута"
+   }
+}

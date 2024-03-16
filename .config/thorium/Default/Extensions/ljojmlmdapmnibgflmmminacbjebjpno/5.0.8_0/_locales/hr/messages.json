@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Aktivirati"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "ili Aktiviraj licencu"
+   },
+   "activeTabDesc": {
+      "message": "Kliknite ikonu proširenja da biste pronašli aktivnu karticu Meet"
+   },
+   "activeTabLabel": {
+      "message": "Pronađite karticu Active Meet"
+   },
+   "alwaysShowLabel": {
+      "message": "Uvijek prikaži imena sudionika"
+   },
+   "attendanceDesc": {
+      "message": "Zabilježite nazočnost sastanka i izvezite ga u CSV"
+   },
+   "attendanceLabel": {
+      "message": "Uzmi Attendance"
+   },
+   "autoAdmitDesc": {
+      "message": "Automatski prima nove sudionike u Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Automatski primaj nove sudionike"
+   },
+   "autoFullScreenDesc": {
+      "message": "Automatski ide preko cijelog zaslona kada netko predstavlja"
+   },
+   "autoFullScreenLabel": {
+      "message": "Automatski cijeli zaslon"
+   },
+   "autoJoinDesc": {
+      "message": "Automatski se pridružite sastanku"
+   },
+   "autoJoinDescOption": {
+      "message": "Pridružite se sastanku samo ako su sudionici prisutni"
+   },
+   "autoJoinLabel": {
+      "message": "Automatsko pridruživanje"
+   },
+   "autoMinimizeDesc": {
+      "message": "Automatski minimizirajte svoj video kada se pridružite sastanku"
+   },
+   "autoMinimizeLabel": {
+      "message": "Automatsko minimiziranje videa"
+   },
+   "autoMuteDesc": {
+      "message": "Automatsko isključivanje mikrofona pri pridruživanju"
+   },
+   "autoMuteLabel": {
+      "message": "Automatsko isključivanje zvuka"
+   },
+   "autoRecordDesc": {
+      "message": "Automatski počnite snimati Meet (potreban je Google Workspace)"
+   },
+   "autoRecordDescOne": {
+      "message": "Automatski počnite snimati"
+   },
+   "autoRecordDescThree": {
+      "message": "Automatski pokreni transkripciju"
+   },
+   "autoRecordDescTwo": {
+      "message": "Ručno započnite snimanje"
+   },
+   "autoRecordLabel": {
+      "message": "Automatsko snimanje"
+   },
+   "autoRejectDesc": {
+      "message": "Automatski odbija nove sudionike u Meetu"
+   },
+   "autoRejectLabel": {
+      "message": "Automatsko odbijanje novih sudionika"
+   },
+   "autoUnmuteDesc": {
+      "message": "Spriječite druge da utišaju vaš mikrofon"
+   },
+   "autoUnmuteLabel": {
+      "message": "Automatsko uključivanje zvuka"
+   },
+   "autoVideoDesc": {
+      "message": "Postavite video da se isključi prilikom pridruživanja"
+   },
+   "autoVideoLabel": {
+      "message": "Automatski isključen video"
+   },
+   "basicFeatures": {
+      "message": "Osnovne značajke"
+   },
+   "bgColorDesc": {
+      "message": "Postavite prilagođenu boju pozadine u Meetu"
+   },
+   "bgColorLabel": {
+      "message": "Postavite boju pozadine"
+   },
+   "captionsDesc": {
+      "message": "Automatski uključi titlove"
+   },
+   "captionsLabel": {
+      "message": "Automatski titlovi"
+   },
+   "chimesDesc": {
+      "message": "Uvijek čuj zvukove zvona kada se sudionici pridruže i odu, ili kada se primi nova poruka chata"
+   },
+   "chimesLabel": {
+      "message": "Uvijek puštaj zvona"
+   },
+   "copyUrlDesc": {
+      "message": "Automatski kopirajte Meet URL u međuspremnik"
+   },
+   "copyUrlLabel": {
+      "message": "Automatski kopiraj Meet URL"
+   },
+   "darkModeDesc": {
+      "message": "Omogućuje tamni način rada Google Meeta"
+   },
+   "darkModeLabel": {
+      "message": "Tamni način rada"
+   },
+   "desktopApp": {
+      "message": "desktop aplikacija"
+   },
+   "desktopDesc": {
+      "message": "Neka se sve Google Cal veze otvore u"
+   },
+   "desktopLabel": {
+      "message": "Otvorite veze Meeta u aplikaciji za stolna računala"
+   },
+   "displayClockDesc": {
+      "message": "Prikaži sat čak i kada nije na cijelom zaslonu"
+   },
+   "displayClockLabel": {
+      "message": "Prikaz sata"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Sakrij oblačić obavijesti o komentarima"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Sakrij komentare i skočne prozore za pridruživanje korisnika"
+   },
+   "doNotDisturbDesc": {
+      "message": "Sakrij novi komentar"
+   },
+   "doNotDisturbLabel": {
+      "message": "Ne smetaj"
+   },
+   "emojiToolTipDesc": {
+      "message": "Ova je značajka uključena prema zadanim postavkama i možete joj pristupiti iz prozora za chat u Google Meetu"
+   },
+   "extDesc": {
+      "message": "40 novih značajki za Google Meet kao što su isključivanje zvuka svih, uklanjanje svih, automatsko prihvaćanje, emojiji, zrcalni videozapisi, boja pozadine i Pritisni za razgovor!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "Ova je značajka uključena prema zadanim postavkama i možete joj pristupiti iz izbornika sudionika u Google Meetu"
+   },
+   "hideAddOthersDesc": {
+      "message": "Skriva skočni prozor &quot;Dodaj druge&quot; prilikom pridruživanja Meetu"
+   },
+   "hideAddOthersLabel": {
+      "message": "Sakrij skočni prozor &quot;Dodaj druge&quot;."
+   },
+   "hidePartNames": {
+      "message": "Sakrij imena sudionika"
+   },
+   "hideSpeakingIcons": {
+      "message": "Sakrij ikone sudionika koji govore"
+   },
+   "hideTopBarDesc": {
+      "message": "Sakrij gornju traku kada nestane donja traka"
+   },
+   "hideTopBarLabel": {
+      "message": "Automatsko skrivanje gornje trake"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Automatsko skrivanje upozorenja `beskonačnog zrcala&#39; tijekom predstavljanja"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Preklapanje prezentacije automatskog zanemarivanja"
+   },
+   "leaveConfirmDesc": {
+      "message": "Zatražite potvrdu kada napustite sastanak"
+   },
+   "leaveConfirmLabel": {
+      "message": "Ostavite potvrdu"
+   },
+   "meetProButtonLabel": {
+      "message": "Započnite 7-dnevno besplatno probno razdoblje"
+   },
+   "meetProSectionDesc": {
+      "message": "Nadogradnjom na Meet Pro dobivate pristup do više od 25 novih značajki koje podižu Google Meet na višu razinu."
+   },
+   "meetProSectionLabel": {
+      "message": "Nabavite Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Podesite razinu glasnoće Meeta"
+   },
+   "meetVolumeLabel": {
+      "message": "Podesite glasnoću Meeta"
+   },
+   "mirrorVideosDesc": {
+      "message": "Zrcali sve videozapise u Meetu"
+   },
+   "mirrorVideosLabel": {
+      "message": "Zrcalni videozapisi"
+   },
+   "muchMore": {
+      "message": "Još mnogo toga dolazi!"
+   },
+   "muteAllDesc": {
+      "message": "Isključite zvuk svih sudionika putem izbornika sudionika"
+   },
+   "muteAllLabel": {
+      "message": "Isključi sve"
+   },
+   "mutePopupDesc": {
+      "message": "Skriva &#39;Govoriš li?&#39; skočni prozor kada je isključen zvuk"
+   },
+   "mutePopupLabel": {
+      "message": "Sakrij skočni prozor za isključivanje zvuka"
+   },
+   "partVidStyleLabel": {
+      "message": "Video stil sudionika"
+   },
+   "pinBarDesc": {
+      "message": "Prikvači kontrolnu traku na dno zaslona"
+   },
+   "pinBarLabel": {
+      "message": "Prikvači donju traku"
+   },
+   "pinChatDesc": {
+      "message": "Automatski prikvači prikaz chata prilikom pridruživanja Meetu"
+   },
+   "pinChatLabel": {
+      "message": "Automatski prikvači chat"
+   },
+   "pipDesc": {
+      "message": "Pogledajte video sudionika u slici u slici"
+   },
+   "pipLabel": {
+      "message": "Slika u slici"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Pro značajke"
+   },
+   "pttDesc": {
+      "message": "Držite prečac za uključivanje zvuka"
+   },
+   "pttLabel": {
+      "message": "Pritisni za govor"
+   },
+   "pttUpgrade": {
+      "message": "Nadogradite na Pro da postavite vlastito vezanje tipki"
+   },
+   "quickEmojiDesc": {
+      "message": "Dodaje brze prečace za emoji u prozor za chat"
+   },
+   "quickEmojiLabel": {
+      "message": "Brze emoji reakcije"
+   },
+   "quickLeaveDesc": {
+      "message": "Koristite prečac za napuštanje poziva"
+   },
+   "quickLeaveLabel": {
+      "message": "Brzi odlazak"
+   },
+   "removeAllDesc": {
+      "message": "Uklonite sve sudionike putem izbornika sudionika"
+   },
+   "removeAllLabel": {
+      "message": "Ukloniti sve"
+   },
+   "returnHomeDesc": {
+      "message": "Vraća se na početni zaslon Meeta nakon napuštanja Meeta"
+   },
+   "returnHomeLabel": {
+      "message": "Povratak na početni zaslon nakon prekida veze"
+   },
+   "seeFeatures": {
+      "message": "da biste vidjeli sve značajke koje smo planirali"
+   },
+   "sortParticipantsDesc": {
+      "message": "Dodaje prekidač na popis sudionika za sortiranje po prezimenu"
+   },
+   "sortParticipantsLabel": {
+      "message": "Poredaj popis sudionika"
+   },
+   "speakerBorderDesc": {
+      "message": "Dodaje obrub oko sudionika koji govore"
+   },
+   "speakerBorderLabel": {
+      "message": "Istaknuti govornik"
+   },
+   "startMeet": {
+      "message": "Započnite sastanak"
+   },
+   "timerDesc": {
+      "message": "Prikazuje mjerač vremena sastanka na donjoj traci kartica"
+   },
+   "timerLabel": {
+      "message": "Mjerač vremena za sastanke"
+   },
+   "title": {
+      "message": "Meet Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "Pomaknite donju kontrolnu traku da se pojavi"
+   },
+   "toggleBarLabel": {
+      "message": "Uključi/isključi donju traku"
+   },
+   "transBarDesc": {
+      "message": "Neka donja traka bude prozirna"
+   },
+   "transBarLabel": {
+      "message": "Prozirna traka"
+   },
+   "viewRoadmap": {
+      "message": "Pogledajte naš plan puta"
+   }
+}

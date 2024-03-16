@@ -1,0 +1,50 @@
+.cheatsheet-bg {
+    @include large-rounding;
+    @include elevation-border;
+    @include elevation2;
+    margin-bottom: 0.1364rem; /* 80% reduction */
+    background-color: $t_background;
+    padding: 0.2728rem; /* 80% reduction */
+}
+
+.cheatsheet-key {
+    @include techfont;
+    min-height: 0.1rem; /* 80% reduction */
+    min-width: 0.1rem; /* 80% reduction */
+    margin: 0.034rem; /* 80% reduction */
+    padding: 0.0272rem 0.041rem; /* 80% reduction */
+    border-radius: 0.0818rem; /* 80% reduction */
+    -gtk-outline-radius: 0.0818rem; /* 80% reduction */
+    color: $primary;
+    border: 0.0136rem solid $primary; /* 80% reduction */
+    box-shadow: 0rem 0.0272rem 0rem $primary; /* 80% reduction */
+    font-weight: 500;
+}
+
+.cheatsheet-key-notkey {
+    min-height: 0.2728rem; /* 80% reduction */
+    padding: 0.0272rem 0.041rem; /* 80% reduction */
+    margin: 0.034rem; /* 80% reduction */
+    color: $onPrimaryContainer;
+}
+
+.cheatsheet-closebtn {
+    @include element_decel;
+    @include full-rounding;
+    min-width: 0.4772rem; /* 80% reduction */
+    min-height: 0.4772rem; /* 80% reduction */
+}
+
+.cheatsheet-closebtn:hover,
+.cheatsheet-closebtn:focus {
+    background-color: $hovercolor;
+}
+
+.cheatsheet-closebtn:active {
+    background-color: $activecolor;
+}
+
+.cheatsheet-category-title {
+    @include titlefont;
+    font-size: 0.1rem; /* 80% reduction */
+}

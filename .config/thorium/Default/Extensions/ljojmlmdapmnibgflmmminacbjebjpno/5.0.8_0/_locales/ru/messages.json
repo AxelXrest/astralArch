@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Активировать"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "или активировать лицензию"
+   },
+   "activeTabDesc": {
+      "message": "Щелкните значок расширения, чтобы найти активную вкладку Meet."
+   },
+   "activeTabLabel": {
+      "message": "Найти активную вкладку Meet"
+   },
+   "alwaysShowLabel": {
+      "message": "Всегда показывать имена участников"
+   },
+   "attendanceDesc": {
+      "message": "Зафиксируйте посещаемость встречи и экспортируйте в CSV"
+   },
+   "attendanceLabel": {
+      "message": "Принять участие"
+   },
+   "autoAdmitDesc": {
+      "message": "Автоматически допускает новых участников к Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Автодопуск новых участников"
+   },
+   "autoFullScreenDesc": {
+      "message": "Автоматический переход в полноэкранный режим, когда кто-то выступает"
+   },
+   "autoFullScreenLabel": {
+      "message": "Автоматический полноэкранный режим"
+   },
+   "autoJoinDesc": {
+      "message": "Присоединяйтесь к встрече автоматически"
+   },
+   "autoJoinDescOption": {
+      "message": "Присоединяйтесь к совещанию только при наличии участников"
+   },
+   "autoJoinLabel": {
+      "message": "Автоматическое присоединение"
+   },
+   "autoMinimizeDesc": {
+      "message": "Автоматическое сворачивание видео при присоединении к встрече"
+   },
+   "autoMinimizeLabel": {
+      "message": "Автоматически сворачивать видео"
+   },
+   "autoMuteDesc": {
+      "message": "Автоматическое отключение микрофона при присоединении"
+   },
+   "autoMuteLabel": {
+      "message": "Автоматическое отключение звука"
+   },
+   "autoRecordDesc": {
+      "message": "Автоматически начать запись Meet (требуется Google Workspace)"
+   },
+   "autoRecordDescOne": {
+      "message": "Автоматически начать запись"
+   },
+   "autoRecordDescThree": {
+      "message": "Автоматически запускать транскрипцию"
+   },
+   "autoRecordDescTwo": {
+      "message": "Начать запись вручную"
+   },
+   "autoRecordLabel": {
+      "message": "Автозапись"
+   },
+   "autoRejectDesc": {
+      "message": "Автоматически отклоняет новых участников на Meet"
+   },
+   "autoRejectLabel": {
+      "message": "Автоматический отказ от новых участников"
+   },
+   "autoUnmuteDesc": {
+      "message": "Не позволяйте другим отключать звук вашего микрофона"
+   },
+   "autoUnmuteLabel": {
+      "message": "Автоматическое включение звука"
+   },
+   "autoVideoDesc": {
+      "message": "Установите видео для отключения при присоединении"
+   },
+   "autoVideoLabel": {
+      "message": "Автоматическое отключение видео"
+   },
+   "basicFeatures": {
+      "message": "Основные характеристики"
+   },
+   "bgColorDesc": {
+      "message": "Установите собственный цвет фона в Meet"
+   },
+   "bgColorLabel": {
+      "message": "Установить цвет фона"
+   },
+   "captionsDesc": {
+      "message": "Автовключение титров"
+   },
+   "captionsLabel": {
+      "message": "Авто подписи"
+   },
+   "chimesDesc": {
+      "message": "Всегда слышать звуковой сигнал, когда участники присоединяются и уходят, или при получении нового сообщения чата."
+   },
+   "chimesLabel": {
+      "message": "Всегда играйте в колокольчики"
+   },
+   "copyUrlDesc": {
+      "message": "Автоматически копировать URL Meet в буфер обмена"
+   },
+   "copyUrlLabel": {
+      "message": "Автоматическое копирование URL-адреса встречи"
+   },
+   "darkModeDesc": {
+      "message": "Делает Google Meet темным режимом"
+   },
+   "darkModeLabel": {
+      "message": "Темный режим"
+   },
+   "desktopApp": {
+      "message": "настольное приложение"
+   },
+   "desktopDesc": {
+      "message": "Сделайте так, чтобы все ссылки Google Cal открывались в"
+   },
+   "desktopLabel": {
+      "message": "Открытие ссылок Meet в настольном приложении"
+   },
+   "displayClockDesc": {
+      "message": "Отображение часов, даже если они не в полноэкранном режиме"
+   },
+   "displayClockLabel": {
+      "message": "Отображение часов"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Скрыть уведомление о комментариях"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Скрыть комментарии и всплывающие окна для присоединения пользователей"
+   },
+   "doNotDisturbDesc": {
+      "message": "Скрыть новый комментарий"
+   },
+   "doNotDisturbLabel": {
+      "message": "Не беспокоить"
+   },
+   "emojiToolTipDesc": {
+      "message": "Эта функция включена по умолчанию, и вы можете получить к ней доступ из окна чата в Google Meet."
+   },
+   "extDesc": {
+      "message": "40 новых функций для Google Meet, таких как отключение звука, удаление всего, автоматическое признание, смайлики, зеркальное отображение видео, цвет фона и функция «Нажми и говори»!"
+   },
+   "extName": {
+      "message": "Набор для улучшения Google Meet"
+   },
+   "generalToolTipDesc": {
+      "message": "Эта функция включена по умолчанию, и вы можете получить к ней доступ из меню участников в Google Meet."
+   },
+   "hideAddOthersDesc": {
+      "message": "Скрывает всплывающее окно «Добавить других» при присоединении к Meet."
+   },
+   "hideAddOthersLabel": {
+      "message": "Скрыть всплывающее окно «Добавить других»"
+   },
+   "hidePartNames": {
+      "message": "Скрыть имена участников"
+   },
+   "hideSpeakingIcons": {
+      "message": "Скрыть значки говорящих участников"
+   },
+   "hideTopBarDesc": {
+      "message": "Скрыть верхнюю панель, когда нижняя панель исчезнет"
+   },
+   "hideTopBarLabel": {
+      "message": "Автоматическое скрытие верхней панели"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Автоматически скрывать оповещение о «бесконечном зеркале» при презентации"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Автоматическое игнорирование оверлея презентации"
+   },
+   "leaveConfirmDesc": {
+      "message": "Попросите подтвердить, когда вы покидаете встречу"
+   },
+   "leaveConfirmLabel": {
+      "message": "Оставить подтверждение"
+   },
+   "meetProButtonLabel": {
+      "message": "Начать 7-дневную бесплатную пробную версию"
+   },
+   "meetProSectionDesc": {
+      "message": "При обновлении до Meet Pro вы получаете доступ к более чем 25 новым функциям, которые выводят Google Meet на новый уровень."
+   },
+   "meetProSectionLabel": {
+      "message": "Получить Знакомство с Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Отрегулируйте уровень громкости Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "Отрегулируйте громкость встречи"
+   },
+   "mirrorVideosDesc": {
+      "message": "Отражает все видео в Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "Зеркальные видео"
+   },
+   "muchMore": {
+      "message": "Многое еще впереди!"
+   },
+   "muteAllDesc": {
+      "message": "Отключить звук всех участников через меню участников"
+   },
+   "muteAllLabel": {
+      "message": "Выключить все"
+   },
+   "mutePopupDesc": {
+      "message": "Скрывает: «Ты говоришь?» всплывающее окно при отключении звука"
+   },
+   "mutePopupLabel": {
+      "message": "Скрыть всплывающее окно отключения звука"
+   },
+   "partVidStyleLabel": {
+      "message": "Стиль видео участника"
+   },
+   "pinBarDesc": {
+      "message": "Прикрепляет панель управления к нижней части экрана"
+   },
+   "pinBarLabel": {
+      "message": "Закрепить нижнюю панель"
+   },
+   "pinChatDesc": {
+      "message": "Автоматически закрепляет вид чата при присоединении к Meet."
+   },
+   "pinChatLabel": {
+      "message": "Автозакрепление чата"
+   },
+   "pipDesc": {
+      "message": "Просмотр видео участников в режиме «картинка в картинке»"
+   },
+   "pipLabel": {
+      "message": "Картинка в картинке"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Профессии"
+   },
+   "pttDesc": {
+      "message": "Удерживайте горячую клавишу, чтобы включить звук"
+   },
+   "pttLabel": {
+      "message": "Нажми чтобы говорить"
+   },
+   "pttUpgrade": {
+      "message": "Обновите до Pro, чтобы установить собственную привязку клавиш"
+   },
+   "quickEmojiDesc": {
+      "message": "Добавляет быстрые ярлыки смайликов в окно чата"
+   },
+   "quickEmojiLabel": {
+      "message": "Быстрые реакции эмодзи"
+   },
+   "quickLeaveDesc": {
+      "message": "Используйте горячую клавишу, чтобы оставить вызов"
+   },
+   "quickLeaveLabel": {
+      "message": "Быстрый выход"
+   },
+   "removeAllDesc": {
+      "message": "Удалить всех участников через меню участников"
+   },
+   "removeAllLabel": {
+      "message": "Убрать все"
+   },
+   "returnHomeDesc": {
+      "message": "Возврат на главный экран Meet после выхода из Meet"
+   },
+   "returnHomeLabel": {
+      "message": "Возврат на главный экран при зависании"
+   },
+   "seeFeatures": {
+      "message": "чтобы увидеть все функции, которые мы запланировали"
+   },
+   "sortParticipantsDesc": {
+      "message": "Добавляет переключатель в список участников для сортировки по фамилии"
+   },
+   "sortParticipantsLabel": {
+      "message": "Сортировать список участников"
+   },
+   "speakerBorderDesc": {
+      "message": "Добавляет границу вокруг выступающих участников"
+   },
+   "speakerBorderLabel": {
+      "message": "Выделение динамика"
+   },
+   "startMeet": {
+      "message": "Начать встречу"
+   },
+   "timerDesc": {
+      "message": "Отображает таймер встречи на нижней панели вкладок"
+   },
+   "timerLabel": {
+      "message": "Таймер встречи"
+   },
+   "title": {
+      "message": "Познакомьтесь с пакетом улучшений"
+   },
+   "toggleBarDesc": {
+      "message": "Переключите нижнюю панель управления, чтобы она появилась"
+   },
+   "toggleBarLabel": {
+      "message": "Переключить нижнюю панель"
+   },
+   "transBarDesc": {
+      "message": "Сделать нижнюю панель прозрачной"
+   },
+   "transBarLabel": {
+      "message": "Прозрачная полоса"
+   },
+   "viewRoadmap": {
+      "message": "Посмотреть нашу дорожную карту"
+   }
+}

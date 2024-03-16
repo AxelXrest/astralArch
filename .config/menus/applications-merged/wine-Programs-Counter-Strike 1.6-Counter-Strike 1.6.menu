@@ -1,0 +1,20 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Counter-Strike 1.6</Name>
+    <Directory>wine-Programs-Counter-Strike 1.6.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-Counter-Strike 1.6-Counter-Strike 1.6.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

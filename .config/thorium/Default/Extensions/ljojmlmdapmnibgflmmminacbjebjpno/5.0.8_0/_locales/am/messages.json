@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "አግብር"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "ወይም ፍቃድ አግብር"
+   },
+   "activeTabDesc": {
+      "message": "ንቁ የMeet ትርን ለማግኘት የኤክስቴንሽን አዶውን ጠቅ ያድርጉ"
+   },
+   "activeTabLabel": {
+      "message": "ንቁ Meet ትርን ያግኙ"
+   },
+   "alwaysShowLabel": {
+      "message": "ሁልጊዜ የተሳታፊ ስሞችን አሳይ"
+   },
+   "attendanceDesc": {
+      "message": "የስብሰባውን ተሳትፎ ያንሱ እና ወደ CSV ይላኩ።"
+   },
+   "attendanceLabel": {
+      "message": "ተካፋይ ይሁኑ"
+   },
+   "autoAdmitDesc": {
+      "message": "አዲስ ገቢዎችን በራስ-ሰር ወደ Meet ይቀበላል"
+   },
+   "autoAdmitLabel": {
+      "message": "አዲስ ገቢዎችን በራስ-ሰር አስገባ"
+   },
+   "autoFullScreenDesc": {
+      "message": "አንድ ሰው ሲያቀርብ በራስ-ሰር ወደ ሙሉ ማያ ገጽ ይሂዱ"
+   },
+   "autoFullScreenLabel": {
+      "message": "ራስ-ሰር ሙሉ ማያ ገጽ"
+   },
+   "autoJoinDesc": {
+      "message": "ስብሰባውን በቀጥታ ይቀላቀሉ"
+   },
+   "autoJoinDescOption": {
+      "message": "ተሳታፊዎች በሚገኙበት ጊዜ ብቻ ስብሰባውን ይቀላቀሉ"
+   },
+   "autoJoinLabel": {
+      "message": "ራስ-ሰር ይቀላቀሉ"
+   },
+   "autoMinimizeDesc": {
+      "message": "ስብሰባ ሲቀላቀሉ ቪዲዮዎን በራስ-አሳንስ"
+   },
+   "autoMinimizeLabel": {
+      "message": "ቪዲዮን በራስ-ሰር አሳንስ"
+   },
+   "autoMuteDesc": {
+      "message": "በመቀላቀል ላይ ማይክሮፎን በራስ-ሰር ድምጸ-ከል ያድርጉ"
+   },
+   "autoMuteLabel": {
+      "message": "በራስ-ሰር ድምጸ-ከል ያድርጉ"
+   },
+   "autoRecordDesc": {
+      "message": "Meetን በራስ ሰር መቅዳት ጀምር (Google Workspace ያስፈልጋል)"
+   },
+   "autoRecordDescOne": {
+      "message": "በራስ-ሰር መቅዳት ይጀምሩ"
+   },
+   "autoRecordDescThree": {
+      "message": "በራስ-ሰር ወደ ጽሑፍ መገልበጥ ይጀምሩ"
+   },
+   "autoRecordDescTwo": {
+      "message": "በእጅ መቅዳት ይጀምሩ"
+   },
+   "autoRecordLabel": {
+      "message": "ራስ-ሰር መዝገብ"
+   },
+   "autoRejectDesc": {
+      "message": "ወደ Meet አዲስ ገቢዎችን በራስ ሰር ይከለክላል"
+   },
+   "autoRejectLabel": {
+      "message": "አዲስ ገቢዎችን በራስ ሰር ከልክል።"
+   },
+   "autoUnmuteDesc": {
+      "message": "ሌሎች ማይክሮፎንዎን ድምጸ-ከል እንዳይያደርጉ አቁም።"
+   },
+   "autoUnmuteLabel": {
+      "message": "በራስ-ሰር ድምጸ-ከል አንሳ"
+   },
+   "autoVideoDesc": {
+      "message": "መቀላቀልን ለማጥፋት ቪዲዮ ያዘጋጁ"
+   },
+   "autoVideoLabel": {
+      "message": "ራስ-ሰር ቪዲዮ ጠፍቷል"
+   },
+   "basicFeatures": {
+      "message": "መሰረታዊ ባህሪያት"
+   },
+   "bgColorDesc": {
+      "message": "በMet ውስጥ ብጁ የጀርባ ቀለም ያዘጋጁ"
+   },
+   "bgColorLabel": {
+      "message": "የበስተጀርባ ቀለም ያዘጋጁ"
+   },
+   "captionsDesc": {
+      "message": "መግለጫ ጽሑፎችን በራስ-ሰር አብራ"
+   },
+   "captionsLabel": {
+      "message": "ራስ-ሰር መግለጫዎች"
+   },
+   "chimesDesc": {
+      "message": "ሁልጊዜ ተሳታፊዎች ሲቀላቀሉ እና ሲወጡ ወይም አዲስ የውይይት መልእክት ሲደርስ የቻይም ድምፆችን ይስሙ"
+   },
+   "chimesLabel": {
+      "message": "ሁልጊዜ ቺምስን ተጫወት"
+   },
+   "copyUrlDesc": {
+      "message": "Meet URLን በራስ ሰር ወደ ቅንጥብ ሰሌዳ ይቅዱ"
+   },
+   "copyUrlLabel": {
+      "message": "Meet ዩአርኤልን በራስ ቅዳ"
+   },
+   "darkModeDesc": {
+      "message": "Google Meet ጨለማ ሁነታን ያደርገዋል"
+   },
+   "darkModeLabel": {
+      "message": "ጨለማ ሁነታ"
+   },
+   "desktopApp": {
+      "message": "የዴስክቶፕ መተግበሪያ"
+   },
+   "desktopDesc": {
+      "message": "በ ውስጥ ሁሉንም የጉግል ካል አገናኞች ይክፈቱ"
+   },
+   "desktopLabel": {
+      "message": "የMeet አገናኞችን በዴስክቶፕ መተግበሪያ ውስጥ ይክፈቱ"
+   },
+   "displayClockDesc": {
+      "message": "በሙሉ ስክሪን ላይ ባይሆንም ሰዓቱን አሳይ"
+   },
+   "displayClockLabel": {
+      "message": "የማሳያ ሰዓት"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "የአስተያየት ማሳወቂያ አረፋን ደብቅ"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "አስተያየቶችን ይደብቁ እና ተጠቃሚ ብቅ-ባዮችን ይቀላቀሉ"
+   },
+   "doNotDisturbDesc": {
+      "message": "አዲስ አስተያየት ደብቅ"
+   },
+   "doNotDisturbLabel": {
+      "message": "አትረብሽ"
+   },
+   "emojiToolTipDesc": {
+      "message": "ይህ ባህሪ በነባሪነት የበራ ሲሆን በGoogle Meet ውስጥ ካለው የውይይት መስኮት ሊያገኙት ይችላሉ።"
+   },
+   "extDesc": {
+      "message": "40 አዳዲስ ባህሪያት ለ Google Meet እንደ ሁሉንም ድምጸ-ከል ማድረግ፣ ሁሉንም ማስወገድ፣ በራስ ሰር መቀበል፣ ስሜት ገላጭ ምስሎች፣ የመስታወት ቪዲዮዎች፣ የበስተጀርባ ቀለም እና ለመናገር መግፋት!"
+   },
+   "extName": {
+      "message": "Google Meet ማበልጸጊያ ስዊት"
+   },
+   "generalToolTipDesc": {
+      "message": "ይህ ባህሪ በነባሪነት የበራ ሲሆን በGoogle Meet ውስጥ ካለው የተሳታፊዎች ምናሌ ሊደርሱበት ይችላሉ።"
+   },
+   "hideAddOthersDesc": {
+      "message": "Meetን በሚቀላቀሉበት ጊዜ የ&#39;ሌሎችን አክል&#39; ብቅ ባይን ይደብቃል"
+   },
+   "hideAddOthersLabel": {
+      "message": "&#39;ሌሎች አክል&#39; ብቅ ባይን ደብቅ"
+   },
+   "hidePartNames": {
+      "message": "የተሳታፊዎችን ስም ደብቅ"
+   },
+   "hideSpeakingIcons": {
+      "message": "የተሳታፊ ተናጋሪ አዶዎችን ደብቅ"
+   },
+   "hideTopBarDesc": {
+      "message": "የታችኛው አሞሌ ሲጠፋ የላይኛውን አሞሌ ደብቅ"
+   },
+   "hideTopBarLabel": {
+      "message": "ከፍተኛ አሞሌን በራስ-ደብቅ"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "በሚያቀርቡበት ጊዜ የ&#39;infinity mirror&#39; ማንቂያን በራስ ሰር ደብቅ"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "የዝግጅት አቀራረብ ተደራቢን በራስ-ይተው"
+   },
+   "leaveConfirmDesc": {
+      "message": "ከስብሰባ ሲወጡ ለማረጋገጥ ይጠይቁ"
+   },
+   "leaveConfirmLabel": {
+      "message": "ማረጋገጫን ተወው"
+   },
+   "meetProButtonLabel": {
+      "message": "የ7-ቀን ነጻ ሙከራ ይጀምሩ"
+   },
+   "meetProSectionDesc": {
+      "message": "ወደ Meet Pro በማደግ ጉግል Meetን ወደሚቀጥለው ደረጃ የሚወስዱ ከ25 በላይ አዳዲስ ባህሪያትን ያገኛሉ።"
+   },
+   "meetProSectionLabel": {
+      "message": "Meet Proን ያግኙ"
+   },
+   "meetVolumeDesc": {
+      "message": "የMeet የድምጽ ደረጃን ያስተካክሉ"
+   },
+   "meetVolumeLabel": {
+      "message": "የስብሰባ መጠንን አስተካክል።"
+   },
+   "mirrorVideosDesc": {
+      "message": "በMeet ውስጥ ያሉትን ሁሉንም ቪዲዮዎች ያንጸባርቃል"
+   },
+   "mirrorVideosLabel": {
+      "message": "ቪዲዮዎችን ያንጸባርቁ"
+   },
+   "muchMore": {
+      "message": "ብዙ ተጨማሪ ይመጣል!"
+   },
+   "muteAllDesc": {
+      "message": "ሁሉንም ተሳታፊዎች በተሳታፊዎች ምናሌ በኩል ድምጸ-ከል ያድርጉ"
+   },
+   "muteAllLabel": {
+      "message": "ሁሉንም ድምጸ-ከል አድርግ"
+   },
+   "mutePopupDesc": {
+      "message": "እየተናገረ ነው?&#39; ድምጸ-ከል ሲደረግ ብቅ-ባይ"
+   },
+   "mutePopupLabel": {
+      "message": "ብቅ-ባይ ድምጸ-ከልን ደብቅ"
+   },
+   "partVidStyleLabel": {
+      "message": "የተሳታፊ ቪዲዮ ዘይቤ"
+   },
+   "pinBarDesc": {
+      "message": "የመቆጣጠሪያ አሞሌውን ከማያ ገጹ ግርጌ ይሰኩት"
+   },
+   "pinBarLabel": {
+      "message": "የታች ባርን ይሰኩ"
+   },
+   "pinChatDesc": {
+      "message": "Meetን በሚቀላቀሉበት ጊዜ የውይይት እይታን በራስ-ሰር ይሰኩት"
+   },
+   "pinChatLabel": {
+      "message": "በራስ-ፒን ውይይት"
+   },
+   "pipDesc": {
+      "message": "የተሳታፊዎችን ቪዲዮ በሥዕል-በሥዕል ይመልከቱ"
+   },
+   "pipLabel": {
+      "message": "ሥዕል-በሥዕል"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Pro ባህሪዎች"
+   },
+   "pttDesc": {
+      "message": "ድምጸ-ከል ለማድረግ የሙቅ ቁልፍን ይያዙ"
+   },
+   "pttLabel": {
+      "message": "ለመነጋገር ግፋ"
+   },
+   "pttUpgrade": {
+      "message": "የራስዎን የቁልፍ ማሰሪያ ለማዘጋጀት ወደ ፕሮ ያሻሽሉ።"
+   },
+   "quickEmojiDesc": {
+      "message": "ፈጣን የኢሞጂ አቋራጮችን ወደ የውይይት መስኮት ያክላል"
+   },
+   "quickEmojiLabel": {
+      "message": "ፈጣን ስሜት ገላጭ ምስሎች"
+   },
+   "quickLeaveDesc": {
+      "message": "ጥሪ ለመተው hotkey ይጠቀሙ"
+   },
+   "quickLeaveLabel": {
+      "message": "ፈጣን ፈቃድ"
+   },
+   "removeAllDesc": {
+      "message": "ሁሉንም ተሳታፊዎች በተሳታፊዎች ምናሌ በኩል ያስወግዱ"
+   },
+   "removeAllLabel": {
+      "message": "ሁሉንም አስወግድ"
+   },
+   "returnHomeDesc": {
+      "message": "ከMet ከወጡ በኋላ ወደ Meet መነሻ ማያ ገጽ ይመለሳል"
+   },
+   "returnHomeLabel": {
+      "message": "በ hangup ላይ ወደ መነሻ ማያ ገጽ ተመለስ"
+   },
+   "seeFeatures": {
+      "message": "ያቀድናቸው ሁሉንም ባህሪያት ለማየት"
+   },
+   "sortParticipantsDesc": {
+      "message": "በአያት ስም ለመደርደር ወደ ተሳታፊ ዝርዝር መቀያየርን ያክላል"
+   },
+   "sortParticipantsLabel": {
+      "message": "የተሳታፊዎችን ዝርዝር ደርድር"
+   },
+   "speakerBorderDesc": {
+      "message": "በንግግር ተሳታፊዎች ዙሪያ ድንበር ያክላል"
+   },
+   "speakerBorderLabel": {
+      "message": "የድምጽ ማጉያ ማድመቂያ"
+   },
+   "startMeet": {
+      "message": "ስብሰባ ጀምር"
+   },
+   "timerDesc": {
+      "message": "የስብሰባ ሰዓት ቆጣሪን ከታች ትር አሞሌ ያሳያል"
+   },
+   "timerLabel": {
+      "message": "የስብሰባ ሰዓት ቆጣሪ"
+   },
+   "title": {
+      "message": "Meet Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "ለመታየት የታችኛው መቆጣጠሪያ አሞሌን ቀያይር"
+   },
+   "toggleBarLabel": {
+      "message": "የታች አሞሌን ቀያይር"
+   },
+   "transBarDesc": {
+      "message": "የታችኛው አሞሌ ግልፅ ያድርጉት"
+   },
+   "transBarLabel": {
+      "message": "ግልጽ ባር"
+   },
+   "viewRoadmap": {
+      "message": "የእኛን የመንገድ ካርታ ይመልከቱ"
+   }
+}

@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "לְהַפְעִיל"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "או הפעל רישיון"
+   },
+   "activeTabDesc": {
+      "message": "לחץ על סמל התוסף כדי למצוא את כרטיסיית Meet הפעילה"
+   },
+   "activeTabLabel": {
+      "message": "מצא את כרטיסיית Meet פעילה"
+   },
+   "alwaysShowLabel": {
+      "message": "הצג תמיד את שמות המשתתפים"
+   },
+   "attendanceDesc": {
+      "message": "צלם את הנוכחות במפגש וייצא ל-CSV"
+   },
+   "attendanceLabel": {
+      "message": "תיקח נוכחות"
+   },
+   "autoAdmitDesc": {
+      "message": "מקבל באופן אוטומטי משתתפים חדשים למפגש"
+   },
+   "autoAdmitLabel": {
+      "message": "קבלה אוטומטית של מצטרפים חדשים"
+   },
+   "autoFullScreenDesc": {
+      "message": "מעבר אוטומטי למסך מלא כאשר מישהו מציג"
+   },
+   "autoFullScreenLabel": {
+      "message": "מסך מלא אוטומטי"
+   },
+   "autoJoinDesc": {
+      "message": "הצטרף לפגישה באופן אוטומטי"
+   },
+   "autoJoinDescOption": {
+      "message": "הצטרף לפגישה רק כאשר המשתתפים נוכחים"
+   },
+   "autoJoinLabel": {
+      "message": "הצטרפות אוטומטית"
+   },
+   "autoMinimizeDesc": {
+      "message": "צמצם אוטומטית את הסרטון שלך כשאתה מצטרף לפגישה"
+   },
+   "autoMinimizeLabel": {
+      "message": "מזעור וידאו אוטומטי"
+   },
+   "autoMuteDesc": {
+      "message": "השתקה אוטומטית של מיקרופון בעת הצטרפות"
+   },
+   "autoMuteLabel": {
+      "message": "השתק אוטומטי"
+   },
+   "autoRecordDesc": {
+      "message": "התחל אוטומטית להקליט את ה-Meet (דרוש Google Workspace)"
+   },
+   "autoRecordDescOne": {
+      "message": "התחל להקליט באופן אוטומטי"
+   },
+   "autoRecordDescThree": {
+      "message": "התחל אוטומטית את התמלול"
+   },
+   "autoRecordDescTwo": {
+      "message": "התחל להקליט באופן ידני"
+   },
+   "autoRecordLabel": {
+      "message": "הקלטה אוטומטית"
+   },
+   "autoRejectDesc": {
+      "message": "דוחה באופן אוטומטי משתתפים חדשים למפגש"
+   },
+   "autoRejectLabel": {
+      "message": "דחיית מצטרפים חדשים אוטומטית"
+   },
+   "autoUnmuteDesc": {
+      "message": "מנע מאחרים להשתיק את המיקרופון שלך"
+   },
+   "autoUnmuteLabel": {
+      "message": "ביטול השתקה אוטומטי"
+   },
+   "autoVideoDesc": {
+      "message": "הגדר את הסרטון כדי לכבות את ההצטרפות"
+   },
+   "autoVideoLabel": {
+      "message": "כיבוי אוטומטי של וידאו"
+   },
+   "basicFeatures": {
+      "message": "תכונות בסיסיות"
+   },
+   "bgColorDesc": {
+      "message": "הגדר צבע רקע מותאם אישית ב-Meet"
+   },
+   "bgColorLabel": {
+      "message": "הגדר צבע רקע"
+   },
+   "captionsDesc": {
+      "message": "הפעלה אוטומטית של כתוביות"
+   },
+   "captionsLabel": {
+      "message": "כתוביות אוטומטיות"
+   },
+   "chimesDesc": {
+      "message": "שמע תמיד צלילי צליל כאשר משתתפים מצטרפים ועוזבים, או כאשר מתקבלת הודעת צ&#39;אט חדשה"
+   },
+   "chimesLabel": {
+      "message": "הפעל תמיד פעמונים"
+   },
+   "copyUrlDesc": {
+      "message": "העתק אוטומטית את כתובת האתר של Meet ללוח"
+   },
+   "copyUrlLabel": {
+      "message": "העתק אוטומטית את כתובת האתר של Meet"
+   },
+   "darkModeDesc": {
+      "message": "הופך את Google Meet למצב כהה"
+   },
+   "darkModeLabel": {
+      "message": "מצב כהה"
+   },
+   "desktopApp": {
+      "message": "אפליקציית שולחן העבודה"
+   },
+   "desktopDesc": {
+      "message": "הפוך את כל הקישורים של Google Cal פתוחים ב-"
+   },
+   "desktopLabel": {
+      "message": "פתח קישורי Meet באפליקציית שולחן העבודה"
+   },
+   "displayClockDesc": {
+      "message": "הצג את השעון גם כאשר אינו במסך מלא"
+   },
+   "displayClockLabel": {
+      "message": "הצג שעון"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "הסתר את בועת ההתראה על הערות"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "הסתר הערות והצטרפות משתמשים"
+   },
+   "doNotDisturbDesc": {
+      "message": "הסתר תגובה חדשה"
+   },
+   "doNotDisturbLabel": {
+      "message": "אל תפריע"
+   },
+   "emojiToolTipDesc": {
+      "message": "תכונה זו מופעלת כברירת מחדל ותוכל לגשת אליה מחלון הצ&#39;אט ב-Google Meet"
+   },
+   "extDesc": {
+      "message": "40 תכונות חדשות ל-Google Meet כמו השתקת הכל, הסר הכל, הודאה אוטומטית, אימוג&#39;ים, סרטוני מראה, צבע רקע ו-Push to talk!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "תכונה זו מופעלת כברירת מחדל ותוכל לגשת אליה מתפריט המשתתפים ב-Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "מסתיר את החלון הקופץ &#39;הוסף אחרים&#39; בעת הצטרפות ל-Meet"
+   },
+   "hideAddOthersLabel": {
+      "message": "הסתר את החלון הקופץ &#39;הוסף אחרים&#39;"
+   },
+   "hidePartNames": {
+      "message": "הסתר את שמות המשתתפים"
+   },
+   "hideSpeakingIcons": {
+      "message": "הסתר סמלים של דיבור משתתף"
+   },
+   "hideTopBarDesc": {
+      "message": "הסתר את הסרגל העליון כאשר הסרגל התחתון נעלם"
+   },
+   "hideTopBarLabel": {
+      "message": "הסתר אוטומטית בסרגל העליון"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "הסתר אוטומטית התראת &#39;מראה אינסוף&#39; בעת הצגת"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "התעלמות אוטומטית של כיסוי מצגת"
+   },
+   "leaveConfirmDesc": {
+      "message": "בקש לאשר כאשר אתה עוזב פגישה"
+   },
+   "leaveConfirmLabel": {
+      "message": "השאירו אישור"
+   },
+   "meetProButtonLabel": {
+      "message": "התחל ניסיון חינם למשך 7 ימים"
+   },
+   "meetProSectionDesc": {
+      "message": "על ידי שדרוג ל-Meet Pro אתה מקבל גישה ליותר מ-25 תכונות חדשות שלוקחות את Google Meet לשלב הבא."
+   },
+   "meetProSectionLabel": {
+      "message": "קבל את Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "התאם את עוצמת הקול של ה-Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "התאם את עוצמת הקול של Meet"
+   },
+   "mirrorVideosDesc": {
+      "message": "משקף את כל הסרטונים ב-Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "סרטוני מראה"
+   },
+   "muchMore": {
+      "message": "עוד הרבה לבוא!"
+   },
+   "muteAllDesc": {
+      "message": "השתק את כל המשתתפים דרך תפריט המשתתפים"
+   },
+   "muteAllLabel": {
+      "message": "להשתיק את הכול"
+   },
+   "mutePopupDesc": {
+      "message": "מסתיר &#39;אתה מדבר?&#39; קופץ כאשר מושתק"
+   },
+   "mutePopupLabel": {
+      "message": "הסתר חלון השתק"
+   },
+   "partVidStyleLabel": {
+      "message": "סגנון וידאו משתתף"
+   },
+   "pinBarDesc": {
+      "message": "מצמיד את סרגל הבקרה לתחתית המסך"
+   },
+   "pinBarLabel": {
+      "message": "סרגל תחתון סיכה"
+   },
+   "pinChatDesc": {
+      "message": "מצמיד אוטומטית תצוגת צ&#39;אט בעת הצטרפות ל-Meet"
+   },
+   "pinChatLabel": {
+      "message": "הצמד צ&#39;אט אוטומטי"
+   },
+   "pipDesc": {
+      "message": "צפה בסרטון המשתתפים בתמונה-בתמונה"
+   },
+   "pipLabel": {
+      "message": "תמונה בתמונה"
+   },
+   "proFeaturesSubHeading": {
+      "message": "תכונות פרו"
+   },
+   "pttDesc": {
+      "message": "החזק את מקש הקיצור כדי לבטל את ההשתקה"
+   },
+   "pttLabel": {
+      "message": "לחץ לדיבור"
+   },
+   "pttUpgrade": {
+      "message": "שדרג ל-Pro כדי להגדיר כריכת מפתח משלך"
+   },
+   "quickEmojiDesc": {
+      "message": "מוסיף קיצורי אמוג&#39;י מהירים לחלון הצ&#39;אט"
+   },
+   "quickEmojiLabel": {
+      "message": "תגובות אמוג&#39;י מהירות"
+   },
+   "quickLeaveDesc": {
+      "message": "השתמש במקש הקיצור כדי לעזוב שיחה"
+   },
+   "quickLeaveLabel": {
+      "message": "עזיבה מהירה"
+   },
+   "removeAllDesc": {
+      "message": "הסר את כל המשתתפים דרך תפריט המשתתפים"
+   },
+   "removeAllLabel": {
+      "message": "להסיר את כל"
+   },
+   "returnHomeDesc": {
+      "message": "חוזר למסך הבית של Meet לאחר יציאה מ-Meet"
+   },
+   "returnHomeLabel": {
+      "message": "חזור למסך הבית בעת ניתוק"
+   },
+   "seeFeatures": {
+      "message": "כדי לראות את כל התכונות שתכננו"
+   },
+   "sortParticipantsDesc": {
+      "message": "מוסיף מתג לרשימת המשתתפים כדי למיין לפי שם משפחה"
+   },
+   "sortParticipantsLabel": {
+      "message": "מיין רשימת משתתפים"
+   },
+   "speakerBorderDesc": {
+      "message": "מוסיף גבול סביב משתתפים מדברים"
+   },
+   "speakerBorderLabel": {
+      "message": "הדגשת רמקול"
+   },
+   "startMeet": {
+      "message": "התחל פגישה"
+   },
+   "timerDesc": {
+      "message": "מציג טיימר לפגישה בסרגל הכרטיסיות התחתון"
+   },
+   "timerLabel": {
+      "message": "טיימר פגישות"
+   },
+   "title": {
+      "message": "הכירו את Suite Enhancement"
+   },
+   "toggleBarDesc": {
+      "message": "החלף את סרגל הבקרה התחתון כדי להופיע"
+   },
+   "toggleBarLabel": {
+      "message": "החלף את הסרגל התחתון"
+   },
+   "transBarDesc": {
+      "message": "הפוך את הפס התחתון לשקוף"
+   },
+   "transBarLabel": {
+      "message": "בר שקוף"
+   },
+   "viewRoadmap": {
+      "message": "צפו במפת הדרכים שלנו"
+   }
+}

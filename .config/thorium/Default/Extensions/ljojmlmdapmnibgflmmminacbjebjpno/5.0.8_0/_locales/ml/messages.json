@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "സജീവമാക്കുക"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "അല്ലെങ്കിൽ ലൈസൻസ് സജീവമാക്കുക"
+   },
+   "activeTabDesc": {
+      "message": "സജീവമായ Meet ടാബ് കണ്ടെത്താൻ വിപുലീകരണ ഐക്കണിൽ ക്ലിക്ക് ചെയ്യുക"
+   },
+   "activeTabLabel": {
+      "message": "സജീവ മീറ്റ് ടാബ് കണ്ടെത്തുക"
+   },
+   "alwaysShowLabel": {
+      "message": "പങ്കെടുക്കുന്നവരുടെ പേരുകൾ എപ്പോഴും കാണിക്കുക"
+   },
+   "attendanceDesc": {
+      "message": "മീറ്റിന്റെ ഹാജർ ക്യാപ്‌ചർ ചെയ്‌ത് ഒരു CSV-ലേക്ക് കയറ്റുമതി ചെയ്യുക"
+   },
+   "attendanceLabel": {
+      "message": "ഹാജർ എടുക്കുക"
+   },
+   "autoAdmitDesc": {
+      "message": "Meet-ലേക്ക് പുതിയതായി വരുന്നവരെ സ്വയമേവ പ്രവേശിപ്പിക്കുന്നു"
+   },
+   "autoAdmitLabel": {
+      "message": "പുതുതായി പ്രവേശിക്കുന്നവരെ സ്വയമേവ അഡ്മിറ്റ് ചെയ്യുക"
+   },
+   "autoFullScreenDesc": {
+      "message": "ആരെങ്കിലും അവതരിപ്പിക്കുമ്പോൾ പൂർണ്ണ സ്‌ക്രീനിൽ സ്വയമേവ പോകുക"
+   },
+   "autoFullScreenLabel": {
+      "message": "യാന്ത്രിക പൂർണ്ണ സ്‌ക്രീൻ"
+   },
+   "autoJoinDesc": {
+      "message": "മീറ്റിംഗിൽ സ്വയമേവ ചേരുക"
+   },
+   "autoJoinDescOption": {
+      "message": "പങ്കെടുക്കുന്നവർ ഉള്ളപ്പോൾ മാത്രം മീറ്റിംഗിൽ ചേരുക"
+   },
+   "autoJoinLabel": {
+      "message": "ഓട്ടോ ജോയിൻ"
+   },
+   "autoMinimizeDesc": {
+      "message": "നിങ്ങൾ മീറ്റിംഗിൽ ചേരുമ്പോൾ നിങ്ങളുടെ വീഡിയോ സ്വയമേവ ചെറുതാക്കുക"
+   },
+   "autoMinimizeLabel": {
+      "message": "വീഡിയോ സ്വയമേവ ചെറുതാക്കുക"
+   },
+   "autoMuteDesc": {
+      "message": "ചേരുമ്പോൾ മൈക്രോഫോൺ സ്വയമേവ നിശബ്ദമാക്കുക"
+   },
+   "autoMuteLabel": {
+      "message": "സ്വയമേവ നിശബ്ദമാക്കുക"
+   },
+   "autoRecordDesc": {
+      "message": "Meet സ്വയമേവ റെക്കോർഡ് ചെയ്യാൻ ആരംഭിക്കുക (Google Workspace ആവശ്യമാണ്)"
+   },
+   "autoRecordDescOne": {
+      "message": "സ്വയമേവ റെക്കോർഡിംഗ് ആരംഭിക്കുക"
+   },
+   "autoRecordDescThree": {
+      "message": "സ്വയമേവ ട്രാൻസ്ക്രിപ്ഷൻ ആരംഭിക്കുക"
+   },
+   "autoRecordDescTwo": {
+      "message": "സ്വമേധയാ റെക്കോർഡിംഗ് ആരംഭിക്കുക"
+   },
+   "autoRecordLabel": {
+      "message": "യാന്ത്രിക റെക്കോർഡ്"
+   },
+   "autoRejectDesc": {
+      "message": "മീറ്റിൽ പുതിയതായി വരുന്നവരെ സ്വയമേവ നിരസിക്കുന്നു"
+   },
+   "autoRejectLabel": {
+      "message": "പുതുതായി പ്രവേശിക്കുന്നവരെ സ്വയമേവ നിരസിക്കുക"
+   },
+   "autoUnmuteDesc": {
+      "message": "നിങ്ങളുടെ മൈക്ക് നിശബ്ദമാക്കുന്നതിൽ നിന്ന് മറ്റുള്ളവരെ തടയുക"
+   },
+   "autoUnmuteLabel": {
+      "message": "സ്വയമേവ അൺമ്യൂട്ട് ചെയ്യുക"
+   },
+   "autoVideoDesc": {
+      "message": "ജോയിൻ ഓഫാക്കാൻ വീഡിയോ സജ്ജീകരിക്കുക"
+   },
+   "autoVideoLabel": {
+      "message": "യാന്ത്രിക വീഡിയോ ഓഫ്"
+   },
+   "basicFeatures": {
+      "message": "അടിസ്ഥാന സവിശേഷതകൾ"
+   },
+   "bgColorDesc": {
+      "message": "Meet-ൽ ഇഷ്‌ടാനുസൃത പശ്ചാത്തല വർണ്ണം സജ്ജീകരിക്കുക"
+   },
+   "bgColorLabel": {
+      "message": "പശ്ചാത്തല വർണ്ണം സജ്ജമാക്കുക"
+   },
+   "captionsDesc": {
+      "message": "അടിക്കുറിപ്പുകൾ സ്വയമേവ ഓണാക്കുക"
+   },
+   "captionsLabel": {
+      "message": "സ്വയമേവയുള്ള അടിക്കുറിപ്പുകൾ"
+   },
+   "chimesDesc": {
+      "message": "പങ്കെടുക്കുന്നവർ ചേരുമ്പോഴോ പുറത്തുപോകുമ്പോഴോ ഒരു പുതിയ ചാറ്റ് സന്ദേശം ലഭിക്കുമ്പോഴോ എപ്പോഴും മണിനാദം കേൾക്കുക"
+   },
+   "chimesLabel": {
+      "message": "എപ്പോഴും മണിനാദങ്ങൾ പ്ലേ ചെയ്യുക"
+   },
+   "copyUrlDesc": {
+      "message": "Meet URL ക്ലിപ്പ്ബോർഡിലേക്ക് സ്വയമേവ പകർത്തുക"
+   },
+   "copyUrlLabel": {
+      "message": "Meet URL സ്വയമേവ പകർത്തുക"
+   },
+   "darkModeDesc": {
+      "message": "Google Meet ഡാർക്ക് മോഡ് ആക്കുന്നു"
+   },
+   "darkModeLabel": {
+      "message": "ഡാർക്ക് മോഡ്"
+   },
+   "desktopApp": {
+      "message": "ഡെസ്ക്ടോപ്പ് അപ്ലിക്കേഷൻ"
+   },
+   "desktopDesc": {
+      "message": "എല്ലാ Google Cal ലിങ്കുകളും ഇതിൽ തുറക്കുക"
+   },
+   "desktopLabel": {
+      "message": "ഡെസ്‌ക്‌ടോപ്പ് ആപ്പിൽ Meet ലിങ്കുകൾ തുറക്കുക"
+   },
+   "displayClockDesc": {
+      "message": "ഫുൾസ്‌ക്രീനിൽ ഇല്ലെങ്കിൽപ്പോലും ക്ലോക്ക് പ്രദർശിപ്പിക്കുക"
+   },
+   "displayClockLabel": {
+      "message": "ഡിസ്പ്ലേ ക്ലോക്ക്"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "കമന്റ് നോട്ടിഫിക്കേഷൻ ബബിൾ മറയ്ക്കുക"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "അഭിപ്രായങ്ങൾ മറയ്ക്കുക, ഉപയോക്താക്കൾ പോപ്പ്-അപ്പുകളിൽ ചേരുക"
+   },
+   "doNotDisturbDesc": {
+      "message": "പുതിയ അഭിപ്രായം മറയ്ക്കുക"
+   },
+   "doNotDisturbLabel": {
+      "message": "ബുദ്ധിമുട്ടിക്കരുത്"
+   },
+   "emojiToolTipDesc": {
+      "message": "ഈ ഫീച്ചർ ഡിഫോൾട്ടായി ഓണാണ്, നിങ്ങൾക്ക് ഇത് Google Meet-ലെ ചാറ്റ് വിൻഡോയിൽ നിന്ന് ആക്‌സസ് ചെയ്യാം"
+   },
+   "extDesc": {
+      "message": "എല്ലാവരെയും നിശബ്ദമാക്കുക, എല്ലാം നീക്കം ചെയ്യുക, സ്വയമേവ സ്വീകരിക്കുക, ഇമോജികൾ, മിറർ വീഡിയോകൾ, പശ്ചാത്തല വർണ്ണം, സംസാരിക്കാനുള്ള പുഷ് എന്നിങ്ങനെ Google Meet-ന് 40 പുതിയ സവിശേഷതകൾ!"
+   },
+   "extName": {
+      "message": "Google Meet എൻഹാൻസ്‌മെന്റ് സ്യൂട്ട്"
+   },
+   "generalToolTipDesc": {
+      "message": "ഈ ഫീച്ചർ ഡിഫോൾട്ടായി ഓണാണ്, നിങ്ങൾക്ക് Google Meet-ലെ പങ്കാളികളുടെ മെനുവിൽ നിന്ന് ഇത് ആക്‌സസ് ചെയ്യാം"
+   },
+   "hideAddOthersDesc": {
+      "message": "ഒരു മീറ്റിൽ ചേരുമ്പോൾ &#39;മറ്റുള്ളവരെ ചേർക്കുക&#39; പോപ്പ്-അപ്പ് മറയ്ക്കുന്നു"
+   },
+   "hideAddOthersLabel": {
+      "message": "&#39;മറ്റുള്ളവരെ ചേർക്കുക&#39; പോപ്പ്-അപ്പ് മറയ്ക്കുക"
+   },
+   "hidePartNames": {
+      "message": "പങ്കെടുക്കുന്നവരുടെ പേരുകൾ മറയ്ക്കുക"
+   },
+   "hideSpeakingIcons": {
+      "message": "പങ്കാളി സംസാരിക്കുന്ന ഐക്കണുകൾ മറയ്ക്കുക"
+   },
+   "hideTopBarDesc": {
+      "message": "താഴെയുള്ള ബാർ അപ്രത്യക്ഷമാകുമ്പോൾ മുകളിലെ ബാർ മറയ്ക്കുക"
+   },
+   "hideTopBarLabel": {
+      "message": "ടോപ്പ് ബാർ സ്വയമേവ മറയ്ക്കുക"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "അവതരിപ്പിക്കുമ്പോൾ &#39;ഇൻഫിനിറ്റി മിറർ&#39; അലേർട്ട് സ്വയമേവ മറയ്ക്കുക"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "അവതരണ ഓവർലേ സ്വയമേവ അവഗണിക്കുക"
+   },
+   "leaveConfirmDesc": {
+      "message": "നിങ്ങൾ ഒരു മീറ്റിംഗ് വിടുമ്പോൾ സ്ഥിരീകരിക്കാൻ ആവശ്യപ്പെടുക"
+   },
+   "leaveConfirmLabel": {
+      "message": "സ്ഥിരീകരണം വിടുക"
+   },
+   "meetProButtonLabel": {
+      "message": "7 ദിവസത്തെ സൗജന്യ ട്രയൽ ആരംഭിക്കുക"
+   },
+   "meetProSectionDesc": {
+      "message": "Meet Pro-യിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുന്നതിലൂടെ, Google Meet-നെ അടുത്ത ഘട്ടത്തിലേക്ക് കൊണ്ടുപോകുന്ന 25-ലധികം പുതിയ ഫീച്ചറുകളിലേക്ക് നിങ്ങൾക്ക് ആക്‌സസ് ലഭിക്കും."
+   },
+   "meetProSectionLabel": {
+      "message": "Meet Pro നേടുക"
+   },
+   "meetVolumeDesc": {
+      "message": "Meet-ന്റെ വോളിയം ലെവൽ ക്രമീകരിക്കുക"
+   },
+   "meetVolumeLabel": {
+      "message": "Meet വോളിയം ക്രമീകരിക്കുക"
+   },
+   "mirrorVideosDesc": {
+      "message": "മീറ്റിലെ എല്ലാ വീഡിയോകളും മിറർ ചെയ്യുന്നു"
+   },
+   "mirrorVideosLabel": {
+      "message": "മിറർ വീഡിയോകൾ"
+   },
+   "muchMore": {
+      "message": "ഇനിയും ഒരുപാട് വരാനുണ്ട്!"
+   },
+   "muteAllDesc": {
+      "message": "പങ്കെടുക്കുന്നവരുടെ മെനു വഴി എല്ലാ പങ്കാളികളെയും നിശബ്ദമാക്കുക"
+   },
+   "muteAllLabel": {
+      "message": "എല്ലാം നിശബ്ദമാക്കുക"
+   },
+   "mutePopupDesc": {
+      "message": "&#39;നിങ്ങൾ സംസാരിക്കുകയാണോ?&#39; നിശബ്ദമാക്കുമ്പോൾ പോപ്പ്അപ്പ്"
+   },
+   "mutePopupLabel": {
+      "message": "മ്യൂട്ട് പോപ്പ്അപ്പ് മറയ്ക്കുക"
+   },
+   "partVidStyleLabel": {
+      "message": "പങ്കാളിയുടെ വീഡിയോ ശൈലി"
+   },
+   "pinBarDesc": {
+      "message": "സ്‌ക്രീനിന്റെ അടിയിലേക്ക് കൺട്രോൾ ബാർ പിൻ ചെയ്യുന്നു"
+   },
+   "pinBarLabel": {
+      "message": "താഴെയുള്ള ബാർ പിൻ ചെയ്യുക"
+   },
+   "pinChatDesc": {
+      "message": "Meet-ൽ ചേരുമ്പോൾ ചാറ്റ് കാഴ്‌ച യാന്ത്രികമായി പിൻ ചെയ്യുന്നു"
+   },
+   "pinChatLabel": {
+      "message": "ചാറ്റ് സ്വയമേവ പിൻ ചെയ്യുക"
+   },
+   "pipDesc": {
+      "message": "ചിത്രത്തിൽ പങ്കെടുക്കുന്നവരുടെ വീഡിയോ ചിത്രം-ഇൻ-പിക്ചറിൽ കാണുക"
+   },
+   "pipLabel": {
+      "message": "ചിത്രം-ഇൻ-ചിത്രം"
+   },
+   "proFeaturesSubHeading": {
+      "message": "പ്രോ സവിശേഷതകൾ"
+   },
+   "pttDesc": {
+      "message": "അൺമ്യൂട്ട് ചെയ്യാൻ ഹോട്ട്കീ അമർത്തിപ്പിടിക്കുക"
+   },
+   "pttLabel": {
+      "message": "പുഷ് ടു ടോക്ക്"
+   },
+   "pttUpgrade": {
+      "message": "നിങ്ങളുടെ സ്വന്തം കീ ബൈൻഡിംഗ് സജ്ജീകരിക്കാൻ പ്രോയിലേക്ക് അപ്‌ഗ്രേഡുചെയ്യുക"
+   },
+   "quickEmojiDesc": {
+      "message": "ചാറ്റ് വിൻഡോയിലേക്ക് ദ്രുത ഇമോജി കുറുക്കുവഴികൾ ചേർക്കുന്നു"
+   },
+   "quickEmojiLabel": {
+      "message": "ദ്രുത ഇമോജി പ്രതികരണങ്ങൾ"
+   },
+   "quickLeaveDesc": {
+      "message": "ഒരു കോൾ വിടാൻ ഹോട്ട്കീ ഉപയോഗിക്കുക"
+   },
+   "quickLeaveLabel": {
+      "message": "പെട്ടെന്നുള്ള ലീവ്"
+   },
+   "removeAllDesc": {
+      "message": "പങ്കെടുക്കുന്നവരുടെ മെനുവിലൂടെ എല്ലാ പങ്കാളികളെയും നീക്കം ചെയ്യുക"
+   },
+   "removeAllLabel": {
+      "message": "എല്ലാം നീക്കം ചെയ്യുക"
+   },
+   "returnHomeDesc": {
+      "message": "ഒരു Meet വിട്ട ശേഷം Meet ഹോം സ്‌ക്രീനിലേക്ക് മടങ്ങുന്നു"
+   },
+   "returnHomeLabel": {
+      "message": "ഹാംഗ്അപ്പിൽ ഹോം സ്ക്രീനിലേക്ക് മടങ്ങുക"
+   },
+   "seeFeatures": {
+      "message": "ഞങ്ങൾ ആസൂത്രണം ചെയ്ത എല്ലാ സവിശേഷതകളും കാണാൻ"
+   },
+   "sortParticipantsDesc": {
+      "message": "അവസാന നാമം അനുസരിച്ച് അടുക്കാൻ പങ്കെടുക്കുന്നവരുടെ പട്ടികയിലേക്ക് ടോഗിൾ ചേർക്കുന്നു"
+   },
+   "sortParticipantsLabel": {
+      "message": "പങ്കാളികളുടെ പട്ടിക അടുക്കുക"
+   },
+   "speakerBorderDesc": {
+      "message": "സംസാരിക്കുന്ന പങ്കാളികൾക്ക് ചുറ്റും ഒരു ബോർഡർ ചേർക്കുന്നു"
+   },
+   "speakerBorderLabel": {
+      "message": "സ്പീക്കർ ഹൈലൈറ്റ്"
+   },
+   "startMeet": {
+      "message": "ഒരു മീറ്റ് ആരംഭിക്കുക"
+   },
+   "timerDesc": {
+      "message": "ചുവടെയുള്ള ടാബ് ബാറിൽ മീറ്റിംഗ് ടൈമർ പ്രദർശിപ്പിക്കുന്നു"
+   },
+   "timerLabel": {
+      "message": "മീറ്റിംഗ് ടൈമർ"
+   },
+   "title": {
+      "message": "മെച്ചപ്പെടുത്തൽ സ്യൂട്ട് കാണുക"
+   },
+   "toggleBarDesc": {
+      "message": "ദൃശ്യമാകുന്നതിന് താഴെയുള്ള നിയന്ത്രണ ബാർ ടോഗിൾ ചെയ്യുക"
+   },
+   "toggleBarLabel": {
+      "message": "താഴെയുള്ള ബാർ ടോഗിൾ ചെയ്യുക"
+   },
+   "transBarDesc": {
+      "message": "താഴെയുള്ള ബാർ സുതാര്യമാക്കുക"
+   },
+   "transBarLabel": {
+      "message": "സുതാര്യമായ ബാർ"
+   },
+   "viewRoadmap": {
+      "message": "ഞങ്ങളുടെ റോഡ്മാപ്പ് കാണുക"
+   }
+}

@@ -1,0 +1,284 @@
+{
+   "checksum": "931ae695e409b9ac316a5638dc93e34e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306692125984976",
+            "date_last_used": "13321783553726800",
+            "guid": "1658e71b-9b5d-46c8-8b44-c6709f1c43d6",
+            "id": "12",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13306692126028950",
+            "date_last_used": "13355061524041386",
+            "guid": "6f04a557-5107-42f6-a006-093ea42464ef",
+            "id": "13",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13306692129267057",
+            "date_last_used": "0",
+            "guid": "6e0e2f46-384f-4e03-ac98-143ad177fea1",
+            "id": "14",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13308481131032693",
+            "date_last_used": "0",
+            "guid": "030de5ea-fb63-4e6b-8576-b5fcda0b3fec",
+            "id": "15",
+            "name": "Watch The Girl Who Leapt Through Time Online in HD with English Subbed, Dubbed",
+            "type": "url",
+            "url": "https://9anime.id/watch/the-girl-who-leapt-through-time.7116/ep-full"
+         }, {
+            "date_added": "13311431672358407",
+            "date_last_used": "0",
+            "guid": "50f5d8c9-0cd1-4d75-a2b2-6f3d939f4008",
+            "id": "16",
+            "name": "Watch One Piece English Sub/Dub online Free on Zoro.to",
+            "type": "url",
+            "url": "https://zoro.to/watch/one-piece-100?ep=2207"
+         }, {
+            "date_added": "13311431986783161",
+            "date_last_used": "13326633150237525",
+            "guid": "57ef0e90-019e-47a6-a26a-cd2bb9511729",
+            "id": "17",
+            "name": "MangaReader - Read Manga Online Free",
+            "type": "url",
+            "url": "https://mangareader.to/"
+         }, {
+            "date_added": "13314188348324331",
+            "date_last_used": "0",
+            "guid": "bcfd41dc-c33a-455c-b715-67af661233f5",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "file:///C:/xampp/htdocs/WebTechnology/HTML%20_%20CSS/HTML/practice.htm"
+         }, {
+            "date_added": "13314187365631308",
+            "date_last_used": "0",
+            "guid": "68332eb8-6343-41ad-8bd0-2036e15ca20c",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "localhost / 127.0.0.1 | phpMyAdmin 5.2.0",
+            "type": "url",
+            "url": "http://localhost/phpmyadmin/"
+         }, {
+            "date_added": "13322414477818039",
+            "date_last_used": "0",
+            "guid": "cdc42f52-4280-464c-9cc3-08caae3df592",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[Official] 9Anime - Free Watch Anime Online with Sub, Dub",
+            "type": "url",
+            "url": "https://9anime.me/"
+         }, {
+            "date_added": "13326990582860652",
+            "date_last_used": "0",
+            "guid": "4c7681f6-2f79-4237-aceb-3d555275022b",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Index of /Scripting_Language",
+            "type": "url",
+            "url": "http://localhost/Scripting_Language/"
+         }, {
+            "date_added": "13327344600379029",
+            "date_last_used": "0",
+            "guid": "be3eca45-2dc7-4d75-9fce-b94f20354639",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "410 Technology HTML Templates",
+            "type": "url",
+            "url": "https://nicepage.com/c/technology-html-templates"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13350628959000000",
+                  "date_last_used": "0",
+                  "guid": "4e485607-873e-4185-b4c8-daedf5fb6a7d",
+                  "id": "25",
+                  "name": "Getting Started",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/firefox/?utm_medium=firefox-desktop&utm_source=bookmarks-toolbar&utm_campaign=new-users&utm_content=-global"
+               } ],
+               "date_added": "13354348018227175",
+               "date_last_used": "0",
+               "date_modified": "13354348018227175",
+               "guid": "9c3d2645-1aaf-42d3-a5a9-ffb113491392",
+               "id": "24",
+               "name": "toolbar",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13350628958000000",
+                  "date_last_used": "0",
+                  "guid": "fa4ea4e3-bae2-440b-9373-bf12941012c8",
+                  "id": "27",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13350628958000000",
+                  "date_last_used": "0",
+                  "guid": "7c218add-961f-4571-ab94-704414a1b315",
+                  "id": "28",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13350628958000000",
+                  "date_last_used": "0",
+                  "guid": "3ed9c45d-12d7-49df-937f-c5c0be0735e7",
+                  "id": "29",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13350628958000000",
+                  "date_last_used": "0",
+                  "guid": "ef1ca158-ab61-408e-b6ff-d0dbb564f7b1",
+                  "id": "30",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13354348018227680",
+               "date_last_used": "0",
+               "date_modified": "13354348018227680",
+               "guid": "dd2764bf-e26d-4a35-856d-a9e148a8b69d",
+               "id": "26",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            } ],
+            "date_added": "13354348018226787",
+            "date_last_used": "0",
+            "date_modified": "13354348018226787",
+            "guid": "16597ef4-0f06-42fc-93f2-56562aa39d3b",
+            "id": "23",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13354945359772872",
+         "date_last_used": "0",
+         "date_modified": "13327344600379029",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13354719341262767",
+            "date_last_used": "0",
+            "guid": "c7e1dc7a-47e2-4776-84ee-3ca8fd182096",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "XMonad Setup on Arch Linux - Install a Beautiful & Minimal WM/Desktop! - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=a8YJBGk8H4Q"
+         }, {
+            "date_added": "13354895879307299",
+            "date_last_used": "13354945468788623",
+            "guid": "f7b784c2-3ab2-47fc-aa5f-c3df6dd43d45",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - end-4/dots-hyprland: Modern, feature-rich and accessible desktop configuration.",
+            "type": "url",
+            "url": "https://github.com/end-4/dots-hyprland"
+         }, {
+            "date_added": "13354896209918608",
+            "date_last_used": "0",
+            "guid": "a25c94c8-f1a4-43f7-a8fa-44edba69ee1d",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - kotontrion/dotfiles: my personal dotfiles, use at your own risk",
+            "type": "url",
+            "url": "https://github.com/kotontrion/dotfiles/tree/main"
+         }, {
+            "date_added": "13354896234440479",
+            "date_last_used": "0",
+            "guid": "50a74fa8-9748-4330-8a83-95dff7e0c8fc",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[Hyprland] Loving my life's first ArchLinux rice : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/1b23sia/hyprland_loving_my_lifes_first_archlinux_rice/"
+         }, {
+            "date_added": "13354896518948617",
+            "date_last_used": "0",
+            "guid": "ec2df5e0-3e89-4fee-a7a9-9eda503c0f0c",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - lauroro/hyprland-dotfiles: My dotfiles for hyprland, a great wayland compositor",
+            "type": "url",
+            "url": "https://github.com/lauroro/hyprland-dotfiles?tab=readme-ov-file"
+         }, {
+            "date_added": "13354897391920133",
+            "date_last_used": "0",
+            "guid": "b3b3dac5-e7b3-4635-9675-98bc0eb2cf83",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - hyprland-community/awesome-hyprland: Awesome list for Hyprland [maintainer=@yavko]",
+            "type": "url",
+            "url": "https://github.com/hyprland-community/awesome-hyprland"
+         }, {
+            "date_added": "13354897761844233",
+            "date_last_used": "0",
+            "guid": "423f96e7-d4da-4aa7-8c24-c0de580f8211",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - JaKooLit/Arch-Hyprland: For automated installation of Hyprland on Arch on any arch based distros",
+            "type": "url",
+            "url": "https://github.com/JaKooLit/Arch-Hyprland"
+         } ],
+         "date_added": "13354945359772877",
+         "date_last_used": "0",
+         "date_modified": "13354897761844233",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13354945359772880",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCWoHqsLEEwYAEWoHqsLEEwYAKWjtq8LEEwYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgPxBvcQTBgARgPxBvcQTBgAppAWqwsQTBgAwgPmH6sv4hAMSACoYenZ2NkRsMkNhejVJMDhYc3NKTGI0UT09SAMS7AEIHhLnAQocdUtMcGwwbndHNFh1R3F3UUwvTktCT0V1RjZBPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPMklCRzNFZmt1VE53d2RUK3VqWHFSam1wMlc0Vk0zZTM5dStDMU5YNlVDSlZaTER2WW40NEVNajIyRWhET1ZCMUoxZUhKQT09GAAgACgAMKq1mL/y44QDOLSk1OPhMUC0pNTj4TFKHERhNXp0U0toS1crSjNpZkYxN2ZmTG9zWHpCdz1aHyIduTNjVzZmUEFGUUlEaWtVK3NyOEZYNGRTaDU4WT1lAAAAABLsAQgREucBChxhTTBYb0ltOXk5SFV4S25yRi8wcUVYYTdoOFE9EmZaOkFEcXRBWndPenZJa0RPTTJFblpMNUJEZlB3Uk8vYUVwRzdmRVF6NWdQT0E3YzJhWjNFNkVjRFZraWoyTlFtZFM2a0ZSMDYzZlJXbWdmOVcxckprbVJoWGxaUi9MRHRuaHBBPT0YACACKAIwwfb5k6T1hAM44MzZ88EwQIyFxIDkMUocdWxJQWdnQUhEOUhhMXp2bmNwTEl2RlZvYzVvPVofIh3/aldwbGFCN01DQm9Qd2Q1QkduL1AxeFMyQ1NVPWUgNFECEu0BCBMS6AEKHExPZ3hXRGU2c3E1QzZJdVg2MEo0V3AxRDBTbz0SZlo6QURxdEFad096dklrRE9NMkVuWkw1QkRmUHdST2ZHNmNxYi9vdXBuSVJETzBPaHR1cmFFeURDZzlGd2ZJQ1lIdVY2RWI0SmdheDFZM1NKQUNUdytXYmtqbHlKV1NrY1o3YkE9PRgAIAIoAjDB9vmTpPWEAzjKy8iVzDBAjIXEgOQxShxoZ1p1LzB3RXhBWlJ2T085Nk5IVnUrUnJPRHc9WiAiHv/abWF6cEVhNlhvTUpkNTlybGNBaHl0RE8ydTNRPWV3WKdcEuwBCBAS5wEKHDEydlNISTlzOE1NSUZRajdGT1RpbmdVR2ZpWT0SZlo6QURxdEFad096dklrRE9NMkVuWkw1QkRmUHdSTytFOVpwMjBQZEpFLytkRE1OREhabkpOcEEvS0E5bUZjNVFEMUZvcTFteEgyVnpzSmtlY0lUcWRVeFY4NHkxZ1h4UCttdEE9PRgAIAIoAjDB9vmTpPWEAzj5tMbzwTBAi4XEgOQxShxjWHhPbWw4YisyRm15NTNJNDhjSXdMR0lKSGc9Wh8iHf5UOWtNS1BXR2VHUUIzcEVXcWpqZTBoZVlZZ009ZbTtWSsS7QEIFBLoAQocSEpvTHFydGc2SUJvcmRPN05YYUhEaWUwN1lVPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPWlJOc0hhSDAwVm9nMlZTUFVwVDNDRWxScU00d1V5R2g0WkRSVWxwLzBORmtwdld0eUkxYkFKNHlYRG1DUVd6bk5IRW1uZz09GAAgAigCMMH2+ZOk9YQDOPvTx+jqMECNhcSA5DFKHHVXdndPS1IybjQwSzdzWE95TUF3K1VpNlJPQT1aICIe//tXcC9kWFlwY2VwMEN5dm9SYnRwdTRVRWtqSU09ZUoXtZUS7AEIGhLnAQocK3BhOU5IMlJTT3I5Zm42cVFIMHJxRlZnaStRPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPaGdoakoxMnFjYmg1TjZsbzc5WVFyR2JtODRmeWJUQ3BreW9NcVBXN0lCVTlUb0piTGpSRXNiSEFoZldVbWlxcUdDbnJHdz09GAAgACgAMKq1mL/y44QDOLOk1OPhMUCzpNTj4TFKHEIzNHZnOTQrNHgvbk9wdGthMkFIQ1Q0RVM5bz1aHyIdtDNEOEVFei90RVkrMnJESVNXWDFwVm5rWEF6OD1lAAAAABLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlwWU1SekZtM2xGN0VRVjZKZGJ0SWU3L2dYclVac3UwVmJPYThsUjJveTlVUU1NR0R0YU1MWENTZStYQW9NZnVYemdVV21DQUNBSDBuMUNhK0ZJY21qSHV2bCtnPT0YACAAKAAwk7L+kqT1hAM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLtAQgVEugBChxaT1kzd3MrUFdzaVZQL0xTNFBHSjZnaGdQRWM9EmZaOkFEcXRBWndPenZJa0RPTTJFblpMNUJEZlB3Uk93bUxJSnhaUmVReU9ydjJOM3JHN3JYUGJScVpva2syNEJtMm54YjQ0ZFhpQVRXWVBYMWQ1SlB2Q3hjWHlwQSsyK2JucjVnPT0YACACKAIwwfb5k6T1hAM43PjO7vswQI6FxIDkMUocVk01aWQ3Y1pnVmM4WWZ0S0JIanNSSFB0TGo0PVogIh7//UhFR0FQb0U3eVdvL1VSbTFVMHNLbDgxL2xpWT1l5qX7ohLtAQgWEugBChx0c2g4WHFLd3JqWmRoRC94ajlsaUhUV1dzNWs9EmZaOkFEcXRBWndPenZJa0RPTTJFblpMNUJEZlB3Uk80aTZKQkhGVzlHRFVvQzh3QTBNd1MzOVhSallkamg2bTQwU1VHREhQMTR2aHNINHdYUlNhUXFBdzRoVWJSQjRBYXZlTk13PT0YACAAKAAw3NnBgv/R/gI4y7q2l/0wQMu6tpf9MEocZ0JKNndKamxFMVpkT2FLeUlSS01nczlMb3dNPVogIh7//jBuOC9zb1FTUGNaeVhJcmVqY2JmU0lPRURlcz1ljzxYwxLrAQgYEuYBChxpcUZzV2U5aVF4TlJNTkJ2cFNZZnlua2wxcDA9EmZaOkFEcXRBWndPenZJa0RPTTJFblpMNUJEZlB3Uk9tRnoxWnhURm4wdzdYeTdGSUlHT1dqYldUWDNNZnpVcFN1TTF5YUl3eUdsRU9mSStJbDAwaWZSZlJINVdwK0FJV1R4anBBPT0YACAAKAAwqrWYv/LjhAM4s6TU4+ExQLOk1OPhMUocbTZtODd2SUJ5djIwZzU0NVFXVjBZQnZYd2trPVoeIhxpaTBMMVYwQ3BWTklCT0tUMUxpdGFYZGMxd0E9ZQAAAAAS7QEIEhLoAQocQm1RL2M2dEtZVU8vZjJwbVR0Tjl1cERDYnZNPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPSlAxS0dxbDJ2c2hZM1Y1TGNSeG1IUTU5eEpMREZ5WHgvMTViQVRLQWlORVM4VEdvT0dlY1dkT2x6NlVwY3kzekQwUTRKQT09GAAgACgAMLO1tpSM0/sCOKTHhJbMMECkx4SWzDBKHDVsbjkxUGlNZWtlTXhtVlZDQklHaURhMTBJVT1aICIe/8dvTjRHcktrclY2T210REl4VTE0Vk93V2xmaEk9ZQAAAAAS6wEIBhLmAQocaE05eGlqaEJqWCtPbzlRb2pGYTQvZUI2QlZNPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPNWNLVTlxVjI5ZXBORWxBM3dPbXRqMStxN1MvRWxCZjJJUXhyTEFJU2JEa09mWlo3ZDZhYW43Um80cEtjV0dhTmZXYmJGdz09GAAgACgAMNfngMTr84QDOIuJ8+jjMUCLifPo4zFKHG5sandPTlBVU2NBaHJlajdCRWp0NWJKOGdKTT1aHiIcSDZzQVZDZ0orWGM5RDZBc0xXQ0hvYm9CTVp3PWWTVEPCEuwBCA4S5wEKHFUrL2V3WmNTdEVMVFU5bjN3TWw4aWJiVUVLYz0SZlo6QURxdEFad096dklrRE9NMkVuWkw1QkRmUHdST1UvWTZVaU5ka2tFeXU4Njg5Rm9HN2trQ1BzRjgxQWl1QWNsaE9Bdjlmb3ZZTTBnZDltR0tRT0xHeWI2Y1ptUXcwR0dTK1E9PRgAIAIoAjDB9vmTpPWEAzj1oM2fsDBAhoXEgOQxShxFZldzT2F6RWZucEtsK2d0SnlUejlXWFE3Sjg9Wh8iHe9JWXV2UCt5UjlVUmMzcE84MVJJUEJyRmJmVlk9ZcXPkAES7AEIDRLnAQocZkY1QkZzanVRTFY1UHorZ1pZay8wS1F4clFRPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPSEFsbWpORFR5UisyRmtLQUZnMDFualZVVEh0d2ZiT0pNNVhBdCtFVlhXUGowTGxBcmc2QXhsT0hkbStIN0lVc3g0VU02Zz09GAAgAigCMMH2+ZOk9YQDOPSgzZ+wMECGhcSA5DFKHEowQ2JydWpvWHFWUGpPeE0vTU90MVNJUGRzbz1aHyIdvEl5eXUyS0ExenFqckJBb3lZR0dkdXdFU2JlYz1lOPk5MxLrAQgbEuYBChxmZ05XVk00SzlpSnpPZHVJbDJDQ2dnMUNTWDA9EmZaOkFEcXRBWndPenZJa0RPTTJFblpMNUJEZlB3Uk9TYmg5OWhpWERrOU9DVFJzaG5rT0MvOGtRNUlkZ0svcm0vN1NOb09PSGgxbkdEWFJKRGxIcDV5YmtBYVg4NEF5MTdTSG9nPT0YACAAKAAwqrWYv/LjhAM4s6TU4+ExQLOk1OPhMUocblAvam96OTdiYi9nMDJzQ2dvK2lGcXRLNzNnPVoeIhxLR0tCSStFaU00eWtGcGhjY2Q2Z1lRcTN5Ym89Zb7yqeoSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5TTJnL1g1cWw5WVdRVFNkR05yWUNJZkEzamdoUWJONjV4SEpqUFdoWGRTeVlOQ3ExM3lGQS9FOW9FSFlDVkRybEI1SlhnGAAgACgAMJOy/pKk9YQDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS6wEIDBLmAQocbnVWL2tyQytPb1JtN3ZGb29pQk5oOGdIWGZvPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPZlRPZ2IreDdCNTJIOERKbk9qeXpBLzhBNXJ5TXdFdjJ2VVVhOHUrNjJWNmdCWVVBcEhQS09RNjRMd2J4a0Z3MXVySEZTdz09GAAgAigCMMH2+ZOk9YQDOPSgzZ+wMECFhcSA5DFKHGx1SXJTcG9KMWp0TFh5SkJtNittU2pkTVFTND1aHiIceW0yaG1jSTIxRFlFd0M3OEpqdW05NWZEdHVVPWWbPYW2EusBCAUS5gEKHG1zUWhZWnV4WVpxL2piMmQrbG5zZjNMZDB5OD0SZlo6QURxdEFad096dklrRE9NMkVuWkw1QkRmUHdST0Y3TFJ2a1BjaXJSQ0xsRVNIaTBWSkEwcU5iTk43OHI3QjFKZnEwU3pONEpYTmFWY1R1SGsvU01tZDRmcHdLeWxwQTc2akE9PRgAIAAoADD2vd7i2e6EAzjRhdyU4zFA0YXclOMxShxQNkNHWnprMW9WNHY2K2RLOFhzaDkzM0ltclk9Wh4iHDUxNWt6a3IyN1dWZzlEMmtwWHZzSE5CdWd2cz1lOPk5MxLrAQgdEuYBChxlaFZHWTFXaFVucWFPR2JiYjdxMHpadWxhS2s9EmZaOkFEcXRBWndPenZJa0RPTTJFblpMNUJEZlB3Uk9hdjMzcm1oMVpHa3hLZHZvcm5Hd2FhVFNzcStMb01NZG05eXBoT1kvY3Vzc0pncWNNeXR6a0NZTUJJdXpiOURhQUdNaE9nPT0YACAAKAAwqrWYv/LjhAM4tKTU4+ExQLSk1OPhMUocQWVEWVYxK0NuMi9oMzQ0M05EQkhjS2JFbmM0PVoeIhxycmo1MmJvV3JaT3VSRjJTY01MOFNNYjh3Z2M9ZQAAAAAS7QEIFxLoAQocbE5Fd05vUkU4ZnlxVW9XV1prOWRpZi9GVUVZPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPbzNXalRxTFdpVVNQbW5mc242WjFzTFJwK3prV2c4Mjd2OXUxV3p5NDhWSC8yL05pbUYyWXRaRjlTTk9hMGpJbTNlbXpRUT09GAAgACgAMKq1mL/y44QDOLOk1OPhMUCzpNTj4TFKHEFYS2ZIOE5COUVXQlhQM3NkYVZZUWFTemJDaz1aICIe//9xRGp3dFc3MzBRVStaZmFEOUp1am1adjM2RTQ9ZQAAAAAS7AEICBLnAQocZ05NOWp3Mmd1R2JzcnI5NTZ4ZnJ4cGpGUTZZPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPNnIvV3BjUkdvU0hOb05KV2lYaDUzUVlwUjdWdFRxN3ozRDJwMCtSSTl3Ym9ybXI4UWtTdTFIVkZtVmk2SFE1ZnJyUlRpZz09GAAgACgAMJSJrO3s84QDOMnfiOnjMUDJ34jp4zFKHGdGS1VhZXVJRVI5SXpIMm53bEh6aVU5QWFlST1aHyId0jBoMHA3T0tRUW5HZEdOY0poeFRXZkx2REZ5bz1lwCv08BLrAQgZEuYBChxXaTYzeVREZnlFTzlOK1FQRDNPcjVjQjRXejg9EmZaOkFEcXRBWndPenZJa0RPTTJFblpMNUJEZlB3Uk9HUlJDSWEwcGZTY0VjVHRESWxkaHAyWThiT0k0amNvMnM3OUhPZVllMXZtczRkbG9LUHBxZ2tCbWh0dkFVREo3QzNMODRnPT0YACAAKAAwqrWYv/LjhAM4s6TU4+ExQLOk1OPhMUocV0pYa3ZndVNPKytmdHMyL3ZvZnhIY2w5YzVnPVoeIhxpN1dKSVdHZFFoYzJUa20zKzZVaG1RM2Z3NFE9Zb7yqeoS7AEIChLnAQocL2JjWGdFN21Fbnc0cy9OVXpOUTgyN2ZneWo0PRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPMGN3WXhZaHg5VXhSMjdyNVR2VWpaamtaKzVvNVhjYVNMdFU3NG5JbHpGd0lGZk50d0pWT0dKdlMwb1NVdzQwOEZUTktJdz09GAAgACgAMNTJopXx84QDOLCyz+njMUCwss/p4zFKHC9lVlVDSEY1QWR3TkZ2OFhxTC9sOEVyUUNJcz1aHyId9FI1alkrK3dmbVhZalN0dFRLb0d6cEdLYllqUT1lk1RDwhLsAQgPEucBChwwV0FFSkRVeEQwZ1lQM2FsakhFRVFuZTVFR2c9EmZaOkFEcXRBWndPenZJa0RPTTJFblpMNUJEZlB3Uk8vV3FEaWhGVHVkNEN0UFZXM0lqcWZYOFF4MDVrSUpzeEo5S3VqZ3huaWRXQkwxcDZza1ZjRXNrb2NNYU1VV2dYRjJUMGdRPT0YACACKAIwwfb5k6T1hAM459TP9LYwQIeFxIDkMUoceGtKbENuMVhvZkFLZGpqNU1vRi81dkVtcUJ3PVofIh39RWIrdFVtY1FNZnJ0bkpEdEtmVzh6Z3VackNnPWVKF7WVEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaekVXUk94Y2hxTklFUlA4TUNKb0VBbEo5VGlVanhIVWl4cWx3bVcySFExMmJsWktGL0ljK1dkeUsrUFQvUjdpa2s1Ynlna3NtNmNRY2xSZm9mM2hIVkVhS1RQVUE9PRgAIAAoADCTsv6SpPWEAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEuwBCAkS5wEKHEo5b2xMaU05aUc5VWg5eThqRXppRDEwZUlKOD0SZlo6QURxdEFad096dklrRE9NMkVuWkw1QkRmUHdST3orTDI2cGJJMU1XVkw0VkpRdmU0dVRScEJHc09rV2ErYzlVVHY1Nm1Uc2tndVIrV2RiMmZJTlBsQnJYR3hxVWdZcUVyK2c9PRgAIAAoADCt+//07fOEAziljprp4zFApY6a6eMxShxyRXJWRFl1Ymd5bG1vYm5FQWJ2SGlUalRlUjg9Wh8iHelaeVFtZThacm5zNW1Ba3ZtdUEwamlKT213N2s9ZZNUQ8IS6wEIHBLmAQocRSsrc2M0RUxMSG14cUZxc2FkSEtvbkRpUHpJPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPVEdiakpTZ0lJR1VrUmdCZU12N2ZaeXgxUVFnQkVoK0kwQ1ZhWUhZVmVmckNoK2tyN0lLN1k5Z0FWRHJZNFUyOHZxcWlxUT09GAAgACgAMKq1mL/y44QDOLSk1OPhMUC0pNTj4TFKHGgyUjQwNzJtdUJGZi9IVHBRVlRlRjArY3NSOD1aHiIcVHgvZG02OElCaEJQZFVYNUR2UnZMWW45bFhVPWW+8qnqEuwBCAcS5wEKHGxHMmU0SnpkK2M2TjB0WVlGWVI5TnA5d01rQT0SZlo6QURxdEFad096dklrRE9NMkVuWkw1QkRmUHdST3dxUVYrL2Q3TUxpRTFxRVRGb1dUemYzWGNBcEpQT243K0pjdUFQV2dqNlV5bzFJUW1GRnBaR1FwN1pOQlpKMkFQeGc5bnc9PRgAIAAoADDOo93h7POEAzj+n4fp4zFA/p+H6eMxShw1Rk5EU3NzV1Jkbk9vVnZLYndFekFOTmhiYzQ9Wh8iHaQvd3loRWNxUW4wSno5NGVqUjg2MXgvdVZBVlk9ZZNUQ8IS7AEICxLnAQocV0plY0xEam5pb1VyRWFURkM0SHRQNkVhY1BzPRJmWjpBRHF0QVp3T3p2SWtET00yRW5aTDVCRGZQd1JPWUFBVTE4b09QaEk5eEZjeXNBajY5QUFSVGgwaDN0MFBYMlFhRGhiTFllN3ovOGk2NFNCQW81c2VBM2ZGS21DMGxDelVLUT09GAAgACgAMMjQ1cXy84QDOLT85enjMUC0/OXp4zFKHE1XUjRJWlROVDFGQ2xvWjdJTzhJbjBEMml5QT1aHyId+nJmYUZIai9RY1dSTnJ4RlgvckpwZklJOUhEYz1lk1RDwjABOAA=",
+   "version": 1
+}

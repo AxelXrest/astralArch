@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Aktivoida"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "tai Aktivoi lisenssi"
+   },
+   "activeTabDesc": {
+      "message": "Napsauta laajennuskuvaketta löytääksesi aktiivisen Meet-välilehden"
+   },
+   "activeTabLabel": {
+      "message": "Etsi Active Meet -välilehti"
+   },
+   "alwaysShowLabel": {
+      "message": "Näytä aina osallistujien nimet"
+   },
+   "attendanceDesc": {
+      "message": "Tallenna kokouksen osallistuminen ja vie CSV-tiedostoon"
+   },
+   "attendanceLabel": {
+      "message": "Ota läsnäolo"
+   },
+   "autoAdmitDesc": {
+      "message": "Hyväksyy automaattisesti uudet osallistujat Meetiin"
+   },
+   "autoAdmitLabel": {
+      "message": "Uusien osallistujien automaattinen hyväksyminen"
+   },
+   "autoFullScreenDesc": {
+      "message": "Siirry automaattisesti koko näytölle, kun joku esittää"
+   },
+   "autoFullScreenLabel": {
+      "message": "Automaattinen koko näyttö"
+   },
+   "autoJoinDesc": {
+      "message": "Liity kokoukseen automaattisesti"
+   },
+   "autoJoinDescOption": {
+      "message": "Liity kokoukseen vain osallistujien läsnä ollessa"
+   },
+   "autoJoinLabel": {
+      "message": "Automaattinen liittyminen"
+   },
+   "autoMinimizeDesc": {
+      "message": "Pienennä videosi automaattisesti, kun liityt kokoukseen"
+   },
+   "autoMinimizeLabel": {
+      "message": "Pienennä video automaattisesti"
+   },
+   "autoMuteDesc": {
+      "message": "Mikrofonin automaattinen mykistys liittyessä"
+   },
+   "autoMuteLabel": {
+      "message": "Automaattinen mykistys"
+   },
+   "autoRecordDesc": {
+      "message": "Aloita Meetin tallennus automaattisesti (edellyttää Google Workspacea)"
+   },
+   "autoRecordDescOne": {
+      "message": "Aloita tallennus automaattisesti"
+   },
+   "autoRecordDescThree": {
+      "message": "Aloita transkriptio automaattisesti"
+   },
+   "autoRecordDescTwo": {
+      "message": "Aloita tallennus manuaalisesti"
+   },
+   "autoRecordLabel": {
+      "message": "Auto Record"
+   },
+   "autoRejectDesc": {
+      "message": "Kielletään automaattisesti uudet osallistujat Meetiin"
+   },
+   "autoRejectLabel": {
+      "message": "Automaattinen uusien tulokkaiden kieltäminen"
+   },
+   "autoUnmuteDesc": {
+      "message": "Estä muita mykistämästä mikrofoniasi"
+   },
+   "autoUnmuteLabel": {
+      "message": "Automaattinen mykistyksen poisto"
+   },
+   "autoVideoDesc": {
+      "message": "Aseta video kytkeytymään pois päältä"
+   },
+   "autoVideoLabel": {
+      "message": "Automaattinen videopois"
+   },
+   "basicFeatures": {
+      "message": "Perusominaisuudet"
+   },
+   "bgColorDesc": {
+      "message": "Aseta mukautettu taustaväri Meetissä"
+   },
+   "bgColorLabel": {
+      "message": "Aseta taustaväri"
+   },
+   "captionsDesc": {
+      "message": "Ota tekstitykset automaattisesti käyttöön"
+   },
+   "captionsLabel": {
+      "message": "Automaattiset tekstitykset"
+   },
+   "chimesDesc": {
+      "message": "Kuulet aina äänimerkin, kun osallistujat liittyvät ja lähtevät, tai a kun uusi chat-viesti vastaanotetaan"
+   },
+   "chimesLabel": {
+      "message": "Soita aina kelloja"
+   },
+   "copyUrlDesc": {
+      "message": "Kopioi Meetin URL-osoite automaattisesti leikepöydälle"
+   },
+   "copyUrlLabel": {
+      "message": "Kopioi Meetin URL-osoite automaattisesti"
+   },
+   "darkModeDesc": {
+      "message": "Tekee Google Meetistä tumman tilan"
+   },
+   "darkModeLabel": {
+      "message": "Tumma tila"
+   },
+   "desktopApp": {
+      "message": "työpöytäsovellus"
+   },
+   "desktopDesc": {
+      "message": "Avaa kaikki Google Cal -linkit"
+   },
+   "desktopLabel": {
+      "message": "Avaa Meet-linkit työpöytäsovelluksessa"
+   },
+   "displayClockDesc": {
+      "message": "Näytä kello, vaikka se ei olisi koko näytön tilassa"
+   },
+   "displayClockLabel": {
+      "message": "Näytä kello"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Piilota kommentti-ilmoituskupla"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Piilota kommentit ja käyttäjien liittymisponnahdusikkunat"
+   },
+   "doNotDisturbDesc": {
+      "message": "Piilota uusi kommentti"
+   },
+   "doNotDisturbLabel": {
+      "message": "Älä häiritse"
+   },
+   "emojiToolTipDesc": {
+      "message": "Tämä ominaisuus on oletuksena käytössä, ja voit käyttää sitä Google Meetin chat-ikkunasta"
+   },
+   "extDesc": {
+      "message": "40 uutta ominaisuutta Google Meetille, kuten mykistä kaikki, poista kaikki, automaattinen hyväksyntä, hymiöt, peilivideot, taustaväri ja pikayhteys!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "Tämä ominaisuus on oletuksena käytössä, ja voit käyttää sitä Google Meetin osallistujavalikosta"
+   },
+   "hideAddOthersDesc": {
+      "message": "Piilottaa Lisää muita -ponnahdusikkunan, kun liityt Meetiin"
+   },
+   "hideAddOthersLabel": {
+      "message": "Piilota Lisää muita -ponnahdusikkuna"
+   },
+   "hidePartNames": {
+      "message": "Piilota osallistujien nimet"
+   },
+   "hideSpeakingIcons": {
+      "message": "Piilota osallistujien puhekuvakkeet"
+   },
+   "hideTopBarDesc": {
+      "message": "Piilota yläpalkki, kun alapalkki katoaa"
+   },
+   "hideTopBarLabel": {
+      "message": "Piilota yläpalkki automaattisesti"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Piilota äärettömän peilin hälytys automaattisesti esityksen aikana"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Automaattinen Ohita esityksen peittokuva"
+   },
+   "leaveConfirmDesc": {
+      "message": "Pyydä vahvistusta, kun lähdet kokouksesta"
+   },
+   "leaveConfirmLabel": {
+      "message": "Jätä vahvistus"
+   },
+   "meetProButtonLabel": {
+      "message": "Aloita 7 päivän ilmainen kokeilu"
+   },
+   "meetProSectionDesc": {
+      "message": "Päivittämällä Meet Prohon saat käyttöösi yli 25 uutta ominaisuutta, jotka vievät Google Meetin uudelle tasolle."
+   },
+   "meetProSectionLabel": {
+      "message": "Hanki Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Säädä Meetin äänenvoimakkuutta"
+   },
+   "meetVolumeLabel": {
+      "message": "Säädä Meetin äänenvoimakkuutta"
+   },
+   "mirrorVideosDesc": {
+      "message": "Peilaa kaikki Meetin videot"
+   },
+   "mirrorVideosLabel": {
+      "message": "Peilivideot"
+   },
+   "muchMore": {
+      "message": "Paljon lisää tulossa!"
+   },
+   "muteAllDesc": {
+      "message": "Mykistä kaikki osallistujat osallistujavalikon kautta"
+   },
+   "muteAllLabel": {
+      "message": "Mykistä kaikki"
+   },
+   "mutePopupDesc": {
+      "message": "Piilottaa &#39;Puhutko sinä?&#39; ponnahdusikkuna mykistettynä"
+   },
+   "mutePopupLabel": {
+      "message": "Piilota Mykistä ponnahdusikkuna"
+   },
+   "partVidStyleLabel": {
+      "message": "Osallistujan videotyyli"
+   },
+   "pinBarDesc": {
+      "message": "Kiinnittää ohjauspalkin näytön alareunaan"
+   },
+   "pinBarLabel": {
+      "message": "Pin Bottom Bar"
+   },
+   "pinChatDesc": {
+      "message": "Kiinnittää automaattisesti chat-näkymän liittyessään Meetiin"
+   },
+   "pinChatLabel": {
+      "message": "Kiinnitä chat automaattisesti"
+   },
+   "pipDesc": {
+      "message": "Katso osallistujien video kuva kuvassa"
+   },
+   "pipLabel": {
+      "message": "Kuva kuvassa"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Pro-ominaisuudet"
+   },
+   "pttDesc": {
+      "message": "Poista mykistys pitämällä pikanäppäintä painettuna"
+   },
+   "pttLabel": {
+      "message": "Paina puhuaksesi"
+   },
+   "pttUpgrade": {
+      "message": "Päivitä Pro-versioon määrittääksesi oman avaimensidon"
+   },
+   "quickEmojiDesc": {
+      "message": "Lisää nopeat emoji-pikakuvakkeet chat-ikkunaan"
+   },
+   "quickEmojiLabel": {
+      "message": "Nopeat emojireaktiot"
+   },
+   "quickLeaveDesc": {
+      "message": "Käytä pikanäppäintä poistuaksesi puhelusta"
+   },
+   "quickLeaveLabel": {
+      "message": "Pikalähtö"
+   },
+   "removeAllDesc": {
+      "message": "Poista kaikki osallistujat osallistujavalikon kautta"
+   },
+   "removeAllLabel": {
+      "message": "Poista kaikki"
+   },
+   "returnHomeDesc": {
+      "message": "Palaa Meetin aloitusnäyttöön poistuttuaan Meetistä"
+   },
+   "returnHomeLabel": {
+      "message": "Palaa aloitusnäyttöön puhelun päätyttyä"
+   },
+   "seeFeatures": {
+      "message": "nähdäksesi kaikki suunnittelemamme ominaisuudet"
+   },
+   "sortParticipantsDesc": {
+      "message": "Lisää osallistujaluetteloon kytkimen lajitellaksesi sukunimen mukaan"
+   },
+   "sortParticipantsLabel": {
+      "message": "Lajittele osallistujaluettelo"
+   },
+   "speakerBorderDesc": {
+      "message": "Lisää reunuksen puhuvien osallistujien ympärille"
+   },
+   "speakerBorderLabel": {
+      "message": "Kaiuttimen korostus"
+   },
+   "startMeet": {
+      "message": "Aloita tapaaminen"
+   },
+   "timerDesc": {
+      "message": "Näyttää kokousajastimen alavälilehtipalkissa"
+   },
+   "timerLabel": {
+      "message": "Kokouksen ajastin"
+   },
+   "title": {
+      "message": "Tutustu Enhancement Suiteen"
+   },
+   "toggleBarDesc": {
+      "message": "Ota alaspäin ohjauspalkki näkyviin"
+   },
+   "toggleBarLabel": {
+      "message": "Vaihda alapalkki"
+   },
+   "transBarDesc": {
+      "message": "Tee alapalkista läpinäkyvä"
+   },
+   "transBarLabel": {
+      "message": "Läpinäkyvä palkki"
+   },
+   "viewRoadmap": {
+      "message": "Katso tiekarttamme"
+   }
+}

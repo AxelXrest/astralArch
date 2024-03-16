@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "સક્રિય કરો"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "અથવા લાયસન્સ સક્રિય કરો"
+   },
+   "activeTabDesc": {
+      "message": "સક્રિય મીટ ટેબ શોધવા માટે એક્સ્ટેંશન આઇકન પર ક્લિક કરો"
+   },
+   "activeTabLabel": {
+      "message": "સક્રિય મીટ ટેબ શોધો"
+   },
+   "alwaysShowLabel": {
+      "message": "હંમેશા સહભાગીઓના નામ બતાવો"
+   },
+   "attendanceDesc": {
+      "message": "મીટની હાજરી કેપ્ચર કરો અને CSV માં નિકાસ કરો"
+   },
+   "attendanceLabel": {
+      "message": "હાજરી આપો"
+   },
+   "autoAdmitDesc": {
+      "message": "મીટમાં નવા પ્રવેશકર્તાઓને આપમેળે પ્રવેશ આપે છે"
+   },
+   "autoAdmitLabel": {
+      "message": "નવા પ્રવેશકર્તાઓને સ્વતઃ પ્રવેશ આપો"
+   },
+   "autoFullScreenDesc": {
+      "message": "જ્યારે કોઈ પ્રસ્તુત કરે છે ત્યારે સ્વતઃ પૂર્ણ સ્ક્રીન પર જાઓ"
+   },
+   "autoFullScreenLabel": {
+      "message": "સ્વતઃ પૂર્ણ સ્ક્રીન"
+   },
+   "autoJoinDesc": {
+      "message": "મીટિંગમાં આપમેળે જોડાઓ"
+   },
+   "autoJoinDescOption": {
+      "message": "જ્યારે સહભાગીઓ હાજર હોય ત્યારે જ મીટિંગમાં જોડાઓ"
+   },
+   "autoJoinLabel": {
+      "message": "સ્વતઃ જોડાઓ"
+   },
+   "autoMinimizeDesc": {
+      "message": "જ્યારે તમે મીટિંગમાં જોડાશો ત્યારે તમારા વીડિયોને ઓટો-મિનિમાઇઝ કરો"
+   },
+   "autoMinimizeLabel": {
+      "message": "વિડિઓ સ્વતઃ-નાની કરો"
+   },
+   "autoMuteDesc": {
+      "message": "જોડાવા પર માઇક્રોફોનને સ્વતઃ મ્યૂટ કરો"
+   },
+   "autoMuteLabel": {
+      "message": "ઓટો મ્યૂટ"
+   },
+   "autoRecordDesc": {
+      "message": "Meetને ઑટોમૅટિક રીતે રેકોર્ડ કરવાનું શરૂ કરો (Google Workspace જરૂરી)"
+   },
+   "autoRecordDescOne": {
+      "message": "આપમેળે રેકોર્ડિંગ શરૂ કરો"
+   },
+   "autoRecordDescThree": {
+      "message": "આપમેળે ટ્રાન્સક્રિપ્શન શરૂ કરો"
+   },
+   "autoRecordDescTwo": {
+      "message": "મેન્યુઅલી રેકોર્ડિંગ શરૂ કરો"
+   },
+   "autoRecordLabel": {
+      "message": "ઓટો રેકોર્ડ"
+   },
+   "autoRejectDesc": {
+      "message": "મીટમાં નવા પ્રવેશકર્તાઓને આપમેળે નકારે છે"
+   },
+   "autoRejectLabel": {
+      "message": "નવા પ્રવેશકર્તાઓને સ્વતઃ નામંજૂર કરો"
+   },
+   "autoUnmuteDesc": {
+      "message": "અન્ય લોકોને તમારું માઈક મ્યૂટ કરવાથી રોકો"
+   },
+   "autoUnmuteLabel": {
+      "message": "સ્વતઃ અનમ્યૂટ"
+   },
+   "autoVideoDesc": {
+      "message": "જોડાવા પર બંધ કરવા માટે વિડિઓ સેટ કરો"
+   },
+   "autoVideoLabel": {
+      "message": "ઓટો વિડિઓ બંધ"
+   },
+   "basicFeatures": {
+      "message": "મૂળભૂત લક્ષણો"
+   },
+   "bgColorDesc": {
+      "message": "Meetમાં કસ્ટમ બૅકગ્રાઉન્ડ કલર સેટ કરો"
+   },
+   "bgColorLabel": {
+      "message": "પૃષ્ઠભૂમિ રંગ સેટ કરો"
+   },
+   "captionsDesc": {
+      "message": "કૅપ્શન ઑટો ચાલુ કરો"
+   },
+   "captionsLabel": {
+      "message": "ઓટો કૅપ્શન્સ"
+   },
+   "chimesDesc": {
+      "message": "જ્યારે સહભાગીઓ જોડાય અને છોડે, અથવા જ્યારે નવો ચેટ સંદેશ પ્રાપ્ત થાય ત્યારે હંમેશા ઘંટડીના અવાજો સાંભળો"
+   },
+   "chimesLabel": {
+      "message": "હંમેશા ચાઇમ્સ વગાડો"
+   },
+   "copyUrlDesc": {
+      "message": "Meet URL ને ક્લિપબોર્ડ પર ઑટોમૅટિક રીતે કૉપિ કરો"
+   },
+   "copyUrlLabel": {
+      "message": "Meet URL ઑટો કૉપિ કરો"
+   },
+   "darkModeDesc": {
+      "message": "Google મીટને ડાર્ક મોડ બનાવે છે"
+   },
+   "darkModeLabel": {
+      "message": "ડાર્ક મોડ"
+   },
+   "desktopApp": {
+      "message": "ડેસ્કટોપ એપ્લિકેશન"
+   },
+   "desktopDesc": {
+      "message": "માં બધી Google Cal લિંક્સ ખોલો"
+   },
+   "desktopLabel": {
+      "message": "ડેસ્કટૉપ ઍપમાં Meet લિંક ખોલો"
+   },
+   "displayClockDesc": {
+      "message": "પૂર્ણસ્ક્રીનમાં ન હોય ત્યારે પણ ઘડિયાળ પ્રદર્શિત કરો"
+   },
+   "displayClockLabel": {
+      "message": "ડિસ્પ્લે ઘડિયાળ"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "ટિપ્પણી સૂચના બબલ છુપાવો"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "ટિપ્પણીઓ છુપાવો અને વપરાશકર્તા પોપ-અપ્સમાં જોડાઓ"
+   },
+   "doNotDisturbDesc": {
+      "message": "નવી ટિપ્પણી છુપાવો"
+   },
+   "doNotDisturbLabel": {
+      "message": "પરેશાન ના કરો"
+   },
+   "emojiToolTipDesc": {
+      "message": "આ સુવિધા ડિફૉલ્ટ રૂપે ચાલુ છે અને તમે તેને Google મીટમાં ચેટ વિંડોમાંથી ઍક્સેસ કરી શકો છો"
+   },
+   "extDesc": {
+      "message": "Google મીટ માટે 40 નવી સુવિધાઓ જેમ કે બધાને મ્યૂટ કરો, બધાને દૂર કરો, ઓટો એડમિટ કરો, ઇમોજીસ, મિરર વીડિયો, બેકગ્રાઉન્ડ કલર અને પુશ ટુ ટોક!"
+   },
+   "extName": {
+      "message": "Google Meet એન્હાન્સમેન્ટ સ્યુટ"
+   },
+   "generalToolTipDesc": {
+      "message": "આ સુવિધા ડિફૉલ્ટ રૂપે ચાલુ છે અને તમે તેને Google મીટમાં સહભાગીઓના મેનૂમાંથી ઍક્સેસ કરી શકો છો"
+   },
+   "hideAddOthersDesc": {
+      "message": "મીટમાં જોડાતી વખતે &#39;અન્ય ઉમેરો&#39; પોપ-અપ છુપાવે છે"
+   },
+   "hideAddOthersLabel": {
+      "message": "&#39;અન્ય ઉમેરો&#39; પોપ-અપ છુપાવો"
+   },
+   "hidePartNames": {
+      "message": "સહભાગીઓના નામ છુપાવો"
+   },
+   "hideSpeakingIcons": {
+      "message": "સહભાગી બોલતા ચિહ્નો છુપાવો"
+   },
+   "hideTopBarDesc": {
+      "message": "જ્યારે નીચેનો પટ્ટી અદૃશ્ય થઈ જાય ત્યારે ટોચની પટ્ટી છુપાવો"
+   },
+   "hideTopBarLabel": {
+      "message": "ઓટો હાઇડ ટોપ બાર"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "પ્રસ્તુત કરતી વખતે સ્વતઃ છુપાવો `અનંત મિરર&#39; ચેતવણી"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "પ્રસ્તુતિ ઓવરલેને સ્વતઃ અવગણો"
+   },
+   "leaveConfirmDesc": {
+      "message": "જ્યારે તમે મીટિંગ છોડો ત્યારે પુષ્ટિ કરવા માટે કહો"
+   },
+   "leaveConfirmLabel": {
+      "message": "પુષ્ટિ છોડો"
+   },
+   "meetProButtonLabel": {
+      "message": "7-દિવસની મફત અજમાયશ શરૂ કરો"
+   },
+   "meetProSectionDesc": {
+      "message": "Meet Pro પર અપગ્રેડ કરવાથી તમને 25 થી વધુ નવી સુવિધાઓનો ઍક્સેસ મળે છે જે Google Meet ને આગલા સ્તર પર લઈ જાય છે."
+   },
+   "meetProSectionLabel": {
+      "message": "Meet Pro મેળવો"
+   },
+   "meetVolumeDesc": {
+      "message": "મીટનું વોલ્યુમ લેવલ એડજસ્ટ કરો"
+   },
+   "meetVolumeLabel": {
+      "message": "Meet વૉલ્યૂમ એડજસ્ટ કરો"
+   },
+   "mirrorVideosDesc": {
+      "message": "મીટમાંના તમામ વીડિયોને પ્રતિબિંબિત કરો"
+   },
+   "mirrorVideosLabel": {
+      "message": "મિરર વિડિઓઝ"
+   },
+   "muchMore": {
+      "message": "ઘણું બધું આવવાનું છે!"
+   },
+   "muteAllDesc": {
+      "message": "સહભાગીઓ મેનૂ દ્વારા બધા સહભાગીઓને મ્યૂટ કરો"
+   },
+   "muteAllLabel": {
+      "message": "બધાને મ્યૂટ કરો"
+   },
+   "mutePopupDesc": {
+      "message": "છુપાવે છે &#39;તમે બોલો છો?&#39; જ્યારે મ્યૂટ કરો ત્યારે પોપઅપ કરો"
+   },
+   "mutePopupLabel": {
+      "message": "મ્યૂટ પોપઅપ છુપાવો"
+   },
+   "partVidStyleLabel": {
+      "message": "સહભાગી વિડિઓ શૈલી"
+   },
+   "pinBarDesc": {
+      "message": "કંટ્રોલ બારને સ્ક્રીનના તળિયે પિન કરે છે"
+   },
+   "pinBarLabel": {
+      "message": "પિન બોટમ બાર"
+   },
+   "pinChatDesc": {
+      "message": "Meetમાં જોડાઓ ત્યારે ચૅટ વ્યૂને ઑટોમૅટિક રીતે પિન કરો"
+   },
+   "pinChatLabel": {
+      "message": "ચેટને ઓટો-પિન કરો"
+   },
+   "pipDesc": {
+      "message": "ચિત્ર-માં-ચિત્રમાં સહભાગીઓનો વિડિયો જુઓ"
+   },
+   "pipLabel": {
+      "message": "ચિત્ર-માં-ચિત્ર"
+   },
+   "proFeaturesSubHeading": {
+      "message": "પ્રો ફીચર્સ"
+   },
+   "pttDesc": {
+      "message": "અનમ્યૂટ કરવા માટે હોટકી પકડી રાખો"
+   },
+   "pttLabel": {
+      "message": "વાત કરવા માટે દબાણ કરો"
+   },
+   "pttUpgrade": {
+      "message": "તમારી પોતાની કી બંધનકર્તા સેટ કરવા માટે પ્રો પર અપગ્રેડ કરો"
+   },
+   "quickEmojiDesc": {
+      "message": "ચેટ વિન્ડોમાં ઝડપી ઇમોજી શૉર્ટકટ્સ ઉમેરે છે"
+   },
+   "quickEmojiLabel": {
+      "message": "ઝડપી ઇમોજી પ્રતિક્રિયાઓ"
+   },
+   "quickLeaveDesc": {
+      "message": "કૉલ છોડવા માટે હોટકીનો ઉપયોગ કરો"
+   },
+   "quickLeaveLabel": {
+      "message": "ઝડપી રજા"
+   },
+   "removeAllDesc": {
+      "message": "સહભાગીઓ મેનૂ દ્વારા બધા સહભાગીઓને દૂર કરો"
+   },
+   "removeAllLabel": {
+      "message": "બધા દૂર કરો"
+   },
+   "returnHomeDesc": {
+      "message": "Meet છોડ્યા પછી Meet હોમ સ્ક્રીન પર પાછા ફરે છે"
+   },
+   "returnHomeLabel": {
+      "message": "હેંગઅપ પર હોમ સ્ક્રીન પર પાછા ફરો"
+   },
+   "seeFeatures": {
+      "message": "અમે આયોજન કરેલ તમામ સુવિધાઓ જોવા માટે"
+   },
+   "sortParticipantsDesc": {
+      "message": "છેલ્લું નામ દ્વારા સૉર્ટ કરવા માટે સહભાગીઓની સૂચિમાં ટૉગલ ઉમેરે છે"
+   },
+   "sortParticipantsLabel": {
+      "message": "સહભાગીઓની સૂચિને સૉર્ટ કરો"
+   },
+   "speakerBorderDesc": {
+      "message": "બોલતા સહભાગીઓની આસપાસ એક કિનારી ઉમેરે છે"
+   },
+   "speakerBorderLabel": {
+      "message": "સ્પીકર હાઇલાઇટ"
+   },
+   "startMeet": {
+      "message": "મીટ શરૂ કરો"
+   },
+   "timerDesc": {
+      "message": "નીચેના ટેબ બારમાં મીટિંગ ટાઈમર દર્શાવે છે"
+   },
+   "timerLabel": {
+      "message": "મીટિંગ ટાઈમર"
+   },
+   "title": {
+      "message": "એન્હાન્સમેન્ટ સ્યુટને મળો"
+   },
+   "toggleBarDesc": {
+      "message": "દેખાવા માટે નીચેના કંટ્રોલ બારને ટૉગલ કરો"
+   },
+   "toggleBarLabel": {
+      "message": "બોટમ બારને ટૉગલ કરો"
+   },
+   "transBarDesc": {
+      "message": "નીચેની પટ્ટીને પારદર્શક બનાવો"
+   },
+   "transBarLabel": {
+      "message": "પારદર્શક બાર"
+   },
+   "viewRoadmap": {
+      "message": "અમારો રોડમેપ જુઓ"
+   }
+}

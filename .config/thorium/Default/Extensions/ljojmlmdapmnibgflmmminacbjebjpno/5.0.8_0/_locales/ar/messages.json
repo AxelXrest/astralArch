@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "تفعيل"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "أو تفعيل الترخيص"
+   },
+   "activeTabDesc": {
+      "message": "انقر على رمز الامتداد للعثور على علامة تبويب Meet النشطة"
+   },
+   "activeTabLabel": {
+      "message": "ابحث عن علامة تبويب الاجتماع النشط"
+   },
+   "alwaysShowLabel": {
+      "message": "اعرض دائمًا أسماء المشاركين"
+   },
+   "attendanceDesc": {
+      "message": "تسجيل حضور الاجتماع والتصدير إلى ملف CSV"
+   },
+   "attendanceLabel": {
+      "message": "خذ الحضور"
+   },
+   "autoAdmitDesc": {
+      "message": "يسمح تلقائيًا للوافدين الجدد إلى تطبيق Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "الدخول التلقائي للوافدين الجدد"
+   },
+   "autoFullScreenDesc": {
+      "message": "الانتقال التلقائي إلى وضع ملء الشاشة عندما يقوم أحد الأشخاص بالتقديم"
+   },
+   "autoFullScreenLabel": {
+      "message": "ملء الشاشة تلقائيًا"
+   },
+   "autoJoinDesc": {
+      "message": "انضم إلى الاجتماع تلقائيًا"
+   },
+   "autoJoinDescOption": {
+      "message": "الانضمام إلى الاجتماع فقط عندما يكون المشاركون حاضرين"
+   },
+   "autoJoinLabel": {
+      "message": "الانضمام التلقائي"
+   },
+   "autoMinimizeDesc": {
+      "message": "صغّر الفيديو تلقائيًا عند الانضمام إلى لقاء"
+   },
+   "autoMinimizeLabel": {
+      "message": "تصغير الفيديو تلقائيًا"
+   },
+   "autoMuteDesc": {
+      "message": "الميكروفون التلقائي كتم الصوت عند الانضمام"
+   },
+   "autoMuteLabel": {
+      "message": "كتم تلقائي"
+   },
+   "autoRecordDesc": {
+      "message": "بدء تسجيل Meet تلقائيًا (مطلوب مساحة عمل Google)"
+   },
+   "autoRecordDescOne": {
+      "message": "ابدأ التسجيل تلقائيًا"
+   },
+   "autoRecordDescThree": {
+      "message": "ابدأ النسخ تلقائيًا"
+   },
+   "autoRecordDescTwo": {
+      "message": "ابدأ التسجيل يدويًا"
+   },
+   "autoRecordLabel": {
+      "message": "التسجيل التلقائي"
+   },
+   "autoRejectDesc": {
+      "message": "يرفض تلقائيًا الوافدين الجدد إلى Meet"
+   },
+   "autoRejectLabel": {
+      "message": "الرفض التلقائي للوافدين الجدد"
+   },
+   "autoUnmuteDesc": {
+      "message": "منع الآخرين من كتم صوت الميكروفون الخاص بك"
+   },
+   "autoUnmuteLabel": {
+      "message": "إعادة الصوت تلقائيًا"
+   },
+   "autoVideoDesc": {
+      "message": "تعيين الفيديو لإيقاف تشغيل الانضمام"
+   },
+   "autoVideoLabel": {
+      "message": "إيقاف تشغيل الفيديو تلقائيًا"
+   },
+   "basicFeatures": {
+      "message": "الميزات الأساسية"
+   },
+   "bgColorDesc": {
+      "message": "عيِّن لون الخلفية المخصص في Meet"
+   },
+   "bgColorLabel": {
+      "message": "تعيين لون الخلفية"
+   },
+   "captionsDesc": {
+      "message": "تشغيل تلقائي للتعليقات التوضيحية"
+   },
+   "captionsLabel": {
+      "message": "تسميات توضيحية تلقائية"
+   },
+   "chimesDesc": {
+      "message": "استمع دائمًا إلى أصوات الرنين عند انضمام المشاركين ومغادرتهم ، أو عند تلقي رسالة دردشة جديدة"
+   },
+   "chimesLabel": {
+      "message": "دائما العب الأجراس"
+   },
+   "copyUrlDesc": {
+      "message": "انسخ عنوان URL لتطبيق Meet إلى الحافظة تلقائيًا"
+   },
+   "copyUrlLabel": {
+      "message": "النسخ التلقائي لـ Meet URL"
+   },
+   "darkModeDesc": {
+      "message": "يجعل Google Meet الوضع المظلم"
+   },
+   "darkModeLabel": {
+      "message": "الوضع الداكن"
+   },
+   "desktopApp": {
+      "message": "التطبيق سطح المكتب"
+   },
+   "desktopDesc": {
+      "message": "اجعل جميع روابط Google Cal مفتوحة في ملف"
+   },
+   "desktopLabel": {
+      "message": "افتح روابط Meet في تطبيق سطح المكتب"
+   },
+   "displayClockDesc": {
+      "message": "اعرض الساعة حتى عندما لا تكون في وضع ملء الشاشة"
+   },
+   "displayClockLabel": {
+      "message": "عرض الساعة"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "إخفاء فقاعة إعلام التعليق"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "إخفاء التعليقات والانضمام إلى النوافذ المنبثقة"
+   },
+   "doNotDisturbDesc": {
+      "message": "إخفاء التعليق الجديد"
+   },
+   "doNotDisturbLabel": {
+      "message": "لا تخل"
+   },
+   "emojiToolTipDesc": {
+      "message": "هذه الميزة قيد التشغيل افتراضيًا ويمكنك الوصول إليها من نافذة الدردشة في Google Meet"
+   },
+   "extDesc": {
+      "message": "40 ميزة جديدة لـ Google Meet مثل كتم صوت الكل وإزالة الكل والاعتراف التلقائي والرموز التعبيرية ومقاطع الفيديو المرآة ولون الخلفية والضغط والتحدث!"
+   },
+   "extName": {
+      "message": "مجموعة تحسين Google Meet"
+   },
+   "generalToolTipDesc": {
+      "message": "هذه الميزة قيد التشغيل افتراضيًا ويمكنك الوصول إليها من قائمة المشاركين في Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "يخفي النافذة المنبثقة &quot;إضافة آخرين&quot; عند الانضمام إلى تطبيق Meet"
+   },
+   "hideAddOthersLabel": {
+      "message": "إخفاء النافذة المنبثقة &quot;إضافة آخرين&quot;"
+   },
+   "hidePartNames": {
+      "message": "إخفاء أسماء المشاركين"
+   },
+   "hideSpeakingIcons": {
+      "message": "إخفاء رموز المتحدثين"
+   },
+   "hideTopBarDesc": {
+      "message": "إخفاء الشريط العلوي عند اختفاء الشريط السفلي"
+   },
+   "hideTopBarLabel": {
+      "message": "إخفاء تلقائي للشريط العلوي"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "الإخفاء التلقائي لتنبيه &quot;المرآة اللانهائية&quot; عند التقديم"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "تجاهل تلقائي لتراكب العرض التقديمي"
+   },
+   "leaveConfirmDesc": {
+      "message": "اطلب التأكيد عند مغادرة الاجتماع"
+   },
+   "leaveConfirmLabel": {
+      "message": "تأكيد الإجازة"
+   },
+   "meetProButtonLabel": {
+      "message": "ابدأ نسخة تجريبية مجانية لمدة 7 أيام"
+   },
+   "meetProSectionDesc": {
+      "message": "من خلال الترقية إلى Meet Pro ، يمكنك الوصول إلى أكثر من 25 ميزة جديدة تنقل Google Meet إلى المستوى التالي."
+   },
+   "meetProSectionLabel": {
+      "message": "احصل على Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "اضبط مستوى الصوت في Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "ضبط مستوى صوت Meet"
+   },
+   "mirrorVideosDesc": {
+      "message": "يعكس جميع مقاطع الفيديو في Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "فيديو المرآة"
+   },
+   "muchMore": {
+      "message": "المزيد في المستقبل!"
+   },
+   "muteAllDesc": {
+      "message": "كتم صوت جميع المشاركين عبر قائمة المشاركين"
+   },
+   "muteAllLabel": {
+      "message": "كتم الكل"
+   },
+   "mutePopupDesc": {
+      "message": "يخفي &quot;هل تتحدث؟&quot; منبثقة عند كتم الصوت"
+   },
+   "mutePopupLabel": {
+      "message": "إخفاء نافذة كتم الصوت"
+   },
+   "partVidStyleLabel": {
+      "message": "نمط فيديو المشارك"
+   },
+   "pinBarDesc": {
+      "message": "تثبيت شريط التحكم في الجزء السفلي من الشاشة"
+   },
+   "pinBarLabel": {
+      "message": "دبوس أسفل شريط"
+   },
+   "pinChatDesc": {
+      "message": "تثبيت عرض الدردشة تلقائيًا عند الانضمام إلى Meet"
+   },
+   "pinChatLabel": {
+      "message": "تثبيت تلقائي للدردشة"
+   },
+   "pipDesc": {
+      "message": "شاهد فيديو المشاركين في صورة داخل صورة"
+   },
+   "pipLabel": {
+      "message": "صور في صور"
+   },
+   "proFeaturesSubHeading": {
+      "message": "الميزات الاحترافية"
+   },
+   "pttDesc": {
+      "message": "اضغط مع الاستمرار على مفتاح التشغيل السريع لإلغاء كتم الصوت"
+   },
+   "pttLabel": {
+      "message": "اضغط للتحدث"
+   },
+   "pttUpgrade": {
+      "message": "قم بالترقية إلى Pro لتعيين ربط المفتاح الخاص بك"
+   },
+   "quickEmojiDesc": {
+      "message": "يضيف اختصارات الرموز التعبيرية السريعة إلى نافذة الدردشة"
+   },
+   "quickEmojiLabel": {
+      "message": "ردود الفعل السريعة على الرموز التعبيرية"
+   },
+   "quickLeaveDesc": {
+      "message": "استخدم مفتاح الاختصار لترك مكالمة"
+   },
+   "quickLeaveLabel": {
+      "message": "مغادرة سريعة"
+   },
+   "removeAllDesc": {
+      "message": "قم بإزالة جميع المشاركين عبر قائمة المشاركين"
+   },
+   "removeAllLabel": {
+      "message": "حذف الكل"
+   },
+   "returnHomeDesc": {
+      "message": "يعود إلى شاشة Meet الرئيسية بعد مغادرة Meet"
+   },
+   "returnHomeLabel": {
+      "message": "العودة إلى الشاشة الرئيسية عند قطع الاتصال"
+   },
+   "seeFeatures": {
+      "message": "لمشاهدة جميع الميزات التي خططنا لها"
+   },
+   "sortParticipantsDesc": {
+      "message": "يضيف التبديل إلى قائمة المشاركين للفرز حسب الاسم الأخير"
+   },
+   "sortParticipantsLabel": {
+      "message": "فرز قائمة المشاركين"
+   },
+   "speakerBorderDesc": {
+      "message": "يضيف حدًا حول المتحدثين المشاركين"
+   },
+   "speakerBorderLabel": {
+      "message": "تمييز المتحدث"
+   },
+   "startMeet": {
+      "message": "ابدأ لقاء"
+   },
+   "timerDesc": {
+      "message": "يعرض مؤقت الاجتماع في شريط علامة التبويب السفلي"
+   },
+   "timerLabel": {
+      "message": "توقيت الاجتماع"
+   },
+   "title": {
+      "message": "لقاء تحسين جناح"
+   },
+   "toggleBarDesc": {
+      "message": "قم بتبديل شريط التحكم السفلي للظهور"
+   },
+   "toggleBarLabel": {
+      "message": "تبديل الشريط السفلي"
+   },
+   "transBarDesc": {
+      "message": "اجعل الشريط السفلي شفافًا"
+   },
+   "transBarLabel": {
+      "message": "شريط شفاف"
+   },
+   "viewRoadmap": {
+      "message": "عرض خارطة الطريق الخاصة بنا"
+   }
+}

@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Aktiver"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "eller Aktiver Licens"
+   },
+   "activeTabDesc": {
+      "message": "Klik på udvidelsesikonet for at finde den aktive Meet-fane"
+   },
+   "activeTabLabel": {
+      "message": "Find Active Meet-fanen"
+   },
+   "alwaysShowLabel": {
+      "message": "Vis altid deltagernes navne"
+   },
+   "attendanceDesc": {
+      "message": "Fang deltagerne i mødet og eksporter til en CSV"
+   },
+   "attendanceLabel": {
+      "message": "Tag deltagelse"
+   },
+   "autoAdmitDesc": {
+      "message": "Optager automatisk nye deltagere til Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Automatisk optagelse af nye deltagere"
+   },
+   "autoFullScreenDesc": {
+      "message": "Gå automatisk til fuld skærm, når nogen præsenterer"
+   },
+   "autoFullScreenLabel": {
+      "message": "Auto fuld skærm"
+   },
+   "autoJoinDesc": {
+      "message": "Deltag automatisk i mødet"
+   },
+   "autoJoinDescOption": {
+      "message": "Deltag kun i mødet, når deltagere er til stede"
+   },
+   "autoJoinLabel": {
+      "message": "Auto Join"
+   },
+   "autoMinimizeDesc": {
+      "message": "Minimer din video automatisk, når du deltager i et møde"
+   },
+   "autoMinimizeLabel": {
+      "message": "Auto-minimer video"
+   },
+   "autoMuteDesc": {
+      "message": "Automatisk mute mikrofon ved tilslutning"
+   },
+   "autoMuteLabel": {
+      "message": "Auto mute"
+   },
+   "autoRecordDesc": {
+      "message": "Start automatisk at optage Meet (Google Workspace påkrævet)"
+   },
+   "autoRecordDescOne": {
+      "message": "Start automatisk optagelse"
+   },
+   "autoRecordDescThree": {
+      "message": "Start automatisk transskription"
+   },
+   "autoRecordDescTwo": {
+      "message": "Start optagelsen manuelt"
+   },
+   "autoRecordLabel": {
+      "message": "Automatisk optagelse"
+   },
+   "autoRejectDesc": {
+      "message": "Afviser automatisk nye deltagere til Meet"
+   },
+   "autoRejectLabel": {
+      "message": "Auto afvis nye deltagere"
+   },
+   "autoUnmuteDesc": {
+      "message": "Stop andre i at slå din mikrofon fra"
+   },
+   "autoUnmuteLabel": {
+      "message": "Slå lyden til automatisk"
+   },
+   "autoVideoDesc": {
+      "message": "Indstil video til at slå deltagelse fra"
+   },
+   "autoVideoLabel": {
+      "message": "Automatisk video fra"
+   },
+   "basicFeatures": {
+      "message": "Grundlæggende funktioner"
+   },
+   "bgColorDesc": {
+      "message": "Indstil tilpasset baggrundsfarve i Meet"
+   },
+   "bgColorLabel": {
+      "message": "Indstil baggrundsfarve"
+   },
+   "captionsDesc": {
+      "message": "Slå billedtekster til automatisk"
+   },
+   "captionsLabel": {
+      "message": "Auto billedtekster"
+   },
+   "chimesDesc": {
+      "message": "Hør altid klokkelyde, når deltagere tilmelder sig og går, eller når en ny chatbesked modtages"
+   },
+   "chimesLabel": {
+      "message": "Spil altid klokkespil"
+   },
+   "copyUrlDesc": {
+      "message": "Kopier automatisk Meet URL til udklipsholder"
+   },
+   "copyUrlLabel": {
+      "message": "Autokopier Meet URL"
+   },
+   "darkModeDesc": {
+      "message": "Gør Google Meet til mørk tilstand"
+   },
+   "darkModeLabel": {
+      "message": "Mørk tilstand"
+   },
+   "desktopApp": {
+      "message": "desktop app"
+   },
+   "desktopDesc": {
+      "message": "Gør alle Google Cal-links åbne i"
+   },
+   "desktopLabel": {
+      "message": "Åbn Meet-links i desktop-appen"
+   },
+   "displayClockDesc": {
+      "message": "Vis uret, selv når det ikke er i fuldskærm"
+   },
+   "displayClockLabel": {
+      "message": "Vis ur"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Skjul kommentarmeddelelsesboble"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Skjul kommentarer og pop op-vinduer for brugerdeltagelse"
+   },
+   "doNotDisturbDesc": {
+      "message": "Skjul ny kommentar"
+   },
+   "doNotDisturbLabel": {
+      "message": "Forstyr ikke"
+   },
+   "emojiToolTipDesc": {
+      "message": "Denne funktion er aktiveret som standard, og du kan få adgang til den fra chatvinduet i Google Meet"
+   },
+   "extDesc": {
+      "message": "40 nye funktioner til Google Meet som f.eks. mute alle, fjerne alle, autoadmit, emojis, spejlvideoer, baggrundsfarve og tryk for at tale!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "Denne funktion er slået til som standard, og du kan få adgang til den fra deltagermenuen i Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "Skjuler pop op-vinduet &quot;Tilføj andre&quot;, når du deltager i et Meet"
+   },
+   "hideAddOthersLabel": {
+      "message": "Skjul &#39;Tilføj andre&#39; pop op"
+   },
+   "hidePartNames": {
+      "message": "Skjul deltagernes navne"
+   },
+   "hideSpeakingIcons": {
+      "message": "Skjul deltagerens talende ikoner"
+   },
+   "hideTopBarDesc": {
+      "message": "Skjul den øverste bjælke, når den nederste bjælke forsvinder"
+   },
+   "hideTopBarLabel": {
+      "message": "Auto Hide Top Bar"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Skjul automatisk &#39;uendeligt spejl&#39;-alarm ved præsentation"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Ignorer automatisk præsentationsoverlejring"
+   },
+   "leaveConfirmDesc": {
+      "message": "Bed om at bekræfte, når du forlader et møde"
+   },
+   "leaveConfirmLabel": {
+      "message": "Forlad bekræftelse"
+   },
+   "meetProButtonLabel": {
+      "message": "Start 7-dages gratis prøveperiode"
+   },
+   "meetProSectionDesc": {
+      "message": "Ved at opgradere til Meet Pro får du adgang til over 25 nye funktioner, der tager Google Meet til næste niveau."
+   },
+   "meetProSectionLabel": {
+      "message": "Få Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Juster lydstyrken for Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "Juster Meet-lydstyrken"
+   },
+   "mirrorVideosDesc": {
+      "message": "Afspejler alle videoer i Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "Spejlvideoer"
+   },
+   "muchMore": {
+      "message": "Der kommer meget mere!"
+   },
+   "muteAllDesc": {
+      "message": "Slå alle deltagere fra via deltagermenuen"
+   },
+   "muteAllLabel": {
+      "message": "Slå alle fra"
+   },
+   "mutePopupDesc": {
+      "message": "Skjuler &#39;Taler du?&#39; pop op, når lyden er slået fra"
+   },
+   "mutePopupLabel": {
+      "message": "Skjul Mute Popup"
+   },
+   "partVidStyleLabel": {
+      "message": "Deltager videostil"
+   },
+   "pinBarDesc": {
+      "message": "Fastgør kontrollinjen til bunden af skærmen"
+   },
+   "pinBarLabel": {
+      "message": "Pin bundlinje"
+   },
+   "pinChatDesc": {
+      "message": "Fastgør automatisk chatvisning, når du deltager i Meet"
+   },
+   "pinChatLabel": {
+      "message": "Automatisk pin-chat"
+   },
+   "pipDesc": {
+      "message": "Se en deltagervideo i billede-i-billede"
+   },
+   "pipLabel": {
+      "message": "Billede-i-billede"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Pro funktioner"
+   },
+   "pttDesc": {
+      "message": "Hold genvejstasten nede for at slå lyden til"
+   },
+   "pttLabel": {
+      "message": "Tryk for at tale"
+   },
+   "pttUpgrade": {
+      "message": "Opgrader til Pro for at indstille din egen nøglebinding"
+   },
+   "quickEmojiDesc": {
+      "message": "Tilføjer hurtige emoji-genveje til chatvinduet"
+   },
+   "quickEmojiLabel": {
+      "message": "Hurtige Emoji-reaktioner"
+   },
+   "quickLeaveDesc": {
+      "message": "Brug genvejstasten til at forlade et opkald"
+   },
+   "quickLeaveLabel": {
+      "message": "Hurtig afgang"
+   },
+   "removeAllDesc": {
+      "message": "Fjern alle deltagere via deltagermenuen"
+   },
+   "removeAllLabel": {
+      "message": "Fjern alt"
+   },
+   "returnHomeDesc": {
+      "message": "Vender tilbage til Meet-startskærmen efter at have forladt et Meet"
+   },
+   "returnHomeLabel": {
+      "message": "Vend tilbage til startskærmen, når du lægger på"
+   },
+   "seeFeatures": {
+      "message": "for at se alle de funktioner, vi har planlagt"
+   },
+   "sortParticipantsDesc": {
+      "message": "Tilføjer skifte til deltagerlisten for at sortere efter efternavn"
+   },
+   "sortParticipantsLabel": {
+      "message": "Sorter deltagerliste"
+   },
+   "speakerBorderDesc": {
+      "message": "Tilføjer en ramme omkring talende deltagere"
+   },
+   "speakerBorderLabel": {
+      "message": "Højttaler fremhævning"
+   },
+   "startMeet": {
+      "message": "Start et møde"
+   },
+   "timerDesc": {
+      "message": "Viser en mødetimer i nederste fanelinje"
+   },
+   "timerLabel": {
+      "message": "Mødetimer"
+   },
+   "title": {
+      "message": "Mød Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "Skift den nederste kontrollinje for at blive vist"
+   },
+   "toggleBarLabel": {
+      "message": "Skift bundlinje"
+   },
+   "transBarDesc": {
+      "message": "Gør den nederste bjælke gennemsigtig"
+   },
+   "transBarLabel": {
+      "message": "Gennemsigtig bar"
+   },
+   "viewRoadmap": {
+      "message": "Se vores køreplan"
+   }
+}

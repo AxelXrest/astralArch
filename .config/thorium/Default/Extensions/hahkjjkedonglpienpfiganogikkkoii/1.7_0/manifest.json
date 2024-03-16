@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "event.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon128.png",
+      "default_title": "Disable"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "*://*/*.m3u8*", "*://*/*.ts*" ]
+   } ],
+   "description": "Play HLS urls in-browser",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgJ22ecpRdEAFar75MMpDCEfqpEMGUAONeaOdQuD9IEBMd87GInTA6F8xiE6+ZJG5hTpMp+1dOZRzLq7f6CGxqYXYJGdMz2ogXfLEmqaNtd+l3UZe7aTMHGDORZqMlab7X7C09u/oAakbAcDkSYY38nFJeea9FJBDAsMUI8S8rAM4WFNsGiOCmOuj3QBOSk7TMGUGSBiB4iRIlFCPU70rd0Cm8ZYeZcrS/Eg7KqhtnFK9RuLh7W9Ifd0rxEZ08BJk7/ZOTitrRPq2550emaZCHDb+D1ho2FmprVhbC7TF4IkN3meAY7r7mbNOSaRhLif6/JkdRLyqHJKXH8YC7RCB6QIDAQAB",
+   "manifest_version": 2,
+   "name": "Play HLS",
+   "permissions": [ "*://*/*m3u8*", "*://*/*.ts*", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7",
+   "web_accessible_resources": [ "*.html" ]
+}

@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Amilisha"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "au Amilisha Leseni"
+   },
+   "activeTabDesc": {
+      "message": "Bofya aikoni ya kiendelezi ili kupata kichupo kinachotumika cha Meet"
+   },
+   "activeTabLabel": {
+      "message": "Pata Kichupo Kinachotumika cha Meet"
+   },
+   "alwaysShowLabel": {
+      "message": "Onyesha majina ya washiriki kila wakati"
+   },
+   "attendanceDesc": {
+      "message": "Rekodi mahudhurio ya mkutano na utume kwa CSV"
+   },
+   "attendanceLabel": {
+      "message": "Chukua Mahudhurio"
+   },
+   "autoAdmitDesc": {
+      "message": "Hukubali kiotomatiki washiriki wapya kwenye Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Ingiza Washiriki Wapya Kiotomatiki"
+   },
+   "autoFullScreenDesc": {
+      "message": "Nenda kiotomatiki kwenye skrini nzima mtu anapowasilisha"
+   },
+   "autoFullScreenLabel": {
+      "message": "Skrini Kamili ya Kiotomatiki"
+   },
+   "autoJoinDesc": {
+      "message": "Jiunge na mkutano kiotomatiki"
+   },
+   "autoJoinDescOption": {
+      "message": "Jiunge na mkutano wakati tu washiriki wapo"
+   },
+   "autoJoinLabel": {
+      "message": "Jiunge Kiotomatiki"
+   },
+   "autoMinimizeDesc": {
+      "message": "Punguza video yako kiotomatiki unapojiunga na mkutano"
+   },
+   "autoMinimizeLabel": {
+      "message": "Punguza video kiotomatiki"
+   },
+   "autoMuteDesc": {
+      "message": "Zima maikrofoni kiotomatiki unapojiunga"
+   },
+   "autoMuteLabel": {
+      "message": "Nyamazisha Kiotomatiki"
+   },
+   "autoRecordDesc": {
+      "message": "Anza kurekodi Meet kiotomatiki (Google Workspace inahitajika)"
+   },
+   "autoRecordDescOne": {
+      "message": "Anza kurekodi kiotomatiki"
+   },
+   "autoRecordDescThree": {
+      "message": "Anzisha unukuzi kiotomatiki"
+   },
+   "autoRecordDescTwo": {
+      "message": "Anza kurekodi wewe mwenyewe"
+   },
+   "autoRecordLabel": {
+      "message": "Rekodi otomatiki"
+   },
+   "autoRejectDesc": {
+      "message": "Huwanyima washiriki wapya kwenye Meet kiotomatiki"
+   },
+   "autoRejectLabel": {
+      "message": "Kataa Washiriki Wapya Kiotomatiki"
+   },
+   "autoUnmuteDesc": {
+      "message": "Wazuie wengine kunyamazisha maikrofoni yako"
+   },
+   "autoUnmuteLabel": {
+      "message": "Rejesha Kiotomatiki"
+   },
+   "autoVideoDesc": {
+      "message": "Weka video ili kuzima kipengele cha kujiunga"
+   },
+   "autoVideoLabel": {
+      "message": "Video Otomatiki Imezimwa"
+   },
+   "basicFeatures": {
+      "message": "Vipengele vya Msingi"
+   },
+   "bgColorDesc": {
+      "message": "Weka rangi ya mandharinyuma maalum katika Meet"
+   },
+   "bgColorLabel": {
+      "message": "Weka Rangi ya Mandharinyuma"
+   },
+   "captionsDesc": {
+      "message": "Washa manukuu kiotomatiki"
+   },
+   "captionsLabel": {
+      "message": "Manukuu ya Kiotomatiki"
+   },
+   "chimesDesc": {
+      "message": "Sikia sauti za kengele kila wakati washiriki wanapojiunga na kuondoka, au wakati ujumbe mpya wa gumzo unapopokelewa"
+   },
+   "chimesLabel": {
+      "message": "Cheza Kengele kila wakati"
+   },
+   "copyUrlDesc": {
+      "message": "Nakili URL ya Meet kiotomatiki kwenye ubao wa kunakili"
+   },
+   "copyUrlLabel": {
+      "message": "Nakili Kiotomatiki URL ya Meet"
+   },
+   "darkModeDesc": {
+      "message": "Hufanya Google Meet kuwa katika hali nyeusi"
+   },
+   "darkModeLabel": {
+      "message": "Hali ya Giza"
+   },
+   "desktopApp": {
+      "message": "programu ya desktop"
+   },
+   "desktopDesc": {
+      "message": "Fanya viungo vyote vya Google Cal vifunguke kwenye"
+   },
+   "desktopLabel": {
+      "message": "Fungua viungo vya Meet katika programu ya eneo-kazi"
+   },
+   "displayClockDesc": {
+      "message": "Onyesha saa hata ikiwa haiko kwenye skrini nzima"
+   },
+   "displayClockLabel": {
+      "message": "Saa ya Kuonyesha"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Ficha kiputo cha arifa ya maoni"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Ficha maoni na ujiunge na madirisha ibukizi"
+   },
+   "doNotDisturbDesc": {
+      "message": "Ficha maoni mapya"
+   },
+   "doNotDisturbLabel": {
+      "message": "Usisumbue"
+   },
+   "emojiToolTipDesc": {
+      "message": "Kipengele hiki kimewashwa kwa chaguomsingi na unaweza kukifikia kutoka kwa dirisha la gumzo katika Google Meet"
+   },
+   "extDesc": {
+      "message": "Vipengele 40 vipya vya Google Meet kama vile kunyamazisha vyote, ondoa vyote, kubali kiotomatiki, emoji, video za kioo, rangi ya usuli na bonyeza ili kuzungumza!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement Suite"
+   },
+   "generalToolTipDesc": {
+      "message": "Kipengele hiki kimewashwa kwa chaguomsingi na unaweza kukifikia kutoka kwenye menyu ya washiriki katika Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "Huficha dirisha ibukizi la &#39;Ongeza Wengine&#39; unapojiunga na Meet"
+   },
+   "hideAddOthersLabel": {
+      "message": "Ficha dirisha ibukizi la &#39;Ongeza Wengine&#39;"
+   },
+   "hidePartNames": {
+      "message": "Ficha majina ya washiriki"
+   },
+   "hideSpeakingIcons": {
+      "message": "Ficha ikoni za kuzungumza za mshiriki"
+   },
+   "hideTopBarDesc": {
+      "message": "Ficha bar ya juu wakati bar ya chini inapotea"
+   },
+   "hideTopBarLabel": {
+      "message": "Ficha Upau wa Juu Kiotomatiki"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Ficha kiotomatiki tahadhari ya `kioo kisicho na mwisho&#39; unapowasilisha"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Puuza Kiotomatiki Uwekeleaji wa Wasilisho"
+   },
+   "leaveConfirmDesc": {
+      "message": "Uliza kuthibitisha unapoondoka kwenye mkutano"
+   },
+   "leaveConfirmLabel": {
+      "message": "Acha Uthibitisho"
+   },
+   "meetProButtonLabel": {
+      "message": "Anza kujaribu bila malipo kwa siku 7"
+   },
+   "meetProSectionDesc": {
+      "message": "Kwa kupata toleo jipya la Meet Pro, unapata idhini ya kufikia zaidi ya vipengele 25 vipya vinavyoboresha Google Meet."
+   },
+   "meetProSectionLabel": {
+      "message": "Pata Kutana na Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Rekebisha kiwango cha sauti cha Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "Rekebisha Kiasi cha Meet"
+   },
+   "mirrorVideosDesc": {
+      "message": "Huakisi video zote kwenye Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "Vioo Video"
+   },
+   "muchMore": {
+      "message": "Mengi zaidi yajayo!"
+   },
+   "muteAllDesc": {
+      "message": "Zima washiriki wote kupitia menyu ya washiriki"
+   },
+   "muteAllLabel": {
+      "message": "Nyamazisha Wote"
+   },
+   "mutePopupDesc": {
+      "message": "Huficha &#39;Unazungumza?&#39; ibukizi wakati imenyamazishwa"
+   },
+   "mutePopupLabel": {
+      "message": "Ficha Ibukizi ya Kunyamazisha"
+   },
+   "partVidStyleLabel": {
+      "message": "Mtindo wa Video wa Mshiriki"
+   },
+   "pinBarDesc": {
+      "message": "Bandika upau wa kudhibiti chini ya skrini"
+   },
+   "pinBarLabel": {
+      "message": "Bandika Upau wa Chini"
+   },
+   "pinChatDesc": {
+      "message": "Hubandika mwonekano wa gumzo kiotomatiki unapojiunga na Meet"
+   },
+   "pinChatLabel": {
+      "message": "Bandika Gumzo kiotomatiki"
+   },
+   "pipDesc": {
+      "message": "Tazama video ya washiriki katika picha-ndani-picha"
+   },
+   "pipLabel": {
+      "message": "Picha-ndani-picha"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Vipengele vya Pro"
+   },
+   "pttDesc": {
+      "message": "Shikilia hotkey ili kunyamazisha"
+   },
+   "pttLabel": {
+      "message": "Shinikiza Kuzungumza"
+   },
+   "pttUpgrade": {
+      "message": "Pata toleo jipya la Pro ili kuweka ufunguo wako binafsi unaofunga"
+   },
+   "quickEmojiDesc": {
+      "message": "Huongeza mikato ya haraka ya emoji kwenye dirisha la gumzo"
+   },
+   "quickEmojiLabel": {
+      "message": "Miitikio ya Haraka ya Emoji"
+   },
+   "quickLeaveDesc": {
+      "message": "Tumia hotkey kuacha simu"
+   },
+   "quickLeaveLabel": {
+      "message": "Kuondoka Haraka"
+   },
+   "removeAllDesc": {
+      "message": "Ondoa washiriki wote kupitia menyu ya washiriki"
+   },
+   "removeAllLabel": {
+      "message": "Ondoa Zote"
+   },
+   "returnHomeDesc": {
+      "message": "Hurudi kwenye skrini ya kwanza ya Meet baada ya kuondoka kwenye Meet"
+   },
+   "returnHomeLabel": {
+      "message": "Rudi kwenye skrini ya nyumbani kwenye hangup"
+   },
+   "seeFeatures": {
+      "message": "kuona vipengele vyote tulivyopanga"
+   },
+   "sortParticipantsDesc": {
+      "message": "Inaongeza kugeuza kwa orodha ya mshiriki kupanga kwa jina la mwisho"
+   },
+   "sortParticipantsLabel": {
+      "message": "Panga Orodha ya Washiriki"
+   },
+   "speakerBorderDesc": {
+      "message": "Huongeza mpaka karibu na washiriki wanaozungumza"
+   },
+   "speakerBorderLabel": {
+      "message": "Angazia Spika"
+   },
+   "startMeet": {
+      "message": "Anzisha Mkutano"
+   },
+   "timerDesc": {
+      "message": "Huonyesha kipima muda cha mkutano katika upau wa kichupo wa chini"
+   },
+   "timerLabel": {
+      "message": "Kipima Muda cha Mkutano"
+   },
+   "title": {
+      "message": "Kutana na Suite ya Kuboresha"
+   },
+   "toggleBarDesc": {
+      "message": "Geuza upau wa udhibiti wa chini ili kuonekana"
+   },
+   "toggleBarLabel": {
+      "message": "Geuza Upau wa Chini"
+   },
+   "transBarDesc": {
+      "message": "Fanya upau wa chini uwe wazi"
+   },
+   "transBarLabel": {
+      "message": "Upau wa Uwazi"
+   },
+   "viewRoadmap": {
+      "message": "Tazama ramani yetu ya barabara"
+   }
+}

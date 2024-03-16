@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Activer"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "ou Activer la licence"
+   },
+   "activeTabDesc": {
+      "message": "Cliquez sur l&#39;icône d&#39;extension pour trouver l&#39;onglet Meet actif"
+   },
+   "activeTabLabel": {
+      "message": "Rechercher l&#39;onglet Meet actif"
+   },
+   "alwaysShowLabel": {
+      "message": "Toujours afficher les noms des participants"
+   },
+   "attendanceDesc": {
+      "message": "Capturez la participation à la rencontre et exportez vers un CSV"
+   },
+   "attendanceLabel": {
+      "message": "Prendre les présences"
+   },
+   "autoAdmitDesc": {
+      "message": "Admet automatiquement les nouveaux participants au Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Admettre automatiquement les nouveaux entrants"
+   },
+   "autoFullScreenDesc": {
+      "message": "Passer automatiquement en plein écran lorsque quelqu&#39;un présente"
+   },
+   "autoFullScreenLabel": {
+      "message": "Plein écran automatique"
+   },
+   "autoJoinDesc": {
+      "message": "Rejoindre la réunion automatiquement"
+   },
+   "autoJoinDescOption": {
+      "message": "Rejoindre la réunion uniquement lorsque les participants sont présents"
+   },
+   "autoJoinLabel": {
+      "message": "Joindre automatiquement"
+   },
+   "autoMinimizeDesc": {
+      "message": "Réduisez automatiquement votre vidéo lorsque vous rejoignez une réunion"
+   },
+   "autoMinimizeLabel": {
+      "message": "Réduire automatiquement la vidéo"
+   },
+   "autoMuteDesc": {
+      "message": "Désactivation automatique du microphone lors de la jointure"
+   },
+   "autoMuteLabel": {
+      "message": "Muet automatique"
+   },
+   "autoRecordDesc": {
+      "message": "Démarrer automatiquement l&#39;enregistrement du Meet (Google Workspace requis)"
+   },
+   "autoRecordDescOne": {
+      "message": "Démarrer automatiquement l&#39;enregistrement"
+   },
+   "autoRecordDescThree": {
+      "message": "Démarrer automatiquement la transcription"
+   },
+   "autoRecordDescTwo": {
+      "message": "Démarrer manuellement l&#39;enregistrement"
+   },
+   "autoRecordLabel": {
+      "message": "Enregistrement automatique"
+   },
+   "autoRejectDesc": {
+      "message": "Refuse automatiquement les nouveaux participants au Meet"
+   },
+   "autoRejectLabel": {
+      "message": "Refuser automatiquement les nouveaux entrants"
+   },
+   "autoUnmuteDesc": {
+      "message": "Empêchez les autres de désactiver votre micro"
+   },
+   "autoUnmuteLabel": {
+      "message": "Activer le son automatiquement"
+   },
+   "autoVideoDesc": {
+      "message": "Configurer la vidéo pour qu&#39;elle se désactive lors de la jointure"
+   },
+   "autoVideoLabel": {
+      "message": "Arrêt automatique de la vidéo"
+   },
+   "basicFeatures": {
+      "message": "Caractéristiques de base"
+   },
+   "bgColorDesc": {
+      "message": "Définir une couleur d&#39;arrière-plan personnalisée dans Meet"
+   },
+   "bgColorLabel": {
+      "message": "Définir la couleur d&#39;arrière-plan"
+   },
+   "captionsDesc": {
+      "message": "Activer automatiquement les sous-titres"
+   },
+   "captionsLabel": {
+      "message": "Sous-titres automatiques"
+   },
+   "chimesDesc": {
+      "message": "Toujours entendre des sons de carillon lorsque les participants rejoignent et partent, ou lorsqu&#39;un nouveau message de chat est reçu"
+   },
+   "chimesLabel": {
+      "message": "Toujours jouer des carillons"
+   },
+   "copyUrlDesc": {
+      "message": "Copier automatiquement l&#39;URL de Meet dans le presse-papiers"
+   },
+   "copyUrlLabel": {
+      "message": "Copier automatiquement l&#39;URL de la rencontre"
+   },
+   "darkModeDesc": {
+      "message": "Rend Google Meet en mode sombre"
+   },
+   "darkModeLabel": {
+      "message": "Mode sombre"
+   },
+   "desktopApp": {
+      "message": "application de bureau"
+   },
+   "desktopDesc": {
+      "message": "Ouvrez tous les liens Google Cal dans le"
+   },
+   "desktopLabel": {
+      "message": "Ouvrir les liens Meet dans l&#39;application de bureau"
+   },
+   "displayClockDesc": {
+      "message": "Afficher l&#39;horloge même lorsqu&#39;elle n&#39;est pas en plein écran"
+   },
+   "displayClockLabel": {
+      "message": "Afficher l&#39;horloge"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Masquer la bulle de notification des commentaires"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Masquer les commentaires et les fenêtres contextuelles de participation des utilisateurs"
+   },
+   "doNotDisturbDesc": {
+      "message": "Masquer le nouveau commentaire"
+   },
+   "doNotDisturbLabel": {
+      "message": "Ne pas déranger"
+   },
+   "emojiToolTipDesc": {
+      "message": "Cette fonctionnalité est activée par défaut et vous pouvez y accéder depuis la fenêtre de chat de Google Meet"
+   },
+   "extDesc": {
+      "message": "40 nouvelles fonctionnalités pour Google Meet telles que tout désactiver, tout supprimer, admettre automatiquement, les émoticônes, les vidéos miroir, la couleur d&#39;arrière-plan et appuyer pour parler !"
+   },
+   "extName": {
+      "message": "Suite d&#39;amélioration de Google Meet"
+   },
+   "generalToolTipDesc": {
+      "message": "Cette fonctionnalité est activée par défaut et vous pouvez y accéder depuis le menu des participants dans Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "Masque la fenêtre contextuelle &quot;Ajouter d&#39;autres personnes&quot; lorsque vous rejoignez une réunion"
+   },
+   "hideAddOthersLabel": {
+      "message": "Masquer la fenêtre contextuelle &quot;Ajouter d&#39;autres&quot;"
+   },
+   "hidePartNames": {
+      "message": "Masquer les noms des participants"
+   },
+   "hideSpeakingIcons": {
+      "message": "Masquer les icônes parlantes des participants"
+   },
+   "hideTopBarDesc": {
+      "message": "Masquer la barre supérieure lorsque la barre inférieure disparaît"
+   },
+   "hideTopBarLabel": {
+      "message": "Masquer automatiquement la barre supérieure"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Masquer automatiquement l&#39;alerte &quot;miroir infini&quot; lors de la présentation"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Ignorer automatiquement la superposition de présentation"
+   },
+   "leaveConfirmDesc": {
+      "message": "Demander de confirmer quand vous quittez une réunion"
+   },
+   "leaveConfirmLabel": {
+      "message": "Confirmation de congé"
+   },
+   "meetProButtonLabel": {
+      "message": "Commencez l&#39;essai gratuit de 7 jours"
+   },
+   "meetProSectionDesc": {
+      "message": "En passant à Meet Pro, vous avez accès à plus de 25 nouvelles fonctionnalités qui font passer Google Meet au niveau supérieur."
+   },
+   "meetProSectionLabel": {
+      "message": "Obtenir Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Régler le niveau de volume de Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "Ajuster le volume de la rencontre"
+   },
+   "mirrorVideosDesc": {
+      "message": "Reflète toutes les vidéos de Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "Miroir Vidéos"
+   },
+   "muchMore": {
+      "message": "Beaucoup plus à venir!"
+   },
+   "muteAllDesc": {
+      "message": "Couper le son de tous les participants via le menu des participants"
+   },
+   "muteAllLabel": {
+      "message": "Rendre tout silencieux"
+   },
+   "mutePopupDesc": {
+      "message": "Masque &#39;Parlez-vous?&#39; popup lorsqu&#39;il est en sourdine"
+   },
+   "mutePopupLabel": {
+      "message": "Masquer la fenêtre muette"
+   },
+   "partVidStyleLabel": {
+      "message": "Style de vidéo des participants"
+   },
+   "pinBarDesc": {
+      "message": "Épingle la barre de contrôle au bas de l&#39;écran"
+   },
+   "pinBarLabel": {
+      "message": "Barre inférieure à broches"
+   },
+   "pinChatDesc": {
+      "message": "Épingle automatiquement la vue de chat lorsque vous rejoignez Meet"
+   },
+   "pinChatLabel": {
+      "message": "Épingler automatiquement le chat"
+   },
+   "pipDesc": {
+      "message": "Voir une vidéo des participants en image dans l&#39;image"
+   },
+   "pipLabel": {
+      "message": "Image dans l&#39;image"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Fonctionnalités professionnelles"
+   },
+   "pttDesc": {
+      "message": "Maintenez le raccourci clavier pour réactiver"
+   },
+   "pttLabel": {
+      "message": "Appuyer pour parler"
+   },
+   "pttUpgrade": {
+      "message": "Mettez à niveau vers Pro pour définir votre propre liaison de clé"
+   },
+   "quickEmojiDesc": {
+      "message": "Ajoute des raccourcis emoji rapides à la fenêtre de chat"
+   },
+   "quickEmojiLabel": {
+      "message": "Réactions rapides d&#39;Emoji"
+   },
+   "quickLeaveDesc": {
+      "message": "Utiliser le raccourci clavier pour quitter un appel"
+   },
+   "quickLeaveLabel": {
+      "message": "Congé rapide"
+   },
+   "removeAllDesc": {
+      "message": "Supprimer tous les participants via le menu des participants"
+   },
+   "removeAllLabel": {
+      "message": "Enlever tout"
+   },
+   "returnHomeDesc": {
+      "message": "Revient à l&#39;écran d&#39;accueil de Meet après avoir quitté un Meet"
+   },
+   "returnHomeLabel": {
+      "message": "Retour à l&#39;écran d&#39;accueil au raccrochage"
+   },
+   "seeFeatures": {
+      "message": "pour voir toutes les fonctionnalités que nous avons prévues"
+   },
+   "sortParticipantsDesc": {
+      "message": "Ajoute une bascule à la liste des participants pour trier par nom de famille"
+   },
+   "sortParticipantsLabel": {
+      "message": "Trier la liste des participants"
+   },
+   "speakerBorderDesc": {
+      "message": "Ajoute une bordure autour des participants qui parlent"
+   },
+   "speakerBorderLabel": {
+      "message": "Point culminant du conférencier"
+   },
+   "startMeet": {
+      "message": "Démarrer une rencontre"
+   },
+   "timerDesc": {
+      "message": "Affiche une minuterie de réunion dans la barre d&#39;onglets inférieure"
+   },
+   "timerLabel": {
+      "message": "Minuterie de réunion"
+   },
+   "title": {
+      "message": "Rencontrez Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "Basculer la barre de contrôle inférieure pour apparaître"
+   },
+   "toggleBarLabel": {
+      "message": "Basculer la barre inférieure"
+   },
+   "transBarDesc": {
+      "message": "Rendre la barre inférieure transparente"
+   },
+   "transBarLabel": {
+      "message": "Barre transparente"
+   },
+   "viewRoadmap": {
+      "message": "Consultez notre feuille de route"
+   }
+}

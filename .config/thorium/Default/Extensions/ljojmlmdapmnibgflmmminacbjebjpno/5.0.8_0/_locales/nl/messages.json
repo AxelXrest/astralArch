@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Activeren"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "of Licentie activeren"
+   },
+   "activeTabDesc": {
+      "message": "Klik op het extensiepictogram om het actieve Meet-tabblad te vinden"
+   },
+   "activeTabLabel": {
+      "message": "Zoek het actieve Meet-tabblad"
+   },
+   "alwaysShowLabel": {
+      "message": "Toon altijd de namen van deelnemers"
+   },
+   "attendanceDesc": {
+      "message": "Leg de opkomst van de bijeenkomst vast en exporteer naar een CSV"
+   },
+   "attendanceLabel": {
+      "message": "Neem aanwezigheid"
+   },
+   "autoAdmitDesc": {
+      "message": "Laat nieuwe deelnemers automatisch toe aan de Meet"
+   },
+   "autoAdmitLabel": {
+      "message": "Nieuwe deelnemers automatisch toelaten"
+   },
+   "autoFullScreenDesc": {
+      "message": "Ga automatisch naar volledig scherm wanneer iemand presenteert"
+   },
+   "autoFullScreenLabel": {
+      "message": "Automatisch volledig scherm"
+   },
+   "autoJoinDesc": {
+      "message": "Neem automatisch deel aan de vergadering"
+   },
+   "autoJoinDescOption": {
+      "message": "Neem alleen deel aan de vergadering als er deelnemers aanwezig zijn"
+   },
+   "autoJoinLabel": {
+      "message": "Automatisch deelnemen"
+   },
+   "autoMinimizeDesc": {
+      "message": "Minimaliseer uw video automatisch wanneer u deelneemt aan een bijeenkomst"
+   },
+   "autoMinimizeLabel": {
+      "message": "Video automatisch minimaliseren"
+   },
+   "autoMuteDesc": {
+      "message": "Microfoon automatisch dempen bij deelname"
+   },
+   "autoMuteLabel": {
+      "message": "Automatisch dempen"
+   },
+   "autoRecordDesc": {
+      "message": "Begin automatisch met het opnemen van de Meet (Google Workspace vereist)"
+   },
+   "autoRecordDescOne": {
+      "message": "Start automatisch met opnemen"
+   },
+   "autoRecordDescThree": {
+      "message": "Start automatisch de transcriptie"
+   },
+   "autoRecordDescTwo": {
+      "message": "Begin handmatig met opnemen"
+   },
+   "autoRecordLabel": {
+      "message": "Automatisch opnemen"
+   },
+   "autoRejectDesc": {
+      "message": "Weigert automatisch nieuwe deelnemers aan de Meet"
+   },
+   "autoRejectLabel": {
+      "message": "Nieuwkomers automatisch weigeren"
+   },
+   "autoUnmuteDesc": {
+      "message": "Voorkom dat anderen uw microfoon dempen"
+   },
+   "autoUnmuteLabel": {
+      "message": "Automatisch dempen opheffen"
+   },
+   "autoVideoDesc": {
+      "message": "Stel video in om uit te schakelen bij deelname"
+   },
+   "autoVideoLabel": {
+      "message": "Automatische video uit"
+   },
+   "basicFeatures": {
+      "message": "Basis kenmerken"
+   },
+   "bgColorDesc": {
+      "message": "Stel een aangepaste achtergrondkleur in de Meet in"
+   },
+   "bgColorLabel": {
+      "message": "Achtergrondkleur instellen"
+   },
+   "captionsDesc": {
+      "message": "Ondertiteling automatisch inschakelen"
+   },
+   "captionsLabel": {
+      "message": "Automatische ondertiteling"
+   },
+   "chimesDesc": {
+      "message": "Hoor altijd een belgeluid wanneer deelnemers binnenkomen en vertrekken, of wanneer een nieuw chatbericht wordt ontvangen"
+   },
+   "chimesLabel": {
+      "message": "Speel altijd klokkenspel"
+   },
+   "copyUrlDesc": {
+      "message": "Kopieer de Meet-URL automatisch naar het klembord"
+   },
+   "copyUrlLabel": {
+      "message": "Meet-URL automatisch kopiëren"
+   },
+   "darkModeDesc": {
+      "message": "Maakt Google Meet donkere modus"
+   },
+   "darkModeLabel": {
+      "message": "Donkere modus"
+   },
+   "desktopApp": {
+      "message": "desktop-app"
+   },
+   "desktopDesc": {
+      "message": "Open alle Google Cal-links in het"
+   },
+   "desktopLabel": {
+      "message": "Open Meet-links in desktop-app"
+   },
+   "displayClockDesc": {
+      "message": "Geef de klok weer, zelfs als deze niet op volledig scherm wordt weergegeven"
+   },
+   "displayClockLabel": {
+      "message": "Klok weergeven"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Verberg opmerkingsballon"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Verberg opmerkingen en voeg pop-ups toe aan gebruikers"
+   },
+   "doNotDisturbDesc": {
+      "message": "Verberg nieuwe reactie"
+   },
+   "doNotDisturbLabel": {
+      "message": "Niet storen"
+   },
+   "emojiToolTipDesc": {
+      "message": "Deze functie is standaard ingeschakeld en is toegankelijk via het chatvenster in Google Meet"
+   },
+   "extDesc": {
+      "message": "40 nieuwe functies voor Google Meet, zoals alles dempen, alles verwijderen, automatisch toelaten, emoji&#39;s, video&#39;s spiegelen, achtergrondkleur en push-to-talk!"
+   },
+   "extName": {
+      "message": "Google Meet Enhancement-suite"
+   },
+   "generalToolTipDesc": {
+      "message": "Deze functie is standaard ingeschakeld en is toegankelijk via het deelnemersmenu in Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "Verbergt de pop-up &#39;Anderen toevoegen&#39; wanneer u deelneemt aan een Meet"
+   },
+   "hideAddOthersLabel": {
+      "message": "Pop-up &#39;Anderen toevoegen&#39; verbergen"
+   },
+   "hidePartNames": {
+      "message": "Verberg namen van deelnemers"
+   },
+   "hideSpeakingIcons": {
+      "message": "Verberg sprekende iconen van deelnemers"
+   },
+   "hideTopBarDesc": {
+      "message": "Verberg de bovenste balk wanneer de onderste balk verdwijnt"
+   },
+   "hideTopBarLabel": {
+      "message": "Bovenste balk automatisch verbergen"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Automatisch verbergen &#39;oneindigheidsspiegel&#39;-waarschuwing bij presenteren"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Presentatie-overlay automatisch negeren"
+   },
+   "leaveConfirmDesc": {
+      "message": "Vraag om bevestiging wanneer u een vergadering verlaat"
+   },
+   "leaveConfirmLabel": {
+      "message": "Bevestiging verlaten"
+   },
+   "meetProButtonLabel": {
+      "message": "Start een gratis proefperiode van 7 dagen"
+   },
+   "meetProSectionDesc": {
+      "message": "Door te upgraden naar Meet Pro krijgt u toegang tot meer dan 25 nieuwe functies die Google Meet naar een hoger niveau tillen."
+   },
+   "meetProSectionLabel": {
+      "message": "Download Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Pas het volumeniveau van de Meet aan"
+   },
+   "meetVolumeLabel": {
+      "message": "Pas het Meet-volume aan"
+   },
+   "mirrorVideosDesc": {
+      "message": "Spiegelt alle video&#39;s in de Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "Spiegel video&#39;s"
+   },
+   "muchMore": {
+      "message": "Er komt nog veel meer!"
+   },
+   "muteAllDesc": {
+      "message": "Zet alle deelnemers op mute via het deelnemersmenu"
+   },
+   "muteAllLabel": {
+      "message": "Alles dempen"
+   },
+   "mutePopupDesc": {
+      "message": "Verbergt &#39;Bent u aan het woord?&#39; pop-up wanneer gedempt"
+   },
+   "mutePopupLabel": {
+      "message": "Pop-up dempen verbergen"
+   },
+   "partVidStyleLabel": {
+      "message": "Videostijl van deelnemer"
+   },
+   "pinBarDesc": {
+      "message": "Zet de bedieningsbalk vast aan de onderkant van het scherm"
+   },
+   "pinBarLabel": {
+      "message": "Pin onderste balk"
+   },
+   "pinChatDesc": {
+      "message": "Zet de chatweergave automatisch vast wanneer u deelneemt aan Meet"
+   },
+   "pinChatLabel": {
+      "message": "Auto-pin Chat"
+   },
+   "pipDesc": {
+      "message": "Bekijk een video van een deelnemer in beeld-in-beeld"
+   },
+   "pipLabel": {
+      "message": "Foto in foto"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Pro-functies"
+   },
+   "pttDesc": {
+      "message": "Houd de sneltoets ingedrukt om het dempen op te heffen"
+   },
+   "pttLabel": {
+      "message": "Druk om te praten"
+   },
+   "pttUpgrade": {
+      "message": "Upgrade naar Pro om uw eigen toetsbinding in te stellen"
+   },
+   "quickEmojiDesc": {
+      "message": "Voegt snelle emoji-snelkoppelingen toe aan het chatvenster"
+   },
+   "quickEmojiLabel": {
+      "message": "Snelle Emoji-reacties"
+   },
+   "quickLeaveDesc": {
+      "message": "Gebruik de sneltoets om een gesprek achter te laten"
+   },
+   "quickLeaveLabel": {
+      "message": "Snel vertrek"
+   },
+   "removeAllDesc": {
+      "message": "Verwijder alle deelnemers via het deelnemersmenu"
+   },
+   "removeAllLabel": {
+      "message": "Verwijder alles"
+   },
+   "returnHomeDesc": {
+      "message": "Keert terug naar het Meet-startscherm na het verlaten van een Meet"
+   },
+   "returnHomeLabel": {
+      "message": "Keer terug naar het startscherm bij ophangen"
+   },
+   "seeFeatures": {
+      "message": "om alle functies te zien die we hebben gepland"
+   },
+   "sortParticipantsDesc": {
+      "message": "Voegt schakelaar toe aan de deelnemerslijst om op achternaam te sorteren"
+   },
+   "sortParticipantsLabel": {
+      "message": "Sorteer deelnemerslijst"
+   },
+   "speakerBorderDesc": {
+      "message": "Voegt een rand toe rond sprekende deelnemers"
+   },
+   "speakerBorderLabel": {
+      "message": "Spreker hoogtepunt"
+   },
+   "startMeet": {
+      "message": "Start een bijeenkomst"
+   },
+   "timerDesc": {
+      "message": "Geeft een vergadertimer weer in de onderste tabbladbalk"
+   },
+   "timerLabel": {
+      "message": "Vergadertimer"
+   },
+   "title": {
+      "message": "Maak kennis met Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "Schakel de onderste bedieningsbalk in om te verschijnen"
+   },
+   "toggleBarLabel": {
+      "message": "Schakel onderste balk in"
+   },
+   "transBarDesc": {
+      "message": "Maak de onderste balk transparant"
+   },
+   "transBarLabel": {
+      "message": "Transparante balk"
+   },
+   "viewRoadmap": {
+      "message": "Bekijk ons stappenplan"
+   }
+}

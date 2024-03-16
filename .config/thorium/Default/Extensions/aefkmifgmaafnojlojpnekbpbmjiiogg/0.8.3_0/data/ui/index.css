@@ -1,0 +1,115 @@
+:root {
+  --gap: 5px;
+  --fg: #000;
+  --bg: #fff19d;
+  --bd: #ebde8f;
+  --bda: #ebb28f;
+}
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif;
+  font-size: 13px;
+  background-color: transparent;
+  padding: 8px 8px 0 0;
+}
+
+input[type=button] {
+  color: var(--fg);
+  border: none;
+  border-left: solid 1px var(--bd);
+  border-right: solid 1px var(--bd);
+  padding: 5px;
+  font-size: 11px;
+  outline: none;
+  cursor: pointer;
+  background-color: white;
+}
+input[type=button]:focus {
+  border-color: transparent;
+  box-shadow: 0 0 0 2px var(--bda);
+  z-index: 2;
+}
+input[type=button][data-default=true] {
+  font-weight: 500;
+}
+#container {
+  display: flex;
+  flex-direction: column;
+}
+.ppblocker-div {
+  position: relative;
+  text-shadow: none;
+  box-sizing: content-box;
+  border-left: solid 5px var(--bd);
+  background-color: var(--bg);
+  color: var(--fg);
+  padding: 5px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: calc(var(--gap) * 2);
+  outline: none;
+}
+.ppblocker-div:not(:last-child)::after {
+  content: '';
+  height: 1px;
+  background: #ebde8f;
+  width: 95%;
+  margin: auto;
+}
+.ppblocker-div:focus-within {
+  border-left-color: var(--bda);
+}
+.ppblocker-div > div {
+  display: grid;
+  grid-template-columns: 1fr repeat(5, min-content);
+}
+.ppblocker-div > div > input[type=button]:first-of-type {
+  justify-self: start;
+}
+.ppblocker-div > p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0;
+  padding: 0;
+}
+.ppblocker-div::before {
+  content: attr(data-badge);
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  border: solid 2px var(--bg);
+  border-radius: 50%;
+  background-color: #fc0d1b;
+  color: #000;
+  color: #fff;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 80%;
+}
+.ppblocker-div[data-badge="1"]::before {
+  display: none;
+}
+.ppblocker-div:not([data-page=true]) div {
+  grid-template-columns: repeat(3, min-content);
+  justify-content: end;
+}
+.ppblocker-div:not([data-page=true]) [data-cmd="white-list"],
+.ppblocker-div:not([data-page=true]) [data-cmd="popup-redirect"],
+.ppblocker-div:not([data-page=true]) [data-cmd="open-tab"] {
+  display: none;
+}
+
+.ppblocker-wot {
+  position: absolute;
+  top: 6px;
+  right: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 80%;
+}

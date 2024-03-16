@@ -1,0 +1,439 @@
+/* Popup */
+body {
+  min-width: 380px;
+  max-width: 800px;
+  overflow-x: hidden;
+  background-color: #f8f8f8;
+}
+
+/* Header */
+header {
+  background-color: #feffff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
+  border-bottom: 5px solid #f8f8f8;
+  height: none;
+  padding: 10px;
+}
+
+.headerLogo img {
+  width: 44px;
+  height: auto;
+}
+
+.startMeetButton {
+  transition: none;
+  position: absolute;
+  left: 30px;
+  margin-top: 4px;
+  background: #00211d;
+  color: #fff;
+  border-radius: 8px;
+  padding: 0.8em;
+}
+
+.learnMoreButton {
+  transition: none;
+  left: 21px;
+  margin-top: 4px;
+  background: #00211d;
+  color: #fff;
+  border-radius: 8px;
+  padding: 0.8em;
+}
+
+.learnMoreButton:hover {
+  background: #41b178;
+  text-decoration: none;
+}
+
+.startMeetButton:hover {
+  background: #41b178;
+  text-decoration: none;
+}
+
+/* Feature List */
+.subHeading {
+  margin: 10px;
+  font-weight: bold;
+}
+
+#featureList {
+  display: flex;
+}
+
+#basicFeatures {
+  display: inline;
+  width: 400px;
+}
+
+#proUpgrade {
+  display: inline;
+  width: 400px;
+  float: right;
+}
+
+#basicFeatureHeader {
+  display: none;
+}
+
+.container {
+  display: flex;
+  background: #feffff;
+  padding: 10px 30px;
+  margin-bottom: 2px;
+}
+
+.newFeature {
+  /* position: absolute; */
+  display: inline;
+  margin-right: 10px;
+  background: red;
+  border-radius: 10px;
+  color: white;
+  font-weight: 100;
+  padding: 0px 4px 0px 4px;
+  font-size: 10px;
+  margin-top: 1px;
+  margin-bottom: 2px;
+}
+
+/* Pro-Upgrade */
+#proFeatures,
+#proUpgrade,
+#activationForm {
+  display: none;
+}
+
+#proFeatures,
+#proUpgrade {
+  margin-bottom: 12px;
+}
+
+.upgradeContainer {
+  background-color: #09201d;
+  color: #feffff;
+  padding: 20px;
+}
+
+.upgradeContainer h1 {
+  margin-bottom: 5px;
+  margin-top: 0px;
+  font-weight: 700;
+}
+
+.upgradeContainer p {
+  margin-top: 0px;
+}
+
+#proLinks {
+  margin-top: 10px;
+}
+
+.goProButton {
+  display: inline-block;
+  background-color: #ebf7f1;
+  border-radius: 8px;
+  padding: 10px 15px;
+  color: #09201d;
+  text-decoration: none !important;
+}
+
+#activateLink {
+  text-decoration: underline;
+  margin-left: 14px;
+  cursor: pointer;
+}
+
+#submitButton {
+  text-decoration: underline;
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0;
+  margin-left: 10px;
+}
+
+.proFeatures {
+  margin-top: 15px;
+}
+
+.proFeatures .container {
+  display: flex;
+  justify-content: start;
+  padding: 10px 15px;
+}
+
+.proFeatures .proItems {
+  margin-left: 15px;
+}
+
+#licenseKey {
+  display: inline;
+}
+
+.proItems label {
+  color: #09201d;
+}
+
+.proItems a {
+  color: black;
+}
+
+/* Feature Items */
+.multiItemContainer {
+  margin-top: 4px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.multiItemContainer > div {
+  display: inline;
+}
+
+.multiItemContainer > .right {
+  float: right;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+}
+
+.item img {
+  width: 32px;
+}
+
+.item:nth-child(2) {
+  display: inline-block;
+  flex-grow: 1;
+  margin-left: 14px;
+}
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+  border-radius: 6px;
+  position: absolute;
+  top: 135%;
+  left: 50%;
+  margin-left: -60px;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.disableTooltip {
+  top: -30px !important;
+  left: -120px !important;
+  width: 160px !important;
+}
+
+/* Tooltip arrow */
+.disableTooltip::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -10px;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent transparent black;
+}
+
+.keyBinding {
+  display: block;
+  padding: 5px 10px;
+  width: 100px;
+  margin: 0 10px 0 0;
+  cursor: pointer;
+  font-size: 10px;
+  margin-right: 10px;
+  background: #f5f6f7 !important;
+  border: 1px solid #c4c5c6;
+  text-align: left;
+  color: var(--color-text-secondary);
+  height: 30px;
+}
+
+#editHotkey {
+  display: none;
+  background: #00211d;
+}
+
+#saveHotkey {
+  display: none;
+  background: #eab4b4;
+}
+
+.hotkeyButton {
+  text-decoration: none !important;
+  position: absolute;
+  right: 14px;
+  top: 4px;
+  color: white;
+  width: 24px;
+  padding: 4px 0px 4px 0px;
+  text-align: center;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.keyBinding:hover {
+  filter: none !important;
+}
+
+[data-active="true"] {
+  border: 2px solid #eab4b4;
+}
+
+.noHover:hover {
+  border: none;
+}
+
+#backgroundColorPicker {
+  padding: 2px;
+  margin-right: 6px;
+}
+
+#borderColor {
+  padding: 2px;
+  margin-right: 6px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  background: #fff;
+  width: 348px;
+  height: auto;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.8);
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  z-index: 100;
+}
+
+.footerWrapper {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.footerContent {
+  margin-bottom: 4px;
+  width: 189px;
+}
+
+.footerContent label {
+  margin-bottom: 2px;
+}
+
+.footerLink a {
+  background-attachment: fixed;
+  background: #00211d;
+  color: #fff;
+  border-radius: 8px;
+  padding: 0.8em;
+}
+
+.footerLink a:hover {
+  background: #41b178;
+  text-decoration: none;
+}
+
+.disabledCheckbox {
+  cursor: not-allowed;
+}
+
+#adjustVolume {
+  background: lightgrey;
+  user-select: none;
+  caret-color: transparent;
+  cursor: default;
+}
+
+#adjustVolume::selection {
+  background: transparent;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  opacity: 1;
+}
+
+.rateUsContainer {
+  background: #00211d;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  margin: 14px auto;
+  border-radius: 8px;
+}
+
+.rateUsInput,
+.rateUsAccept {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.rateUsAccept p {
+  width: 170px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.rateContent {
+  margin: 12px 0 0 0;
+}
+
+.rateUsContainer h1 {
+  font-size: 1.5em;
+  margin: 0 0 8px 0px;
+}
+
+.ratingFaces {
+  margin-bottom: 6px;
+}
+
+.ratingFaces img {
+  cursor: pointer;
+  width: 30px;
+}
+
+.ratingFaces img:nth-child(1) {
+  margin: 0 12px 0 12px;
+}
+
+.ratingFaces img:hover {
+  background: #1a73e8;
+  border-radius: 25px;
+}
+
+.rateUsDismiss {
+  text-decoration: underline;
+  cursor: pointer;
+  margin: 8px 0px 12px 0;
+}
+
+#leaveReviewButton {
+  cursor: pointer;
+}

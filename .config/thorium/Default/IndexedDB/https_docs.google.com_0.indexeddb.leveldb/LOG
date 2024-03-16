@@ -1,0 +1,7 @@
+2024/03/16-16:26:01.717 9f58 Reusing MANIFEST /home/axel/.config/thorium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-16:26:01.718 9f58 Recovering log #3
+2024/03/16-16:26:01.719 9f58 Reusing old log /home/axel/.config/thorium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2024/03/16-17:44:51.155 9f58 Level-0 table #5: started
+2024/03/16-17:44:51.199 9f58 Level-0 table #5: 8365 bytes OK
+2024/03/16-17:44:51.270 9f58 Delete type=0 #3
+2024/03/16-17:44:51.272 9f58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

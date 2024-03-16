@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "செயல்படுத்த"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "அல்லது உரிமத்தை செயல்படுத்தவும்"
+   },
+   "activeTabDesc": {
+      "message": "செயலில் உள்ள Meet தாவலைக் கண்டறிய நீட்டிப்பு ஐகானைக் கிளிக் செய்யவும்"
+   },
+   "activeTabLabel": {
+      "message": "செயலில் உள்ள சந்திப்பு தாவலைக் கண்டறியவும்"
+   },
+   "alwaysShowLabel": {
+      "message": "எப்போதும் பங்கேற்பாளர் பெயர்களைக் காட்டு"
+   },
+   "attendanceDesc": {
+      "message": "சந்திப்பின் வருகையைப் பதிவுசெய்து CSVக்கு ஏற்றுமதி செய்யுங்கள்"
+   },
+   "attendanceLabel": {
+      "message": "வருகையை எடுத்துக் கொள்ளுங்கள்"
+   },
+   "autoAdmitDesc": {
+      "message": "Meet இல் சேரும் புதியவர்களை தானாகவே அனுமதிக்கும்"
+   },
+   "autoAdmitLabel": {
+      "message": "புதிதாக நுழைபவர்களை ஆட்டோ அட்மிட்"
+   },
+   "autoFullScreenDesc": {
+      "message": "யாராவது ஸ்கிரீனைப் பகிரும்போது முழுத் திரையில் தானாகச் செல்லும்"
+   },
+   "autoFullScreenLabel": {
+      "message": "தானியங்கு முழுத்திரை"
+   },
+   "autoJoinDesc": {
+      "message": "தானாக மீட்டிங்கில் சேரவும்"
+   },
+   "autoJoinDescOption": {
+      "message": "பங்கேற்பாளர்கள் இருக்கும்போது மட்டுமே கூட்டத்தில் சேரவும்"
+   },
+   "autoJoinLabel": {
+      "message": "தானாக சேரவும்"
+   },
+   "autoMinimizeDesc": {
+      "message": "சந்திப்பில் சேரும்போது உங்கள் வீடியோவைத் தானாகக் குறைக்கவும்"
+   },
+   "autoMinimizeLabel": {
+      "message": "வீடியோவை தானாக குறைக்கவும்"
+   },
+   "autoMuteDesc": {
+      "message": "சேரும்போது மைக்ரோஃபோனைத் தானாக முடக்கு"
+   },
+   "autoMuteLabel": {
+      "message": "தானாக முடக்கு"
+   },
+   "autoRecordDesc": {
+      "message": "Meetஐத் தானாகப் பதிவுசெய்யத் தொடங்குங்கள் (Google Workspace தேவை)"
+   },
+   "autoRecordDescOne": {
+      "message": "தானாகவே பதிவைத் தொடங்கவும்"
+   },
+   "autoRecordDescThree": {
+      "message": "தானாக டிரான்ஸ்கிரிப்ஷனைத் தொடங்கும்"
+   },
+   "autoRecordDescTwo": {
+      "message": "கைமுறையாக பதிவைத் தொடங்கவும்"
+   },
+   "autoRecordLabel": {
+      "message": "தானியங்கு பதிவு"
+   },
+   "autoRejectDesc": {
+      "message": "Meet இல் சேரும் புதியவர்களை தானாகவே நிராகரிக்கும்"
+   },
+   "autoRejectLabel": {
+      "message": "புதிதாக நுழைபவர்களைத் தானாக மறுக்கவும்"
+   },
+   "autoUnmuteDesc": {
+      "message": "மற்றவர்கள் உங்கள் மைக்கை ஒலியடக்க விடாமல் தடுக்கவும்"
+   },
+   "autoUnmuteLabel": {
+      "message": "தானாக ஒலியை முடக்கு"
+   },
+   "autoVideoDesc": {
+      "message": "சேர்வை முடக்க வீடியோவை அமைக்கவும்"
+   },
+   "autoVideoLabel": {
+      "message": "ஆட்டோ வீடியோ ஆஃப்"
+   },
+   "basicFeatures": {
+      "message": "அடிப்படை அம்சங்கள்"
+   },
+   "bgColorDesc": {
+      "message": "Meetல் பிரத்தியேக பின்னணி வண்ணத்தை அமைக்கவும்"
+   },
+   "bgColorLabel": {
+      "message": "பின்னணி நிறத்தை அமைக்கவும்"
+   },
+   "captionsDesc": {
+      "message": "தலைப்புகளைத் தானாக இயக்கவும்"
+   },
+   "captionsLabel": {
+      "message": "தானியங்கு தலைப்புகள்"
+   },
+   "chimesDesc": {
+      "message": "பங்கேற்பாளர்கள் சேரும்போதும் வெளியேறும்போதும் அல்லது புதிய அரட்டைச் செய்தியைப் பெறும்போதும் எப்பொழுதும் மணி ஒலியைக் கேட்கவும்"
+   },
+   "chimesLabel": {
+      "message": "எப்பொழுதும் சிம்சை விளையாடுங்கள்"
+   },
+   "copyUrlDesc": {
+      "message": "Meet URLஐ கிளிப்போர்டுக்கு தானாக நகலெடுக்கவும்"
+   },
+   "copyUrlLabel": {
+      "message": "மீட் URL ஐ தானாக நகலெடுக்கவும்"
+   },
+   "darkModeDesc": {
+      "message": "Google Meet டார்க் பயன்முறையை உருவாக்குகிறது"
+   },
+   "darkModeLabel": {
+      "message": "இருண்ட பயன்முறை"
+   },
+   "desktopApp": {
+      "message": "டெஸ்க்டாப் பயன்பாடு"
+   },
+   "desktopDesc": {
+      "message": "அனைத்து Google Cal இணைப்புகளையும் இதில் திறக்கவும்"
+   },
+   "desktopLabel": {
+      "message": "டெஸ்க்டாப் பயன்பாட்டில் Meet இணைப்புகளைத் திறக்கவும்"
+   },
+   "displayClockDesc": {
+      "message": "முழுத்திரையில் இல்லாவிட்டாலும் கடிகாரத்தைக் காட்டு"
+   },
+   "displayClockLabel": {
+      "message": "காட்சி கடிகாரம்"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "கருத்து அறிவிப்பு குமிழியை மறை"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "கருத்துகளை மறை மற்றும் பயனர் பாப்-அப்களில் சேரவும்"
+   },
+   "doNotDisturbDesc": {
+      "message": "புதிய கருத்தை மறை"
+   },
+   "doNotDisturbLabel": {
+      "message": "தொந்தரவு செய்யாதீர்"
+   },
+   "emojiToolTipDesc": {
+      "message": "இந்த அம்சம் இயல்பாகவே ஆன் செய்யப்பட்டு, Google Meetல் உள்ள அரட்டைச் சாளரத்தில் இதை அணுகலாம்"
+   },
+   "extDesc": {
+      "message": "அனைவரையும் முடக்குதல், அனைத்தையும் அகற்றுதல், தானாக அனுமதித்தல், ஈமோஜிகள், மிரர் வீடியோக்கள், பின்னணி வண்ணம் மற்றும் பேசத் தள்ளுதல் போன்ற Google Meetக்கான 40 புதிய அம்சங்கள்!"
+   },
+   "extName": {
+      "message": "Google Meet மேம்படுத்தல் தொகுப்பு"
+   },
+   "generalToolTipDesc": {
+      "message": "இந்த அம்சம் இயல்பாகவே ஆன் செய்யப்பட்டு, Google Meetல் உள்ள பங்கேற்பாளர்கள் மெனுவிலிருந்து இதை அணுகலாம்"
+   },
+   "hideAddOthersDesc": {
+      "message": "சந்திப்பில் சேரும்போது &#39;பிறரைச் சேர்&#39; பாப்-அப்பை மறைக்கும்"
+   },
+   "hideAddOthersLabel": {
+      "message": "&#39;பிறரைச் சேர்&#39; பாப்-அப்பை மறை"
+   },
+   "hidePartNames": {
+      "message": "பங்கேற்பாளர் பெயர்களை மறை"
+   },
+   "hideSpeakingIcons": {
+      "message": "பங்கேற்பாளர் பேசும் ஐகான்களை மறை"
+   },
+   "hideTopBarDesc": {
+      "message": "கீழ் பட்டை மறைந்தவுடன் மேல் பட்டையை மறைக்கவும்"
+   },
+   "hideTopBarLabel": {
+      "message": "தானாக மறை மேல் பட்டை"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "வழங்கும்போது தானாகவே மறை `இன்ஃபினிட்டி மிரர்&#39; எச்சரிக்கை"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "தானாக புறக்கணிப்பு விளக்கக்காட்சி மேலடுக்கு"
+   },
+   "leaveConfirmDesc": {
+      "message": "நீங்கள் மீட்டிங்கில் இருந்து வெளியேறும்போது உறுதிசெய்யச் சொல்லவும்"
+   },
+   "leaveConfirmLabel": {
+      "message": "உறுதிப்படுத்தலை விடுங்கள்"
+   },
+   "meetProButtonLabel": {
+      "message": "7 நாள் இலவச சோதனையைத் தொடங்கவும்"
+   },
+   "meetProSectionDesc": {
+      "message": "Meet Pro க்கு மேம்படுத்துவதன் மூலம் Google Meet ஐ அடுத்த கட்டத்திற்கு கொண்டு செல்லும் 25 க்கும் மேற்பட்ட புதிய அம்சங்களுக்கான அணுகலைப் பெறுவீர்கள்."
+   },
+   "meetProSectionLabel": {
+      "message": "Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "Meet இன் ஒலியளவு அளவை சரிசெய்யவும்"
+   },
+   "meetVolumeLabel": {
+      "message": "Meet ஒலியளவைச் சரிசெய்யவும்"
+   },
+   "mirrorVideosDesc": {
+      "message": "சந்திப்பில் உள்ள அனைத்து வீடியோக்களையும் பிரதிபலிக்கிறது"
+   },
+   "mirrorVideosLabel": {
+      "message": "மிரர் வீடியோக்கள்"
+   },
+   "muchMore": {
+      "message": "இன்னும் நிறைய வரும்!"
+   },
+   "muteAllDesc": {
+      "message": "பங்கேற்பாளர்கள் மெனு மூலம் அனைத்து பங்கேற்பாளர்களையும் முடக்கு"
+   },
+   "muteAllLabel": {
+      "message": "அனைத்தையும் முடக்கு"
+   },
+   "mutePopupDesc": {
+      "message": "&#39;நீங்கள் பேசுகிறீர்களா?&#39; முடக்கப்படும் போது பாப்அப்"
+   },
+   "mutePopupLabel": {
+      "message": "முடக்கு பாப்அப்பை மறை"
+   },
+   "partVidStyleLabel": {
+      "message": "பங்கேற்பாளர் வீடியோ பாணி"
+   },
+   "pinBarDesc": {
+      "message": "கட்டுப்பாட்டுப் பட்டியை திரையின் அடிப்பகுதியில் பின் செய்கிறது"
+   },
+   "pinBarLabel": {
+      "message": "பின் பாட்டம் பார்"
+   },
+   "pinChatDesc": {
+      "message": "Meet இல் சேரும்போது தானாகவே அரட்டைக் காட்சியைப் பின் செய்யும்"
+   },
+   "pinChatLabel": {
+      "message": "தானாக பின் அரட்டை"
+   },
+   "pipDesc": {
+      "message": "படத்தில் உள்ள பங்கேற்பாளர்களின் வீடியோவைப் பார்க்கவும்"
+   },
+   "pipLabel": {
+      "message": "படத்தில்-படம்"
+   },
+   "proFeaturesSubHeading": {
+      "message": "ப்ரோ அம்சங்கள்"
+   },
+   "pttDesc": {
+      "message": "ஒலியடக்க ஹாட்கியை அழுத்திப் பிடிக்கவும்"
+   },
+   "pttLabel": {
+      "message": "பேசுவதற்கு அழுத்தவும்"
+   },
+   "pttUpgrade": {
+      "message": "உங்கள் சொந்த விசை பிணைப்பை அமைக்க Pro க்கு மேம்படுத்தவும்"
+   },
+   "quickEmojiDesc": {
+      "message": "அரட்டை சாளரத்தில் விரைவான ஈமோஜி குறுக்குவழிகளைச் சேர்க்கிறது"
+   },
+   "quickEmojiLabel": {
+      "message": "விரைவான ஈமோஜி எதிர்வினைகள்"
+   },
+   "quickLeaveDesc": {
+      "message": "அழைப்பிலிருந்து வெளியேற ஹாட்கீயைப் பயன்படுத்தவும்"
+   },
+   "quickLeaveLabel": {
+      "message": "விரைவு விடுப்பு"
+   },
+   "removeAllDesc": {
+      "message": "பங்கேற்பாளர்கள் மெனு வழியாக அனைத்து பங்கேற்பாளர்களையும் அகற்றவும்"
+   },
+   "removeAllLabel": {
+      "message": "அனைத்து நீக்க"
+   },
+   "returnHomeDesc": {
+      "message": "Meet இலிருந்து வெளியேறிய பிறகு Meet முகப்புத் திரைக்குத் திரும்பும்"
+   },
+   "returnHomeLabel": {
+      "message": "ஹேங்கப்பில் முகப்புத் திரைக்குத் திரும்பு"
+   },
+   "seeFeatures": {
+      "message": "நாங்கள் திட்டமிட்டுள்ள அனைத்து அம்சங்களையும் பார்க்க"
+   },
+   "sortParticipantsDesc": {
+      "message": "கடைசிப் பெயரின்படி வரிசைப்படுத்த பங்கேற்பாளர் பட்டியலில் நிலைமாற்றம் சேர்க்கிறது"
+   },
+   "sortParticipantsLabel": {
+      "message": "பங்கேற்பாளர் பட்டியலை வரிசைப்படுத்தவும்"
+   },
+   "speakerBorderDesc": {
+      "message": "பேசும் பங்கேற்பாளர்களைச் சுற்றி ஒரு பார்டரைச் சேர்க்கிறது"
+   },
+   "speakerBorderLabel": {
+      "message": "பேச்சாளர் ஹைலைட்"
+   },
+   "startMeet": {
+      "message": "ஒரு சந்திப்பைத் தொடங்கவும்"
+   },
+   "timerDesc": {
+      "message": "கீழ் தாவல் பட்டியில் மீட்டிங் டைமரைக் காட்டுகிறது"
+   },
+   "timerLabel": {
+      "message": "மீட்டிங் டைமர்"
+   },
+   "title": {
+      "message": "மேம்படுத்தல் தொகுப்பை சந்திக்கவும்"
+   },
+   "toggleBarDesc": {
+      "message": "கீழே உள்ள கட்டுப்பாட்டுப் பட்டியைத் தோன்ற மாற்றவும்"
+   },
+   "toggleBarLabel": {
+      "message": "கீழ் பட்டியை நிலைமாற்று"
+   },
+   "transBarDesc": {
+      "message": "கீழ் பட்டியை வெளிப்படையானதாக ஆக்குங்கள்"
+   },
+   "transBarLabel": {
+      "message": "வெளிப்படையான பட்டை"
+   },
+   "viewRoadmap": {
+      "message": "எங்கள் வரைபடத்தைப் பார்க்கவும்"
+   }
+}

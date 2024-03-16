@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "เปิดใช้งาน"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "หรือเปิดใช้งานใบอนุญาต"
+   },
+   "activeTabDesc": {
+      "message": "คลิกไอคอนส่วนขยายเพื่อค้นหาแท็บ Meet ที่ใช้งานอยู่"
+   },
+   "activeTabLabel": {
+      "message": "ค้นหาแท็บการประชุมที่ใช้งานอยู่"
+   },
+   "alwaysShowLabel": {
+      "message": "แสดงชื่อผู้เข้าร่วมทุกครั้ง"
+   },
+   "attendanceDesc": {
+      "message": "บันทึกการเข้าร่วมการประชุมและส่งออกเป็น CSV"
+   },
+   "attendanceLabel": {
+      "message": "เข้าร่วม"
+   },
+   "autoAdmitDesc": {
+      "message": "ยอมรับผู้เข้าร่วมรายใหม่เข้าสู่ Meet โดยอัตโนมัติ"
+   },
+   "autoAdmitLabel": {
+      "message": "ยอมรับผู้เข้าใหม่โดยอัตโนมัติ"
+   },
+   "autoFullScreenDesc": {
+      "message": "แสดงเต็มหน้าจออัตโนมัติเมื่อมีคนนำเสนอ"
+   },
+   "autoFullScreenLabel": {
+      "message": "เต็มหน้าจออัตโนมัติ"
+   },
+   "autoJoinDesc": {
+      "message": "เข้าร่วมการประชุมโดยอัตโนมัติ"
+   },
+   "autoJoinDescOption": {
+      "message": "เข้าร่วมการประชุมเมื่อมีผู้เข้าร่วมเท่านั้น"
+   },
+   "autoJoinLabel": {
+      "message": "เข้าร่วมอัตโนมัติ"
+   },
+   "autoMinimizeDesc": {
+      "message": "ย่อขนาดวิดีโอโดยอัตโนมัติเมื่อคุณเข้าร่วมการประชุม"
+   },
+   "autoMinimizeLabel": {
+      "message": "ย่อขนาดวิดีโออัตโนมัติ"
+   },
+   "autoMuteDesc": {
+      "message": "ปิดเสียงไมโครโฟนอัตโนมัติเมื่อเข้าร่วม"
+   },
+   "autoMuteLabel": {
+      "message": "ปิดเสียงอัตโนมัติ"
+   },
+   "autoRecordDesc": {
+      "message": "เริ่มบันทึก Meet โดยอัตโนมัติ (ต้องใช้ Google Workspace)"
+   },
+   "autoRecordDescOne": {
+      "message": "เริ่มบันทึกโดยอัตโนมัติ"
+   },
+   "autoRecordDescThree": {
+      "message": "เริ่มถอดความโดยอัตโนมัติ"
+   },
+   "autoRecordDescTwo": {
+      "message": "เริ่มการบันทึกด้วยตนเอง"
+   },
+   "autoRecordLabel": {
+      "message": "บันทึกอัตโนมัติ"
+   },
+   "autoRejectDesc": {
+      "message": "ปฏิเสธผู้เข้าประชุมรายใหม่โดยอัตโนมัติ"
+   },
+   "autoRejectLabel": {
+      "message": "ปฏิเสธผู้เข้าใหม่โดยอัตโนมัติ"
+   },
+   "autoUnmuteDesc": {
+      "message": "หยุดไม่ให้ผู้อื่นปิดเสียงไมโครโฟนของคุณ"
+   },
+   "autoUnmuteLabel": {
+      "message": "เปิดเสียงอัตโนมัติ"
+   },
+   "autoVideoDesc": {
+      "message": "ตั้งค่าวิดีโอเพื่อปิดการเข้าร่วม"
+   },
+   "autoVideoLabel": {
+      "message": "ปิดวิดีโออัตโนมัติ"
+   },
+   "basicFeatures": {
+      "message": "คุณสมบัติพื้นฐาน"
+   },
+   "bgColorDesc": {
+      "message": "ตั้งค่าสีพื้นหลังที่กำหนดเองใน Meet"
+   },
+   "bgColorLabel": {
+      "message": "ตั้งค่าสีพื้นหลัง"
+   },
+   "captionsDesc": {
+      "message": "เปิดคำบรรยายอัตโนมัติ"
+   },
+   "captionsLabel": {
+      "message": "คำบรรยายอัตโนมัติ"
+   },
+   "chimesDesc": {
+      "message": "ได้ยินเสียงกระดิ่งเสมอเมื่อผู้เข้าร่วมเข้าร่วมและออก หรือเมื่อได้รับข้อความแชทใหม่"
+   },
+   "chimesLabel": {
+      "message": "เล่น Chimes เสมอ"
+   },
+   "copyUrlDesc": {
+      "message": "คัดลอก Meet URL ไปยังคลิปบอร์ดโดยอัตโนมัติ"
+   },
+   "copyUrlLabel": {
+      "message": "คัดลอก URL อัตโนมัติ"
+   },
+   "darkModeDesc": {
+      "message": "ทำให้ Google Meet เป็นโหมดมืด"
+   },
+   "darkModeLabel": {
+      "message": "โหมดมืด"
+   },
+   "desktopApp": {
+      "message": "แอพเดสก์ท็อป"
+   },
+   "desktopDesc": {
+      "message": "ทำให้ลิงก์ Google Cal ทั้งหมดเปิดขึ้นใน"
+   },
+   "desktopLabel": {
+      "message": "เปิดลิงก์ Meet ในแอปเดสก์ท็อป"
+   },
+   "displayClockDesc": {
+      "message": "แสดงนาฬิกาแม้ไม่เต็มหน้าจอ"
+   },
+   "displayClockLabel": {
+      "message": "แสดงนาฬิกา"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "ซ่อนฟองการแจ้งเตือนความคิดเห็น"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "ซ่อนความคิดเห็นและป๊อปอัปการเข้าร่วมของผู้ใช้"
+   },
+   "doNotDisturbDesc": {
+      "message": "ซ่อนความคิดเห็นใหม่"
+   },
+   "doNotDisturbLabel": {
+      "message": "ห้ามรบกวน"
+   },
+   "emojiToolTipDesc": {
+      "message": "คุณลักษณะนี้เปิดใช้งานโดยค่าเริ่มต้น และคุณสามารถเข้าถึงได้จากหน้าต่างแชทใน Google Meet"
+   },
+   "extDesc": {
+      "message": "ฟีเจอร์ใหม่ 40 รายการสำหรับ Google Meet เช่น ปิดเสียงทั้งหมด ลบทั้งหมด ยอมรับอัตโนมัติ อิโมจิ มิเรอร์วิดีโอ สีพื้นหลัง และกดเพื่อพูด!"
+   },
+   "extName": {
+      "message": "ชุดเพิ่มประสิทธิภาพของ Google Meet"
+   },
+   "generalToolTipDesc": {
+      "message": "คุณลักษณะนี้เปิดใช้งานโดยค่าเริ่มต้น และคุณสามารถเข้าถึงได้จากเมนูผู้เข้าร่วมใน Google Meet"
+   },
+   "hideAddOthersDesc": {
+      "message": "ซ่อนป๊อปอัป &quot;เพิ่มผู้อื่น&quot; เมื่อเข้าร่วม Meet"
+   },
+   "hideAddOthersLabel": {
+      "message": "ซ่อนป๊อปอัป &#39;เพิ่มอื่น ๆ &#39;"
+   },
+   "hidePartNames": {
+      "message": "ซ่อนชื่อผู้เข้าร่วม"
+   },
+   "hideSpeakingIcons": {
+      "message": "ซ่อนไอคอนผู้เข้าร่วมพูด"
+   },
+   "hideTopBarDesc": {
+      "message": "ซ่อนแถบด้านบนเมื่อแถบด้านล่างหายไป"
+   },
+   "hideTopBarLabel": {
+      "message": "ซ่อนแถบด้านบนอัตโนมัติ"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "ซ่อนการแจ้งเตือน `อินฟินิตี้มิเรอร์&#39; อัตโนมัติเมื่อนำเสนอ"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "ละเว้นการนำเสนอซ้อนทับอัตโนมัติ"
+   },
+   "leaveConfirmDesc": {
+      "message": "ถามเพื่อยืนยันเมื่อคุณออกจากการประชุม"
+   },
+   "leaveConfirmLabel": {
+      "message": "ออกจากการยืนยัน"
+   },
+   "meetProButtonLabel": {
+      "message": "เริ่มทดลองใช้ฟรี 7 วัน"
+   },
+   "meetProSectionDesc": {
+      "message": "เมื่ออัปเกรดเป็น Meet Pro คุณจะสามารถเข้าถึงฟีเจอร์ใหม่กว่า 25 รายการที่จะยกระดับ Google Meet ไปอีกขั้น"
+   },
+   "meetProSectionLabel": {
+      "message": "รับ Meet Pro"
+   },
+   "meetVolumeDesc": {
+      "message": "ปรับระดับเสียงของ Meet"
+   },
+   "meetVolumeLabel": {
+      "message": "ปรับระดับเสียง Meet"
+   },
+   "mirrorVideosDesc": {
+      "message": "มิเรอร์วิดีโอทั้งหมดใน Meet"
+   },
+   "mirrorVideosLabel": {
+      "message": "วิดีโอกระจก"
+   },
+   "muchMore": {
+      "message": "อีกมากมายที่จะมา!"
+   },
+   "muteAllDesc": {
+      "message": "ปิดเสียงผู้เข้าร่วมทั้งหมดผ่านเมนูผู้เข้าร่วม"
+   },
+   "muteAllLabel": {
+      "message": "ปิดเสียงทั้งหมด"
+   },
+   "mutePopupDesc": {
+      "message": "ซ่อน &#39;คุณกำลังพูดอยู่หรือเปล่า&#39; ป๊อปอัปเมื่อปิดเสียง"
+   },
+   "mutePopupLabel": {
+      "message": "ซ่อนป๊อปอัปปิดเสียง"
+   },
+   "partVidStyleLabel": {
+      "message": "สไตล์วิดีโอของผู้เข้าร่วม"
+   },
+   "pinBarDesc": {
+      "message": "ตรึงแถบควบคุมไว้ที่ด้านล่างของหน้าจอ"
+   },
+   "pinBarLabel": {
+      "message": "พินแถบด้านล่าง"
+   },
+   "pinChatDesc": {
+      "message": "ปักหมุดมุมมองแชทโดยอัตโนมัติเมื่อเข้าร่วม Meet"
+   },
+   "pinChatLabel": {
+      "message": "ปักหมุดแชทอัตโนมัติ"
+   },
+   "pipDesc": {
+      "message": "ดูวิดีโอของผู้เข้าร่วมแบบภาพซ้อนภาพ"
+   },
+   "pipLabel": {
+      "message": "รูปภาพในภาพ"
+   },
+   "proFeaturesSubHeading": {
+      "message": "คุณสมบัติโปร"
+   },
+   "pttDesc": {
+      "message": "กดปุ่มลัดค้างไว้เพื่อเปิดเสียง"
+   },
+   "pttLabel": {
+      "message": "กดเพื่อพูดคุย"
+   },
+   "pttUpgrade": {
+      "message": "อัปเกรดเป็น Pro เพื่อตั้งค่าการเชื่อมโยงคีย์ของคุณเอง"
+   },
+   "quickEmojiDesc": {
+      "message": "เพิ่มทางลัดอิโมจิด่วนไปยังหน้าต่างแชท"
+   },
+   "quickEmojiLabel": {
+      "message": "ปฏิกิริยาอิโมจิด่วน"
+   },
+   "quickLeaveDesc": {
+      "message": "ใช้ปุ่มลัดเพื่อวางสาย"
+   },
+   "quickLeaveLabel": {
+      "message": "ลาด่วน"
+   },
+   "removeAllDesc": {
+      "message": "ลบผู้เข้าร่วมทั้งหมดผ่านเมนูผู้เข้าร่วม"
+   },
+   "removeAllLabel": {
+      "message": "ลบทั้งหมด"
+   },
+   "returnHomeDesc": {
+      "message": "กลับไปที่หน้าจอหลักของ Meet หลังจากออกจาก Meet"
+   },
+   "returnHomeLabel": {
+      "message": "กลับไปที่หน้าจอหลักเมื่อวางสาย"
+   },
+   "seeFeatures": {
+      "message": "เพื่อดูคุณสมบัติทั้งหมดที่เราวางแผนไว้"
+   },
+   "sortParticipantsDesc": {
+      "message": "เพิ่มการสลับไปยังรายชื่อผู้เข้าร่วมเพื่อจัดเรียงตามนามสกุล"
+   },
+   "sortParticipantsLabel": {
+      "message": "เรียงลำดับรายชื่อผู้เข้าร่วม"
+   },
+   "speakerBorderDesc": {
+      "message": "เพิ่มเส้นขอบรอบผู้เข้าร่วมการพูด"
+   },
+   "speakerBorderLabel": {
+      "message": "ไฮไลท์ลำโพง"
+   },
+   "startMeet": {
+      "message": "เริ่มการประชุม"
+   },
+   "timerDesc": {
+      "message": "แสดงตัวจับเวลาการประชุมในแถบแท็บด้านล่าง"
+   },
+   "timerLabel": {
+      "message": "จับเวลาการประชุม"
+   },
+   "title": {
+      "message": "พบกับ Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "สลับแถบควบคุมด้านล่างให้ปรากฏ"
+   },
+   "toggleBarLabel": {
+      "message": "สลับแถบด้านล่าง"
+   },
+   "transBarDesc": {
+      "message": "ทำให้แถบด้านล่างโปร่งใส"
+   },
+   "transBarLabel": {
+      "message": "แท่งใส"
+   },
+   "viewRoadmap": {
+      "message": "ดูแผนงานของเรา"
+   }
+}

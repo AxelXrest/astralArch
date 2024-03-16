@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Free Download Manager Extension Options</title>
+    <style>
+        body {
+            width: 300px;
+            background-color: #f8f8f8;
+            margin: 0;
+            margin-top: 10px;
+            font-size: 12px;
+        }
+        input {
+            top: -1px;
+        }
+        label {
+            margin-left: 2px;
+        }
+        img {
+            width: 32px;
+            display: inline;
+        }
+        .fdm_title {
+            text-align: center;
+        }
+        .fdm_title_txt {
+            font-size: 20px;
+            position: relative;
+            top: -7px;
+        }
+
+        .menu-entry {
+            padding: 3px 4px 3px 8px;
+            cursor: pointer;
+        }
+        .menu-entry:hover {
+            -webkit-transition: all 0.3s ease-out;
+            background: #F2F2F2;
+        }
+        .menu-entry .txt {
+            margin-left: 20px;
+        }
+        .menu-info {
+            padding: 3px 4px 3px 8px;
+        }
+        .menu-info .txt {
+            margin-left: 20px;
+            display: block;
+        }
+        .menu-entry {position: relative;}
+        .menu-entry.checked .txt:before {
+            content: '';
+            background-image: url(images/checked.png);
+            background-size: contain;
+            width: 14px;
+            height: 12px;
+            display: block;
+            position: absolute;
+            top: 50%;
+            margin-top: -6px;
+        }
+
+        .bottom {
+            margin-bottom: 6px;
+        }
+        
+        hr { border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.2); }
+    </style>
+
+    <script src="webextension.js"></script>
+    <script src="utils.js"></script>
+
+</head>
+
+<body>
+
+<div>
+    <div class="fdm_title">
+        <img src="fdm48.png" />
+        <span class="fdm_title_txt">Free Download Manager</span>
+    </div>
+    <hr />
+    <div class="fdm_content">
+        <div id="fdm_loading" class="menu-info"><span class="txt">Loading...</span></div>
+        <div id="fdm_settings" style="display: none">
+            <div class="menu-entry" id="pauseCatchingForAllSites">
+                <span class="txt">Pause to catch downloads from all sites</span>
+            </div>
+            <div class="menu-entry" id="activeTabInSkipList">
+                <span class="txt">Don't catch downloads from this site</span>
+            </div>
+            <!--<input type="checkbox" id="activeTabInSkipList">-->
+            <!--<label for="activeTabInSkipList">Don't catch downloads from this site</label>-->
+        </div>
+        <div id="fdm_update" class="menu-info" style="display: none">
+            <span class="txt">
+                Settings aren't available for your FDM version. <br />
+                Please <a href="https://www.freedownloadmanager.org/download.htm" target="_blank">update</a> it.
+            </span>
+        </div>
+        <hr />
+        <div class="bottom">
+            <div class="menu-entry" id="optionsLink" style="display: none">
+                <span class="txt">Options</span>
+            </div>
+            <div class="menu-entry" id="feedbackLink">
+                <span class="txt">Help and Feedback</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="settings.js"></script>
+</body>
+</html>

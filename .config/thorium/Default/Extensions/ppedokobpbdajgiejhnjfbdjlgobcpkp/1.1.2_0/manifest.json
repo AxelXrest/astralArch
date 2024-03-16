@@ -1,0 +1,22 @@
+{
+   "author": "Mark Muego",
+   "background": {
+      "persistent": true,
+      "scripts": [ "fuckoverlaysbg.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "fuckem.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "adds a context menu to delete sign-up/sign-in overlays that prevent you from viewing a page",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtVkUGqa7wxbV04unJR41mo6bi3GvYgdu3RD2v8QnrbnWy/VrMbTv3Ro+M0sYFrS15aIRn2g3YtomUEdoLuwxDEhg1lyrgjagKvzsXXlpmUg9kiFhG6IulqKSo056+m6oYenzkh+raaMsibz2qpIdtKJBfoocsu0vLGeO3W+zOgYLZwTxV7gdgtBY+veyBfIfhZoKaSLm/jhKOAubc3b1ffPar1r7Rx/gNIKpjTUJhEp/3/i8jCfubiwLDxAfdwmq5lBGIANO02+HDuCggJhP+P4rEGhs/S+HxJdEwEi2opxvSnDS77Ci3XpFJfEP51Br62Iob3a82pij681+1C4JWQIDAQAB",
+   "manifest_version": 2,
+   "name": "f*ck overlays",
+   "permissions": [ "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.2"
+}

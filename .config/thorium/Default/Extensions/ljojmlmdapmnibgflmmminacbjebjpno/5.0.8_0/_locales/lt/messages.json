@@ -1,0 +1,326 @@
+{
+   "activateLabel": {
+      "message": "Suaktyvinti"
+   },
+   "activateLicenseButtonLabel": {
+      "message": "arba suaktyvinti licenciją"
+   },
+   "activeTabDesc": {
+      "message": "Spustelėkite plėtinio piktogramą, kad rastumėte aktyvų „Meet“ skirtuką"
+   },
+   "activeTabLabel": {
+      "message": "Raskite „Active Meet“ skirtuką"
+   },
+   "alwaysShowLabel": {
+      "message": "Visada rodyti dalyvių vardus"
+   },
+   "attendanceDesc": {
+      "message": "Užfiksuokite susitikimo dalyvavimą ir eksportuokite į CSV"
+   },
+   "attendanceLabel": {
+      "message": "Dalyvaukite"
+   },
+   "autoAdmitDesc": {
+      "message": "Automatiškai įleidžia naujus dalyvius į susitikimą"
+   },
+   "autoAdmitLabel": {
+      "message": "Automatinis naujų dalyvių priėmimas"
+   },
+   "autoFullScreenDesc": {
+      "message": "Automatiškai pereiti per visą ekraną, kai kas nors pristato"
+   },
+   "autoFullScreenLabel": {
+      "message": "Automatinis viso ekrano režimas"
+   },
+   "autoJoinDesc": {
+      "message": "Prisijunkite prie susitikimo automatiškai"
+   },
+   "autoJoinDescOption": {
+      "message": "Prisijunkite prie susitikimo tik tada, kai dalyvauja dalyviai"
+   },
+   "autoJoinLabel": {
+      "message": "Automatinis prisijungimas"
+   },
+   "autoMinimizeDesc": {
+      "message": "Kai prisijungiate prie susitikimo, automatiškai sumažinkite vaizdo įrašą"
+   },
+   "autoMinimizeLabel": {
+      "message": "Automatiškai sumažinti vaizdo įrašą"
+   },
+   "autoMuteDesc": {
+      "message": "Automatinis mikrofono nutildymas prisijungus"
+   },
+   "autoMuteLabel": {
+      "message": "Automatinis nutildymas"
+   },
+   "autoRecordDesc": {
+      "message": "Automatiškai pradėti „Meet“ įrašymą (reikia „Google Workspace“)"
+   },
+   "autoRecordDescOne": {
+      "message": "Automatiškai pradėti įrašymą"
+   },
+   "autoRecordDescThree": {
+      "message": "Automatiškai pradėti transkripciją"
+   },
+   "autoRecordDescTwo": {
+      "message": "Pradėti įrašymą rankiniu būdu"
+   },
+   "autoRecordLabel": {
+      "message": "Automatinis įrašymas"
+   },
+   "autoRejectDesc": {
+      "message": "Automatiškai atmeta naujus „Meet“ dalyvius"
+   },
+   "autoRejectLabel": {
+      "message": "Automatinis naujų dalyvių atsisakymas"
+   },
+   "autoUnmuteDesc": {
+      "message": "Neleiskite kitiems nutildyti jūsų mikrofono"
+   },
+   "autoUnmuteLabel": {
+      "message": "Automatinis įjungimas"
+   },
+   "autoVideoDesc": {
+      "message": "Nustatykite, kad vaizdo įrašas būtų išjungtas prisijungus"
+   },
+   "autoVideoLabel": {
+      "message": "Automatinis vaizdo išjungimas"
+   },
+   "basicFeatures": {
+      "message": "Pagrindinės savybės"
+   },
+   "bgColorDesc": {
+      "message": "Nustatykite tinkintą fono spalvą „Meet“."
+   },
+   "bgColorLabel": {
+      "message": "Nustatyti fono spalvą"
+   },
+   "captionsDesc": {
+      "message": "Automatiškai įjungti subtitrus"
+   },
+   "captionsLabel": {
+      "message": "Automatiniai subtitrai"
+   },
+   "chimesDesc": {
+      "message": "Visada girdėkite varpelius, kai dalyviai prisijungia ir išeina, arba a, kai gaunamas naujas pokalbio pranešimas"
+   },
+   "chimesLabel": {
+      "message": "Visada grokite varpelius"
+   },
+   "copyUrlDesc": {
+      "message": "Automatiškai nukopijuoti „Meet“ URL į mainų sritį"
+   },
+   "copyUrlLabel": {
+      "message": "Automatiškai kopijuoti „Meet“ URL"
+   },
+   "darkModeDesc": {
+      "message": "Padaro „Google Meet“ tamsųjį režimą"
+   },
+   "darkModeLabel": {
+      "message": "Tamsusis režimas"
+   },
+   "desktopApp": {
+      "message": "darbalaukio programa"
+   },
+   "desktopDesc": {
+      "message": "Padarykite visas Google Cal nuorodas atidarytas"
+   },
+   "desktopLabel": {
+      "message": "Atidarykite „Meet“ nuorodas darbalaukio programoje"
+   },
+   "displayClockDesc": {
+      "message": "Rodyti laikrodį net tada, kai nėra viso ekrano režimo"
+   },
+   "displayClockLabel": {
+      "message": "Ekranas Laikrodis"
+   },
+   "doNotDisturbCommentsBubbleDesc": {
+      "message": "Slėpti komentaro pranešimų debesėlį"
+   },
+   "doNotDisturbCommentsDesc": {
+      "message": "Slėpti komentarus ir vartotojo prisijungimo iššokančiuosius langus"
+   },
+   "doNotDisturbDesc": {
+      "message": "Slėpti naują komentarą"
+   },
+   "doNotDisturbLabel": {
+      "message": "Netrukdyti"
+   },
+   "emojiToolTipDesc": {
+      "message": "Ši funkcija įjungta pagal numatytuosius nustatymus ir galite ją pasiekti „Google Meet“ pokalbio lange"
+   },
+   "extDesc": {
+      "message": "40 naujų „Google Meet“ funkcijų, pvz., nutildyti viską, pašalinti viską, automatiškai priimti, jaustukai, veidrodiniai vaizdo įrašai, fono spalva ir tiesioginis pokalbis!"
+   },
+   "extName": {
+      "message": "„Google Meet Enhancement Suite“."
+   },
+   "generalToolTipDesc": {
+      "message": "Ši funkcija įjungta pagal numatytuosius nustatymus ir ją galite pasiekti iš „Google Meet“ dalyvių meniu"
+   },
+   "hideAddOthersDesc": {
+      "message": "Slepia iššokantįjį langą „Pridėti kitų“, kai prisijungiate prie „Meet“."
+   },
+   "hideAddOthersLabel": {
+      "message": "Slėpti iššokantįjį langą „Pridėti kitų“."
+   },
+   "hidePartNames": {
+      "message": "Slėpti dalyvių vardus"
+   },
+   "hideSpeakingIcons": {
+      "message": "Slėpti dalyvio kalbėjimo piktogramas"
+   },
+   "hideTopBarDesc": {
+      "message": "Paslėpti viršutinę juostą, kai apatinė juosta išnyksta"
+   },
+   "hideTopBarLabel": {
+      "message": "Automatiškai paslėpti viršutinę juostą"
+   },
+   "ignorePresentationModalDesc": {
+      "message": "Pristatant automatiškai paslėpti „begalybės veidrodžio“ įspėjimą"
+   },
+   "ignorePresentationModalLabel": {
+      "message": "Automatiškai ignoruoti pristatymo perdangą"
+   },
+   "leaveConfirmDesc": {
+      "message": "Išeidami iš susitikimo paprašykite patvirtinimo"
+   },
+   "leaveConfirmLabel": {
+      "message": "Palikite patvirtinimą"
+   },
+   "meetProButtonLabel": {
+      "message": "Pradėkite 7 dienų nemokamą bandomąją versiją"
+   },
+   "meetProSectionDesc": {
+      "message": "Naujovinę į „Meet Pro“ gausite prieigą prie daugiau nei 25 naujų funkcijų, kurios perkelia „Google Meet“ į kitą lygį."
+   },
+   "meetProSectionLabel": {
+      "message": "Gaukite „Meet Pro“."
+   },
+   "meetVolumeDesc": {
+      "message": "Sureguliuokite „Meet“ garsumo lygį"
+   },
+   "meetVolumeLabel": {
+      "message": "Sureguliuokite „Meet“ garsumą"
+   },
+   "mirrorVideosDesc": {
+      "message": "Atspindi visus „Meet“ vaizdo įrašus"
+   },
+   "mirrorVideosLabel": {
+      "message": "Veidrodiniai vaizdo įrašai"
+   },
+   "muchMore": {
+      "message": "Dar daug kas ateis!"
+   },
+   "muteAllDesc": {
+      "message": "Nutildyti visus dalyvius per dalyvių meniu"
+   },
+   "muteAllLabel": {
+      "message": "Nutildyti visus"
+   },
+   "mutePopupDesc": {
+      "message": "Slepia &#39;Ar tu kalbi?&#39; iššokantis langas, kai nutildomas"
+   },
+   "mutePopupLabel": {
+      "message": "Slėpti iššokantįjį langą"
+   },
+   "partVidStyleLabel": {
+      "message": "Dalyvio vaizdo įrašo stilius"
+   },
+   "pinBarDesc": {
+      "message": "Prisega valdymo juostą ekrano apačioje"
+   },
+   "pinBarLabel": {
+      "message": "Smeigtuko apatinė juosta"
+   },
+   "pinChatDesc": {
+      "message": "Automatiškai prisega pokalbio rodinį prisijungus prie „Meet“."
+   },
+   "pinChatLabel": {
+      "message": "Automatiškai prisegti pokalbį"
+   },
+   "pipDesc": {
+      "message": "Peržiūrėkite dalyvių vaizdo įrašą „vaizdas vaizde“."
+   },
+   "pipLabel": {
+      "message": "Vaizdas paveikslėlyje"
+   },
+   "proFeaturesSubHeading": {
+      "message": "Pro funkcijos"
+   },
+   "pttDesc": {
+      "message": "Norėdami įjungti garsą, laikykite nuspaudę sparčiąjį klavišą"
+   },
+   "pttLabel": {
+      "message": "Push to Talk"
+   },
+   "pttUpgrade": {
+      "message": "Naujovinkite į Pro, kad nustatytumėte savo raktų susiejimą"
+   },
+   "quickEmojiDesc": {
+      "message": "Prideda greitus jaustukų sparčiuosius klavišus pokalbio lange"
+   },
+   "quickEmojiLabel": {
+      "message": "Greitos emocijų reakcijos"
+   },
+   "quickLeaveDesc": {
+      "message": "Norėdami išeiti iš skambučio, naudokite spartųjį klavišą"
+   },
+   "quickLeaveLabel": {
+      "message": "Greitas palikimas"
+   },
+   "removeAllDesc": {
+      "message": "Pašalinkite visus dalyvius per dalyvių meniu"
+   },
+   "removeAllLabel": {
+      "message": "Pašalinti visus"
+   },
+   "returnHomeDesc": {
+      "message": "Išėjus iš „Meet“ grįžta į pagrindinį „Meet“ ekraną"
+   },
+   "returnHomeLabel": {
+      "message": "Padėję ragelį grįžkite į pagrindinį ekraną"
+   },
+   "seeFeatures": {
+      "message": "kad pamatytumėte visas mūsų suplanuotas funkcijas"
+   },
+   "sortParticipantsDesc": {
+      "message": "Prideda jungiklį prie dalyvių sąrašo, kad būtų galima rūšiuoti pagal pavardę"
+   },
+   "sortParticipantsLabel": {
+      "message": "Rūšiuoti dalyvių sąrašą"
+   },
+   "speakerBorderDesc": {
+      "message": "Prideda kraštinę aplink kalbančius dalyvius"
+   },
+   "speakerBorderLabel": {
+      "message": "Garsiakalbio paryškinimas"
+   },
+   "startMeet": {
+      "message": "Pradėkite susitikimą"
+   },
+   "timerDesc": {
+      "message": "Apatinėje skirtuko juostoje rodomas susitikimo laikmatis"
+   },
+   "timerLabel": {
+      "message": "Susitikimo laikmatis"
+   },
+   "title": {
+      "message": "Susipažinkite su Enhancement Suite"
+   },
+   "toggleBarDesc": {
+      "message": "Perjunkite apatinę valdymo juostą, kad būtų rodoma"
+   },
+   "toggleBarLabel": {
+      "message": "Perjungti apatinę juostą"
+   },
+   "transBarDesc": {
+      "message": "Padarykite apatinę juostą skaidrią"
+   },
+   "transBarLabel": {
+      "message": "Skaidrus baras"
+   },
+   "viewRoadmap": {
+      "message": "Peržiūrėkite mūsų planą"
+   }
+}
