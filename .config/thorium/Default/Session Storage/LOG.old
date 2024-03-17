@@ -1,3 +1,6 @@
-2024/03/16-21:58:36.256 4 Reusing MANIFEST /home/axel/.config/thorium/Default/Session Storage/MANIFEST-000001
-2024/03/16-21:58:36.258 4 Recovering log #4
-2024/03/16-21:58:36.259 4 Reusing old log /home/axel/.config/thorium/Default/Session Storage/000004.log 
+2024/03/16-22:58:03.651 4 Reusing MANIFEST /home/axel/.config/thorium/Default/Session Storage/MANIFEST-000001
+2024/03/16-22:58:03.652 4 Recovering log #4
+2024/03/16-22:58:03.653 4 Reusing old log /home/axel/.config/thorium/Default/Session Storage/000004.log 
+2024/03/16-23:39:56.512 4 Level-0 table #8: started
+2024/03/16-23:39:56.603 4 Level-0 table #8: 39185 bytes OK
+2024/03/16-23:39:56.660 4 Delete type=0 #4

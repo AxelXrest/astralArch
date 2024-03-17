@@ -1,0 +1,6 @@
+Release Version: 1.8.30
+Build Version: 1.8.30.215
+Build Time: 2024-03-15 06:08:04Z
+Branch: release
+Commit SHA:
+web/extension: fe78fae8e6c98e02c788ba1643a2a60a10b4c7e3

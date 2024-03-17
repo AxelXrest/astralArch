@@ -1,0 +1,44 @@
+2024-03-16T16:33:58.031Z - info: [ui] [AppStore] loading 0 repositories from store
+2024-03-16T16:33:58.128Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-03-16T16:33:58.174Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-03-16T16:33:58.176Z - info: [ui] launching: 3.3.8-linux2 (Linux 6.7.9-arch1-1)
+2024-03-16T16:33:58.179Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2024-03-16T16:33:58.269Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-03-16T16:33:58.932Z - info: [ui] Opt in reported.
+2024-03-16T16:33:59.957Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-03-16T16:34:02.116Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2024-03-16T16:34:02.118Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-03-16T16:34:02.126Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=0ad158cd-f16f-498b-9b66-3ac502203ed9
+2024-03-16T16:34:02.127Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2024-03-16T16:34:02.373Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2024-03-16T16:34:05.720Z - info: [main] Received possible protocol arguments: 3
+2024-03-16T16:34:05.720Z - info: [main] Processing protocol url
+2024-03-16T16:34:05.726Z - info: [ui] [Dispatcher] requesting authenticated user
+2024-03-16T16:34:05.747Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2024-03-16T16:34:05.892Z - info: [main] Received possible protocol arguments: 2
+2024-03-16T16:34:05.903Z - info: [main] Processing protocol url
+2024-03-16T16:34:07.628Z - info: [ui] [SignInStore] account resolved
+2024-03-16T16:34:07.630Z - info: [ui] [AppStore] adding account AxelXrest (Axel Xrest) to store
+2024-03-16T16:34:07.636Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2024-03-16T16:34:07.743Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-03-16T16:34:08.114Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-03-16T16:34:18.426Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-03-16T16:34:18.491Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-03-16T16:34:19.324Z - info: [ui] Subscribed 'AxelXrest' to Alive channel
+2024-03-16T16:34:20.041Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-03-16T16:35:10.319Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/AxelXrest/astralArch.git - AxelXrest (has token)
+2024-03-16T16:35:12.556Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/AxelXrest/astralArch.git /home/axel/git/astralArch (took 2.192s)
+2024-03-16T16:35:12.636Z - info: [ui] [AppStore] adding repository at /home/axel/git/astralArch to store
+2024-03-16T16:35:13.990Z - info: [ui] [BranchPruner] No branches to prune.
+2024-03-16T16:36:55.043Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: astralArch - AxelXrest (has token)
+2024-03-16T16:36:56.737Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.670s)
+2024-03-16T16:36:58.664Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.925s)
+2024-03-16T16:37:20.171Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 27.6s of which 0.0s paused, total 27.6s
+2024-03-16T16:38:03.948Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 2.813s)
+2024-03-16T16:38:04.909Z - info: [ui] [Timing] Action 'create commit' for 'AxelXrest/astralArch' took 4.153s
+2024-03-16T16:38:19.576Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: astralArch - AxelXrest (has token)
+2024-03-16T16:39:35.531Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 75.937s)
+2024-03-16T16:39:37.098Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.544s)
+2024-03-16T16:39:38.800Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.696s)
+2024-03-16T16:53:44.975Z - info: [main] Received possible protocol arguments: 2
+2024-03-16T16:53:45.003Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.8s of which 15.9s paused, total 16.7s

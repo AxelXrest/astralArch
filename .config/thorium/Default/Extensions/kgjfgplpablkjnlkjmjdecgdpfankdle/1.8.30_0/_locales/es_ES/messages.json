@@ -1,0 +1,171 @@
+{
+	"popup_title": {
+		"message": "Zoom Chrome Extension",
+		"description": ""
+	},
+	"popup_loading": {
+		"message": "Cargando",
+		"description": ""
+	},
+	"popup_setting": {
+		"message": "Ajustes",
+		"description": ""
+	},
+	"popup_signin": {
+		"message": "Sign In with Google",
+		"description": ""
+	},
+	"popup_schedule": {
+		"message": "Programar una reuni\u00f3n",
+		"description": ""
+	},
+	"popup_start": {
+		"message": "Iniciar una reuni\u00F3n",
+		"description": ""
+	},
+	"popup_videooff": {
+		"message": "Con video apagado",
+		"description": ""
+	},
+	"popup_videoon": {
+		"message": "Con video apagado",
+		"description": ""
+	},
+	"popup_signout": {
+		"message": "SALIR",
+		"description": ""
+	},
+
+	"setting_title": {
+		"message": "Zoom Extension Settings",
+		"description": ""
+	},
+	"setting_h1": {
+		"message": "Zoom Extension Options",
+		"description": ""
+	},
+	"setting_schedulefor": {
+		"message": "Programar para",
+		"description": ""
+	},
+	"setting_myself": {
+		"message": "M\u00ed mismo",
+		"description": ""
+	},
+	"setting_alloweach": {
+		"message": "Allow me to choose each time",
+		"description": ""
+	},
+	"setting_video": {
+		"message": "Video",
+		"description": ""
+	},
+	"setting_video_host": {
+		"message": "anfitri\u00f3n",
+		"description": ""
+	},
+	"setting_video_participant": {
+		"message": "Participante",
+		"description": ""
+	},
+	"setting_video_on": {
+		"message": "Encendido",
+		"description": ""
+	},
+	"setting_video_off": {
+		"message": "Apagado",
+		"description": ""
+	},
+	"setting_audio": {
+		"message": "Audio",
+		"description": ""
+	},
+	"setting_audio_tel": {
+		"message": "Telefon\u00eda \u00fanicamente",
+		"description": ""
+	},
+	"setting_audio_voip": {
+		"message": "VoIP (voz sobre protocolo de Internet) \u00fanicamente",
+		"description": ""
+	},
+	"setting_audio_both": {
+		"message": "Ambos",
+		"description": ""
+	},
+	"setting_audio_3rd": {
+		"message": "Audio de terceros",
+		"description": ""
+	},
+	"setting_opts": {
+		"message": "Options",
+		"description": ""
+	},		
+	"setting_opts_requirepwd": {
+		"message": "Requerir contrase\u00f1a de reuni\u00f3n",
+		"description": ""
+	},	
+	"setting_opts_randpwd": {
+		"message": "Random password",
+		"description": ""
+	},		
+	"setting_opts_manulpwd": {
+		"message": "Manually input password",
+		"description": ""
+	},
+	"setting_opts_jbh": {
+		"message": "Habilitar entrar antes que el anfitri\u00f3n",
+		"description": ""
+	},	
+	"setting_opts_pmi": {
+		"message": "Usar ID personal de la reuni\u00f3n ",
+		"description": ""
+	},
+	"setting_opts_althost": {
+		"message": "Anfitriones alternativos",
+		"description": ""
+	},	
+	"setting_opts_sign1": {
+		"message": "Solamente los usuarios que se registraron pueden unirse a las reuniones.",
+		"description": ""
+	},
+	"setting_opts_sign2": {
+		"message": "Solamente los usuarios que se registraron con dominios espec\u00edficos pueden unirse a las reuniones",
+		"description": ""
+	},	
+	"setting_opts_errtext": {
+		"message": "Ingrese dominios v\u00e1lidos Separe dominios m\u00faltiples con punto y coma.",
+		"description": ""
+	},	
+	"setting_pac": {
+		"message": "Conferencia de audio personal",
+		"description": ""
+	},
+	"setting_pac_account1": {
+		"message": "Account 1",
+		"description": ""
+	},
+	"setting_pac_account2": {
+		"message": "Account 2",
+		"description": ""
+	},
+	"setting_pac_dailin": {
+		"message": "Dedicated Dail-In Numbers",
+		"description": ""
+	},
+	"setting_pac_dailin2": {
+		"message": "Global Dial-In Numbers",
+		"description": ""
+	},
+	"setting_pac_mtgid": {
+		"message": "Meeting ID",
+		"description": ""
+	},
+	"setting_save_change": {
+		"message": "Save Changes",
+		"description": ""
+	},
+	"setting_cancel": {
+		"message": "Cancel",
+		"description": ""
+	}
+}

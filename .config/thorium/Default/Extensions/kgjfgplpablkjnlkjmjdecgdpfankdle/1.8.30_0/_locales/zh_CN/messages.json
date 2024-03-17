@@ -1,0 +1,170 @@
+{
+   "popup_loading": {
+      "description": "",
+      "message": "加载"
+   },
+   "popup_schedule": {
+      "description": "",
+      "message": "安排会议"
+   },
+   "popup_setting": {
+      "description": "",
+      "message": "设置"
+   },
+   "popup_signin": {
+      "description": "",
+      "message": "谷歌登陆"
+   },
+   "popup_signout": {
+      "description": "",
+      "message": "登出"
+   },
+   "popup_start": {
+      "description": "",
+      "message": "开始会议"
+   },
+   "popup_title": {
+      "description": "",
+      "message": "Zoom Chrome Extension"
+   },
+   "popup_videooff": {
+      "description": "",
+      "message": "视频关闭"
+   },
+   "popup_videoon": {
+      "description": "",
+      "message": "视频打开"
+   },
+   "setting_alloweach": {
+      "description": "",
+      "message": "Allow me to choose each time"
+   },
+   "setting_audio": {
+      "description": "",
+      "message": "音频选项"
+   },
+   "setting_audio_3rd": {
+      "description": "",
+      "message": "3rd Party Audio"
+   },
+   "setting_audio_both": {
+      "description": "",
+      "message": "使用电话和Voip"
+   },
+   "setting_audio_tel": {
+      "description": "",
+      "message": "只使用电话"
+   },
+   "setting_audio_voip": {
+      "description": "",
+      "message": "只使用Voip"
+   },
+   "setting_cancel": {
+      "description": "",
+      "message": "Cancel"
+   },
+   "setting_h1": {
+      "description": "",
+      "message": "Zoom Extension Options"
+   },
+   "setting_myself": {
+      "description": "",
+      "message": "Myself"
+   },
+   "setting_opts": {
+      "description": "",
+      "message": "会议选项"
+   },
+   "setting_opts_althost": {
+      "description": "",
+      "message": "Alternative hosts"
+   },
+   "setting_opts_errtext": {
+      "description": "",
+      "message": "Enter valid domains. Separate multiple domains by semicolon"
+   },
+   "setting_opts_jbh": {
+      "description": "",
+      "message": "允许在主持人入会之前加入"
+   },
+   "setting_opts_manulpwd": {
+      "description": "",
+      "message": "Manually input password"
+   },
+   "setting_opts_pmi": {
+      "description": "",
+      "message": "Use Personal Meeting ID "
+   },
+   "setting_opts_randpwd": {
+      "description": "",
+      "message": "Random password"
+   },
+   "setting_opts_requirepwd": {
+      "description": "",
+      "message": "设置会议密码"
+   },
+   "setting_opts_sign1": {
+      "description": "",
+      "message": "Only signed-in users can join meetings"
+   },
+   "setting_opts_sign2": {
+      "description": "",
+      "message": "Only signed-in users with specified domains can join meetings"
+   },
+   "setting_pac": {
+      "description": "",
+      "message": "Personal Audio Conference"
+   },
+   "setting_pac_account1": {
+      "description": "",
+      "message": "Account 1"
+   },
+   "setting_pac_account2": {
+      "description": "",
+      "message": "Account 2"
+   },
+   "setting_pac_dailin": {
+      "description": "",
+      "message": "Dedicated Dail-In Numbers"
+   },
+   "setting_pac_dailin2": {
+      "description": "",
+      "message": "Global Dial-In Numbers"
+   },
+   "setting_pac_mtgid": {
+      "description": "",
+      "message": "Meeting ID"
+   },
+   "setting_save_change": {
+      "description": "",
+      "message": "Save Changes"
+   },
+   "setting_schedulefor": {
+      "description": "",
+      "message": "Schedule For"
+   },
+   "setting_title": {
+      "description": "",
+      "message": "Zoom Extension Settings"
+   },
+   "setting_video": {
+      "description": "",
+      "message": "视频选项"
+   },
+   "setting_video_host": {
+      "description": "",
+      "message": "主持人"
+   },
+   "setting_video_off": {
+      "description": "",
+      "message": "关闭"
+   },
+   "setting_video_on": {
+      "description": "",
+      "message": "打开"
+   },
+   "setting_video_participant": {
+      "description": "",
+      "message": "参会者"
+   }
+}

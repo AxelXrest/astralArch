@@ -1,0 +1,170 @@
+{
+   "popup_loading": {
+      "description": "",
+      "message": "Loading"
+   },
+   "popup_schedule": {
+      "description": "",
+      "message": "Schedule a Meeting"
+   },
+   "popup_setting": {
+      "description": "",
+      "message": "Settings"
+   },
+   "popup_signin": {
+      "description": "",
+      "message": "Sign In with Google"
+   },
+   "popup_signout": {
+      "description": "",
+      "message": "Sign Out"
+   },
+   "popup_start": {
+      "description": "",
+      "message": "Start a Meeting"
+   },
+   "popup_title": {
+      "description": "",
+      "message": "Zoom Chrome Extension"
+   },
+   "popup_videooff": {
+      "description": "",
+      "message": "With Video Off"
+   },
+   "popup_videoon": {
+      "description": "",
+      "message": "With Video On"
+   },
+   "setting_alloweach": {
+      "description": "",
+      "message": "Allow me to choose each time"
+   },
+   "setting_audio": {
+      "description": "",
+      "message": "Audio"
+   },
+   "setting_audio_3rd": {
+      "description": "",
+      "message": "3rd Party Audio"
+   },
+   "setting_audio_both": {
+      "description": "",
+      "message": "Both"
+   },
+   "setting_audio_tel": {
+      "description": "",
+      "message": "Telephone"
+   },
+   "setting_audio_voip": {
+      "description": "",
+      "message": "Computer Audio"
+   },
+   "setting_cancel": {
+      "description": "",
+      "message": "Cancel"
+   },
+   "setting_h1": {
+      "description": "",
+      "message": "Zoom Extension Options"
+   },
+   "setting_myself": {
+      "description": "",
+      "message": "Myself"
+   },
+   "setting_opts": {
+      "description": "",
+      "message": "Options"
+   },
+   "setting_opts_althost": {
+      "description": "",
+      "message": "Alternative hosts"
+   },
+   "setting_opts_errtext": {
+      "description": "",
+      "message": "Enter valid domains. Separate multiple domains by semicolon"
+   },
+   "setting_opts_jbh": {
+      "description": "",
+      "message": "Enable join before host"
+   },
+   "setting_opts_manulpwd": {
+      "description": "",
+      "message": "Manually input password"
+   },
+   "setting_opts_pmi": {
+      "description": "",
+      "message": "Use Personal Meeting ID "
+   },
+   "setting_opts_randpwd": {
+      "description": "",
+      "message": "Random password"
+   },
+   "setting_opts_requirepwd": {
+      "description": "",
+      "message": "Require meeting password"
+   },
+   "setting_opts_sign1": {
+      "description": "",
+      "message": "Only signed-in users can join meetings"
+   },
+   "setting_opts_sign2": {
+      "description": "",
+      "message": "Only signed-in users with specified domains can join meetings"
+   },
+   "setting_pac": {
+      "description": "",
+      "message": "Personal Audio Conference"
+   },
+   "setting_pac_account1": {
+      "description": "",
+      "message": "Account 1"
+   },
+   "setting_pac_account2": {
+      "description": "",
+      "message": "Account 2"
+   },
+   "setting_pac_dailin": {
+      "description": "",
+      "message": "Dedicated Dail-In Numbers"
+   },
+   "setting_pac_dailin2": {
+      "description": "",
+      "message": "Global Dial-In Numbers"
+   },
+   "setting_pac_mtgid": {
+      "description": "",
+      "message": "Meeting ID"
+   },
+   "setting_save_change": {
+      "description": "",
+      "message": "Save Changes"
+   },
+   "setting_schedulefor": {
+      "description": "",
+      "message": "Schedule For"
+   },
+   "setting_title": {
+      "description": "",
+      "message": "Zoom Extension Settings"
+   },
+   "setting_video": {
+      "description": "",
+      "message": "Video"
+   },
+   "setting_video_host": {
+      "description": "",
+      "message": "Host"
+   },
+   "setting_video_off": {
+      "description": "",
+      "message": "Off"
+   },
+   "setting_video_on": {
+      "description": "",
+      "message": "On"
+   },
+   "setting_video_participant": {
+      "description": "",
+      "message": "Participant"
+   }
+}

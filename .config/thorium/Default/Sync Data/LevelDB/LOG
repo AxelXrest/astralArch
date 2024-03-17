@@ -1,3 +1,3 @@
-2024/03/16-21:58:59.806 2261 Reusing MANIFEST /home/axel/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/03/16-21:58:59.807 2261 Recovering log #10
-2024/03/16-21:58:59.808 2261 Reusing old log /home/axel/.config/thorium/Default/Sync Data/LevelDB/000010.log 
+2024/03/17-10:21:15.267 826 Reusing MANIFEST /home/axel/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/03/17-10:21:15.298 826 Recovering log #10
+2024/03/17-10:21:15.997 826 Reusing old log /home/axel/.config/thorium/Default/Sync Data/LevelDB/000010.log 

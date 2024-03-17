@@ -1,3 +1,6 @@
-2024/03/16-21:59:01.608 2260 Reusing MANIFEST /home/axel/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
-2024/03/16-21:59:01.609 2260 Recovering log #46
-2024/03/16-21:59:01.609 2260 Reusing old log /home/axel/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000046.log 
+2024/03/17-10:21:25.362 826 Reusing MANIFEST /home/axel/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
+2024/03/17-10:21:25.472 826 Recovering log #46
+2024/03/17-10:21:25.920 826 Reusing old log /home/axel/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000046.log 
+2024/03/17-10:21:37.416 83c Level-0 table #50: started
+2024/03/17-10:21:37.667 83c Level-0 table #50: 5232596 bytes OK
+2024/03/17-10:21:37.908 83c Delete type=0 #46

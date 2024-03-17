@@ -1,3 +1,3 @@
-2024/03/16-21:58:35.917 2058 Reusing MANIFEST /home/axel/.config/thorium/Default/shared_proto_db/metadata/MANIFEST-000001
-2024/03/16-21:58:35.918 2058 Recovering log #3
-2024/03/16-21:58:35.918 2058 Reusing old log /home/axel/.config/thorium/Default/shared_proto_db/metadata/000003.log 
+2024/03/16-22:58:03.535 9330 Reusing MANIFEST /home/axel/.config/thorium/Default/shared_proto_db/metadata/MANIFEST-000001
+2024/03/16-22:58:03.539 9330 Recovering log #3
+2024/03/16-22:58:03.539 9330 Reusing old log /home/axel/.config/thorium/Default/shared_proto_db/metadata/000003.log 

@@ -1,3 +1,6 @@
-2024/03/16-21:58:35.833 4 Reusing MANIFEST /home/axel/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
-2024/03/16-21:58:35.841 4 Recovering log #10
-2024/03/16-21:58:35.844 4 Reusing old log /home/axel/.config/thorium/Default/Local Storage/leveldb/000010.log 
+2024/03/16-22:58:03.450 4 Reusing MANIFEST /home/axel/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/03/16-22:58:03.453 4 Recovering log #10
+2024/03/16-22:58:03.454 4 Reusing old log /home/axel/.config/thorium/Default/Local Storage/leveldb/000010.log 
+2024/03/16-23:30:06.516 4 Level-0 table #14: started
+2024/03/16-23:30:06.573 4 Level-0 table #14: 22615 bytes OK
+2024/03/16-23:30:06.642 4 Delete type=0 #10

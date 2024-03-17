@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the path to the wallpapers directory
-wallpapersDir="$HOME/.config/hypr/wallpapers"
+wallpapersDir="/home/axel/.config/hypr/wallpapers"
 
 # Enable nullglob to handle cases where no files match the pattern
 shopt -s nullglob
@@ -12,10 +12,9 @@ while true; do
     wallpapers=("$wallpapersDir"/*.jpg "$wallpapersDir"/*.png)
     # Check if the wallpapers array is empty
     if [ ${#wallpapers[@]} -eq 0 ]; then
-        echo "No wallpapers found in the directory: $wallpapersDir"
+        notify-send "No wallpapers found in the directory: $wallpapersDir"
         exit 1
     fi
-
     # Select a random wallpaper from the array
     selectedWallpaper="${wallpapers[RANDOM % ${#wallpapers[@]}]}"
 
@@ -23,7 +22,7 @@ while true; do
     current=$(basename "$selectedWallpaper")
 
     # Debugging output: Print selected wallpaper path
-    echo "Selected wallpaper: $selectedWallpaper"
+    notify-send "Wallpaper set: $selectedWallpaper"
     echo "Current: $current"
     # Update the wallpaper using the swww img command
     swww img "$selectedWallpaper"
@@ -31,6 +30,6 @@ while true; do
     # Execute color generation script
     "$HOME"/.config/ags/scripts/color_generation/colorgen.sh "$selectedWallpaper" --apply
 
-    # Delay for 1 hours before selecting the next wallpaper
-    sleep 45m
+    # Delay for 45 mins before selecting the next wallpaper
+    sleep 15m
 done

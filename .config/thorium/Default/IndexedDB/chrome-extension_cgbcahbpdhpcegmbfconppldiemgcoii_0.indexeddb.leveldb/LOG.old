@@ -1,3 +1,3 @@
-2024/03/16-21:58:38.160 2040 Reusing MANIFEST /home/axel/.config/thorium/Default/IndexedDB/chrome-extension_cgbcahbpdhpcegmbfconppldiemgcoii_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/16-21:58:38.160 2040 Recovering log #3
-2024/03/16-21:58:38.186 2040 Reusing old log /home/axel/.config/thorium/Default/IndexedDB/chrome-extension_cgbcahbpdhpcegmbfconppldiemgcoii_0.indexeddb.leveldb/000003.log 
+2024/03/16-22:58:05.322 9320 Reusing MANIFEST /home/axel/.config/thorium/Default/IndexedDB/chrome-extension_cgbcahbpdhpcegmbfconppldiemgcoii_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-22:58:05.322 9320 Recovering log #3
+2024/03/16-22:58:05.336 9320 Reusing old log /home/axel/.config/thorium/Default/IndexedDB/chrome-extension_cgbcahbpdhpcegmbfconppldiemgcoii_0.indexeddb.leveldb/000003.log 

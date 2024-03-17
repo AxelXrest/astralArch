@@ -1,0 +1,170 @@
+{
+   "popup_loading": {
+      "description": "",
+      "message": "Chargement en cours"
+   },
+   "popup_schedule": {
+      "description": "",
+      "message": "Programmer une réunion"
+   },
+   "popup_setting": {
+      "description": "",
+      "message": "Paramètres"
+   },
+   "popup_signin": {
+      "description": "",
+      "message": "Sign In with Google"
+   },
+   "popup_signout": {
+      "description": "",
+      "message": "SE DÉCONNECTER"
+   },
+   "popup_start": {
+      "description": "",
+      "message": "Commencer une réunion"
+   },
+   "popup_title": {
+      "description": "",
+      "message": "Zoom Chrome Extension"
+   },
+   "popup_videooff": {
+      "description": "",
+      "message": "Avec la vidéo désactivée"
+   },
+   "popup_videoon": {
+      "description": "",
+      "message": "Avec la vidéo activée"
+   },
+   "setting_alloweach": {
+      "description": "",
+      "message": "Allow me to choose each time"
+   },
+   "setting_audio": {
+      "description": "",
+      "message": "Audio"
+   },
+   "setting_audio_3rd": {
+      "description": "",
+      "message": "Audio de tierce partie"
+   },
+   "setting_audio_both": {
+      "description": "",
+      "message": "Les deux"
+   },
+   "setting_audio_tel": {
+      "description": "",
+      "message": "Téléphone seulement"
+   },
+   "setting_audio_voip": {
+      "description": "",
+      "message": "VoIP seulement"
+   },
+   "setting_cancel": {
+      "description": "",
+      "message": "Cancel"
+   },
+   "setting_h1": {
+      "description": "",
+      "message": "Zoom Extension Options"
+   },
+   "setting_myself": {
+      "description": "",
+      "message": "Moi-même"
+   },
+   "setting_opts": {
+      "description": "",
+      "message": "Options"
+   },
+   "setting_opts_althost": {
+      "description": "",
+      "message": "Autres animateurs possibles "
+   },
+   "setting_opts_errtext": {
+      "description": "",
+      "message": "Saisissez des domaines valides. S’il y a plusieurs domaines, séparez-les avec des points-virgules"
+   },
+   "setting_opts_jbh": {
+      "description": "",
+      "message": "Ouvrir l’accès à la réunion avant l’arrivée de l’animateur"
+   },
+   "setting_opts_manulpwd": {
+      "description": "",
+      "message": "Manually input password"
+   },
+   "setting_opts_pmi": {
+      "description": "",
+      "message": "Use Personal Meeting ID "
+   },
+   "setting_opts_randpwd": {
+      "description": "",
+      "message": "Random password"
+   },
+   "setting_opts_requirepwd": {
+      "description": "",
+      "message": "Exiger le mot de passe de la réunion"
+   },
+   "setting_opts_sign1": {
+      "description": "",
+      "message": "Seuls les utilisateurs authentifiés peuvent se joindre aux réunions"
+   },
+   "setting_opts_sign2": {
+      "description": "",
+      "message": "Seuls les utilisateurs authentifiés avec des domaines spécifiques peuvent se joindre aux réunions"
+   },
+   "setting_pac": {
+      "description": "",
+      "message": "Conférence audio personnelle"
+   },
+   "setting_pac_account1": {
+      "description": "",
+      "message": "Account 1"
+   },
+   "setting_pac_account2": {
+      "description": "",
+      "message": "Account 2"
+   },
+   "setting_pac_dailin": {
+      "description": "",
+      "message": "Dedicated Dail-In Numbers"
+   },
+   "setting_pac_dailin2": {
+      "description": "",
+      "message": "Global Dial-In Numbers"
+   },
+   "setting_pac_mtgid": {
+      "description": "",
+      "message": "Meeting ID"
+   },
+   "setting_save_change": {
+      "description": "",
+      "message": "Save Changes"
+   },
+   "setting_schedulefor": {
+      "description": "",
+      "message": "Programmer pour "
+   },
+   "setting_title": {
+      "description": "",
+      "message": "Zoom Extension Settings"
+   },
+   "setting_video": {
+      "description": "",
+      "message": "Vidéo"
+   },
+   "setting_video_host": {
+      "description": "",
+      "message": "Animateur"
+   },
+   "setting_video_off": {
+      "description": "",
+      "message": "Désactivée"
+   },
+   "setting_video_on": {
+      "description": "",
+      "message": "Activée"
+   },
+   "setting_video_participant": {
+      "description": "",
+      "message": "Participant"
+   }
+}
