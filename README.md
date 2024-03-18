@@ -72,7 +72,6 @@ chmod +x install.sh
 * **The config was ~~stolen~~ inspired from [end-4](https://github.com/end-4/dots-hyprland.git).**<br>
 * **The Alacritty theme was taken from [alacritty theme repository](https://github.com/alacritty/alacritty-theme.git).**<br>
 * **Planning to add some integration done in [fufexan's config](https://github.com/kotontrion/dotfiles.git).**<br>
-<p><img src="(https://i.imgur.com/17djyaF.mp4)"/></p>
   **---**
 * #### Special thanks to:
 * [end-4](https://github.com/end-4)
@@ -80,4 +79,5 @@ chmod +x install.sh
 * [kotontrion](https://github.com/kotontrion)
 ---
 <p align="center"><b>That's it! Have a nice day!</b></p>
-<p><img src="https://imgur.com/gallery/nN9OqwO.gif"/></p>
+<p align="center"><img src="https://imgur.com/gallery/dBDqaqe"/></p>
+
