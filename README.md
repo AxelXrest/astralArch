@@ -1,5 +1,5 @@
 <img alt="picture 2" src="https://i.imgur.com/hrNbdfD.gif" />  
-<p align="center"><a href="#installation"><img alt="picture 2" src="https://i.imgur.com/Y7PKn7x.png" width="220"/></a><a href="#gallery"><img alt="picture 3" src="https://i.imgur.com/i9rmhBC.png" width="220"/></a><a href ="#support"><img alt="picture 1" src="https://i.imgur.com/LLIkH4D.png" width="220"/></a><a href="#credits"><img alt="picture 5" src="https://i.imgur.com/QA23l5X.png" width="220"/></a><a href="#tips"><img alt="picture 4" src="https://i.imgur.com/cg3KPZc.png" width="220"/></a></p>
+<p align="center"><a href="#installation"><img alt="picture 2" src="https://i.imgur.com/Y7PKn7x.png" width="220"/></a><a href="#gallery"><img alt="picture 3" src="https://i.imgur.com/i9rmhBC.png" width="220"/></a><a href="#credits"><img alt="picture 5" src="https://i.imgur.com/QA23l5X.png" width="220"/></a></p>
 
 
 <p align="center"><img src="https://img.shields.io/github/stars/AxelXrest/astralArch?color=%231a1b26&label=STARGAZERS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/forks/AxelXrest/astralArch?color=%231a1b26&label=FORKS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/issues/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/license/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/></p>
@@ -69,9 +69,9 @@ chmod +x install.sh
 
 * **The wallpapers have been taken from [Wallhaven](https://wallhaven.cc), [pexels](https://pexels.com).**<br>
 * **The config was ~~stolen~~ inspired from [end-4](https://github.com/end-4/dots-hyprland.git).**<br>
-* **The Alacritty theme was taken from [alacritty theme repository](https://github.com/alacritty/alacritty-theme.git)
-* **Planning to add some integration done in [fufexan's config](https://github.com/kotontrion/dotfiles.git)
-* **---
+* **The Alacritty theme was taken from [alacritty theme repository](https://github.com/alacritty/alacritty-theme.git).**<br>
+* **Planning to add some integration done in [fufexan's config](https://github.com/kotontrion/dotfiles.git).**<br>
+  **---**
 * #### Special thanks to:
 * [end-4](https://github.com/end-4)
 * [Aylur](https://github.com/Aylur)
