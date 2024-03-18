@@ -5,8 +5,8 @@
 <p align="center"><img src="https://img.shields.io/github/stars/AxelXrest/astralArch?color=%231a1b26&label=STARGAZERS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/forks/AxelXrest/astralArch?color=%231a1b26&label=FORKS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/issues/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/license/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/></p>
 
 ### Thanks for Visiting! 
+<p><img src="https://imgur.com/gallery/8qe1upv"/></p>
 Welcome to my GitHub repository of personal dotfiles! These are beautifully created with usability and aestheticism kept in mind. Feel free to explore it, use it or ~~steal~~ copy it, but please give me the credits 😃. If you need any help, you can open an issue on GitHub or you can contact me on Discord: `Syndrizzle#3826`, I will be happy to help!
-<p><img src="https://images.app.goo.gl/qg8g89SQjDBa2raR7"/></p>
 
 #### 2. ✨ The AstralArch ✨
 
@@ -80,3 +80,4 @@ chmod +x install.sh
 * [kotontrion](https://github.com/kotontrion)
 ---
 <p align="center"><b>That's it! Have a nice day!</b></p>
+<p><img src="https://imgur.com/gallery/nN9OqwO"/></p>
