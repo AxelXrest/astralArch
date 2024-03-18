@@ -6,6 +6,7 @@
 
 ### Thanks for Visiting! 
 Welcome to my GitHub repository of personal dotfiles! These are beautifully created with usability and aestheticism kept in mind. Feel free to explore it, use it or ~~steal~~ copy it, but please give me the credits 😃. If you need any help, you can open an issue on GitHub or you can contact me on Discord: `Syndrizzle#3826`, I will be happy to help!
+<p><img src="https://images.app.goo.gl/qg8g89SQjDBa2raR7"/></p>
 
 #### 2. ✨ The AstralArch ✨
 
@@ -71,6 +72,7 @@ chmod +x install.sh
 * **The config was ~~stolen~~ inspired from [end-4](https://github.com/end-4/dots-hyprland.git).**<br>
 * **The Alacritty theme was taken from [alacritty theme repository](https://github.com/alacritty/alacritty-theme.git).**<br>
 * **Planning to add some integration done in [fufexan's config](https://github.com/kotontrion/dotfiles.git).**<br>
+<p><img src="https://imgur.com/gallery/U26uE"/></p>
   **---**
 * #### Special thanks to:
 * [end-4](https://github.com/end-4)
