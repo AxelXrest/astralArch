@@ -1,11 +1,10 @@
 <img alt="picture 2" src="https://i.imgur.com/hrNbdfD.gif" />  
 <p align="center"><a href="#installation"><img alt="picture 2" src="https://i.imgur.com/Y7PKn7x.png" width="220"/></a><a href="#gallery"><img alt="picture 3" src="https://i.imgur.com/i9rmhBC.png" width="220"/></a><a href="#credits"><img alt="picture 5" src="https://i.imgur.com/QA23l5X.png" width="220"/></a></p>
 
-
 <p align="center"><img src="https://img.shields.io/github/stars/AxelXrest/astralArch?color=%231a1b26&label=STARGAZERS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/forks/AxelXrest/astralArch?color=%231a1b26&label=FORKS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/issues/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/license/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/></p>
 
 ### Thanks for Visiting! 
-<p><img src="https://imgur.com/gallery/8qe1upv"/></p>
+<p><img src="https://i.imgur.com/8qe1upv.gif"/></p>
 Welcome to my GitHub repository of personal dotfiles! These are beautifully created with usability and aestheticism kept in mind. Feel free to explore it, use it or ~~steal~~ copy it, but please give me the credits 😃. If you need any help, you can open an issue on GitHub or you can contact me on Discord: `Syndrizzle#3826`, I will be happy to help!
 
 #### 2. ✨ The AstralArch ✨
@@ -79,5 +78,5 @@ chmod +x install.sh
 * [kotontrion](https://github.com/kotontrion)
 ---
 <p align="center"><b>That's it! Have a nice day!</b></p>
-<p align="center"><img src="https://imgur.com/gallery/dBDqaqe"/></p>
+<p align="center"><img src="https://i.imgur.com/nN9OqwO.gif"/></p>
 
