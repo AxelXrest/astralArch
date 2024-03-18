@@ -2,7 +2,12 @@
 <a align="center"><img src="https://i.imgur.com/6ShrAy4.gif"/></a>
 <p align="center"><a href="#installation"><img alt="picture 2" src="https://i.imgur.com/Y7PKn7x.png" width="220"/></a><a href="#gallery"><img alt="picture 3" src="https://i.imgur.com/i9rmhBC.png" width="220"/></a><a href="#credits"><img alt="picture 5" src="https://i.imgur.com/QA23l5X.png" width="220"/></a></p>
 
-<p align="center"><img src="https://img.shields.io/github/stars/AxelXrest/astralArch?color=%231a1b26&label=STARGAZERS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/forks/AxelXrest/astralArch?color=%231a1b26&label=FORKS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/issues/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/license/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/></p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/AxelXrest/astralArch?color=%231a1b26&label=STARGAZERS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/forks/AxelXrest/astralArch?color=%231a1b26&label=FORKS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/issues/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/license/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/>
+</p>
 
 ### Thanks for Visiting!
 
