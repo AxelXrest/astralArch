@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" width="750" height="300" alt="banner">
+<h1 align="center">Astral Arch</h1>
+<a align="center"><img src="https://i.imgur.com/6ShrAy4.gif"/></a>
 <p align="center"><a href="#installation"><img alt="picture 2" src="https://i.imgur.com/Y7PKn7x.png" width="220"/></a><a href="#gallery"><img alt="picture 3" src="https://i.imgur.com/i9rmhBC.png" width="220"/></a><a href="#credits"><img alt="picture 5" src="https://i.imgur.com/QA23l5X.png" width="220"/></a></p>
 
-<p align="center"><img src="[https://img.shields.io/github.com/AxelXrest/astralArch/stargazers?color=%231a1b26&label=STARGAZERS&labelColor=%231a1b26&style=for-the-badge](https://img.shields.io/github/stars/AxelXrest/astralArch?color=%231a1b26&label=STARGAZERS&labelColor=%231a1b26&style=for-the-badge
-)"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/forks/AxelXrest/astralArch?color=%231a1b26&label=FORKS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/issues/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/license/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/></p>
+<p align="center"><img src="https://img.shields.io/github/stars/AxelXrest/astralArch?color=%231a1b26&label=STARGAZERS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/forks/AxelXrest/astralArch?color=%231a1b26&label=FORKS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/issues/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/license/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/></p>
 
-### Thanks for Visiting! 
-<p><img src="https://i.imgur.com/8qe1upv.gif"/></p>
-Welcome to my GitHub repository of personal dotfiles! These are beautifully created with usability and aestheticism kept in mind. Feel free to explore it, use it or ~~steal~~ copy it, but please give me the credits 😃. If you need any help, you can open an issue on GitHub or you can contact me on Discord: `Syndrizzle#3826`, I will be happy to help!
+### Thanks for Visiting!
+<a align="center"><img src="https://i.imgur.com/8qe1upv.gif"/></a>
+Welcome to my GitHub repository of personal dotfile! This was made in Arch Linux so please make sure you are using Arch or try configuring yourself for your device. These are beautifully created with usability and aestheticism kept in mind. Feel free to explore it, use it or ~~steal~~ copy it, but please give me the credits 😃. If you need any help, you can open an issue on GitHub or you can contact me on Discord: `Syndrizzle#3826`, I will be happy to help!
 
 #### 2. ✨ The AstralArch ✨
 
@@ -68,7 +68,7 @@ chmod +x install.sh
 
 ## Credits:
 
-* **The wallpapers have been taken from [Wallhaven](https://wallhaven.cc), [pexels](https://pexels.com).**<br>
+* **The wallpapers have been taken from [Wallhaven](https://wallhaven.cc), [pexels](https://pexels.com), [UHD Wallpaper](https://www.uhdpaper.com/), [Wallpaperflare](https://www.wallpaperflare.com/), [pixiv](https://www.pixiv.net/en/).**<br>
 * **The config was ~~stolen~~ inspired from [end-4](https://github.com/end-4/dots-hyprland.git).**<br>
 * **The Alacritty theme was taken from [alacritty theme repository](https://github.com/alacritty/alacritty-theme.git).**<br>
 * **Planning to add some integration done in [fufexan's config](https://github.com/kotontrion/dotfiles.git).**<br>
