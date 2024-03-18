@@ -11,8 +11,10 @@ Welcome to my GitHub repository of personal dotfile! This was made in Arch Linux
 **THE COLOR SCHEME CHANGES DEPENDING UPON THE WALLPAPER SELECTED**<br>
 *(default shortcut to change wallpaper is: CTRL+🪟+T)*
 
-📓 **NOTE:** This dotfile is meant to be *more feature oriented **than** visually pleasing*, so if you are searching for that kind, then sadly this isn't it.
-  
+📓 **NOTE:**<br> 
+* This dotfile is meant to be *more feature oriented **than** visually pleasing*, so if you are searching for that kind, then sadly this isn't it.
+* I haven't used any greeter/login manager, rather made a script, to auto-login and start Hyprland in startup.
+
 #### 2. ✨ The AstralArch ✨
 
 ### About:
