@@ -5,6 +5,7 @@
 <p align="center"><img src="https://img.shields.io/github/stars/AxelXrest/astralArch?color=%231a1b26&label=STARGAZERS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/forks/AxelXrest/astralArch?color=%231a1b26&label=FORKS&labelColor=%231a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/issues/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/license/AxelXrest/astralArch?color=1a1b26&labelColor=1a1b26&style=for-the-badge"/></p>
 
 ### Thanks for Visiting!
+
 <a align="center"><img src="https://i.imgur.com/8qe1upv.gif"/></a><br>
 Welcome to my GitHub repository of personal dotfile! This was made in Arch Linux so please make sure you are using Arch or try configuring yourself for your device. These are beautifully created with usability and aestheticism kept in mind. Feel free to explore it, use it or ~~steal~~ copy it, but please give me the credits 😃. If you need any help, you can open an issue on GitHub or you can contact me on Discord: `mr.xrest`, I will be happy to help!
 
@@ -18,6 +19,7 @@ Welcome to my GitHub repository of personal dotfile! This was made in Arch Linux
 #### 2. ✨ The AstralArch ✨
 
 ### About:
+
 * **Foot & Alacritty** as the terminal.
 * **Hyprland** as the window manager.
 * **AGS** as the widgets [Player and System Menu]
@@ -28,6 +30,9 @@ Welcome to my GitHub repository of personal dotfile! This was made in Arch Linux
 
 ---
 ## Installation:
+
+Once Again this configuration and script is made specifically for **ARCH distribution.**
+Please be careful trying on your system. **"I can't assure you that it will be effective, but I'll try to help as best I can."**
 Below are the installation steps to install the dotfiles of my setup.
 
 <details>
@@ -48,6 +53,7 @@ chmod +x install.sh
 </details>
 
 ## Gallery:
+
 <h3 align="left">The Desktop:</h3>
 <p align="center"><img src="https://i.imgur.com/DlHxS6z.png" width="1200"/></p>
 <h3 align="left">Control Center, Notification & Calenda:</h3>
@@ -71,6 +77,8 @@ chmod +x install.sh
 <h4 align="center">Waifus powered by waifu.im</h4>
 <p align="center"><img src="https://i.imgur.com/CKbHxGS.png" width="1200"/></p>
 <h4 align="center">Other AI's: ChatGPT by OpenAI, Oxygen, ZukiJourney, Anime Booru</h4>
+<h3 align="left">Tools(Updates and Color Picker)</h3>
+<p align="center"><img src="https://i.imgur.com/eF06KQU.png" width="1200"/></p>
 
 ## Credits:
 
