@@ -1,4 +1,4 @@
-const { Gtk } = imports.gi;
+const { Gtk, Gio } = imports.gi;
 import App from 'resource:///com/github/Aylur/ags/app.js';
 import Widget from 'resource:///com/github/Aylur/ags/widget.js';
 import * as Utils from 'resource:///com/github/Aylur/ags/utils.js';
@@ -11,19 +11,19 @@ import { ConfigToggle, ConfigSegmentedSelection, ConfigGap } from '../../.common
 import { markdownTest } from '../../.miscutils/md2pango.js';
 import { MarginRevealer } from '../../.widgethacks/advancedrevealers.js';
 
-const MODEL_NAME = `Gemini`;
+const MODEL_NAME = `JARVIS`;
 
 export const geminiTabIcon = Icon({
     hpack: 'center',
     className: 'sidebar-chat-apiswitcher-icon',
-    icon: `google-gemini-symbolic`,
+    icon: `jarvis-gemini-symbolic`,
 })
 
 const GeminiInfo = () => {
     const geminiLogo = Icon({
         hpack: 'center',
         className: 'sidebar-chat-welcome-logo',
-        icon: `google-gemini-symbolic`,
+        icon: `jarvis-gemini-symbolic`,
     });
     return Box({
         vertical: true,
@@ -44,7 +44,7 @@ const GeminiInfo = () => {
                         className: 'txt-smallie txt-subtext',
                         wrap: true,
                         justify: Gtk.Justification.CENTER,
-                        label: 'Powered by AXEL',
+                        label: 'Changes for AXEL',
                     }),
                     Button({
                         className: 'txt-subtext txt-norm icon-material',
@@ -197,6 +197,7 @@ export const sendMessage = (text) => {
         text = '';
         return;
     }
+    
     // Commands
     if (text.startsWith('/')) {
         if (text.startsWith('/clear')) clearChat();
