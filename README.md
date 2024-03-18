@@ -77,6 +77,7 @@ chmod +x install.sh
 * **The wallpapers have been taken from [Wallhaven](https://wallhaven.cc), [pexels](https://pexels.com), [UHD Wallpaper](https://www.uhdpaper.com/), [Wallpaperflare](https://www.wallpaperflare.com/), [pixiv](https://www.pixiv.net/en/).**<br>
 * **The config was ~~stolen~~ inspired from [end-4](https://github.com/end-4/dots-hyprland.git).**<br>
 * **The Alacritty theme was taken from [alacritty theme repository](https://github.com/alacritty/alacritty-theme.git).**<br>
+* **Used shell [Oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh.git) for [Alacritty](https://github.com/alacritty/alacritty.git) and [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish.git) for [Foot](https://codeberg.org/dnkl/foot.git).**<br>
 * **The zsh theme used in alacritty is [powerlevel10k](https://github.com/romkatv/powerlevel10k.git) by [romkatv](https://github.com/romkatv) .**<br>
 * **~~Planning to add some integration done in [fufexan's config](https://github.com/kotontrion/dotfiles.git).~~**<br>
   **---**
