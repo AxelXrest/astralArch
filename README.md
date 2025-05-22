@@ -1,3 +1,10 @@
+<h1 align="center">⚠️ This Project is NOT Maintained ⚠️</h1>
+<p align="center" style="color:red; font-weight:bold;">
+  <strong>
+    Use at your own risk. This setup is experimental and was tailored for a specific system.<br>
+    Proceed only if you know what you're doing. No hand-holding. No guarantees. Just vibes.
+  </strong>
+</p>
 <h1 align="center">Astral Arch</h1>
 <a align="center"><img src="https://i.imgur.com/6ShrAy4.gif"/></a>
 <p align="center"><a href="#installation"><img alt="picture 2" src="https://i.imgur.com/Y7PKn7x.png" width="220"/></a><a href="#gallery"><img alt="picture 3" src="https://i.imgur.com/i9rmhBC.png" width="220"/></a><a href="#credits"><img alt="picture 5" src="https://i.imgur.com/QA23l5X.png" width="220"/></a></p>
